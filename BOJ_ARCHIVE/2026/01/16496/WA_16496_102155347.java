@@ -1,0 +1,72 @@
+/**
+ * [BOJ] 16496 - 큰 수 만들기
+ * - 제출 날짜: 2026년 1월 21일
+ * - 결과: 틀렸습니다
+ */
+
+import java.util.*;
+import java.io.*;
+
+class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder sb = new StringBuilder();
+        
+        int n = Integer.parseInt(br.readLine());
+        ArrayList<String> list = inputList(n, br);
+
+        solve(list, 0, sb);
+        System.out.println(sb.toString().charAt(0) == '0' ? 0 : sb);
+    }
+
+    private static ArrayList<String> inputList(int n, BufferedReader br) throws IOException {
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        ArrayList<String> list = new ArrayList<>();
+        for(int i = 0; i < n; i++) {
+            list.add(st.nextToken());
+        }
+        return list;
+    }
+
+    private static void solve(ArrayList<String> list, int idx, StringBuilder sb) throws IOException {
+        Map<Integer, ArrayList<String>> map = new HashMap<>();
+
+        for(String s : list) {
+            int num = s.charAt(Math.min(idx, s.length()-1)) - '0';
+            if(!map.containsKey(num)) {
+                map.put(num, new ArrayList<>());
+            }
+            map.get(num).add(s);
+        }
+
+        for(int i = 9; i >= 0; i--) {
+            if(!map.containsKey(i)) continue;
+            if(check(map.get(i), idx)) printList(map.get(i), sb);
+            else solve(map.get(i), idx + 1, sb);
+        }
+    }
+
+    private static boolean check(ArrayList<String> list, int len) {
+        for(String l : list) {
+            if(l.length() >= len) return false;
+        }
+        return true;
+    }
+
+    private static void printList(ArrayList<String> list, StringBuilder sb) throws IOException {
+        Collections.sort(list, (a, b) -> Integer.compare(a.length(), b.length()));
+        StringBuilder sb1 = new StringBuilder();
+        StringBuilder sb2 = new StringBuilder();
+        for(int i = 0, j = list.size() - 1; i < list.size(); i++, j--) {
+            sb1.append(list.get(i));
+            sb2.append(list.get(j));
+        }
+        
+        if(sb1.toString().compareTo(sb2.toString()) > 0) {
+            sb.append(sb1.toString());
+        }
+        else {
+            sb.append(sb2.toString());
+        }
+    }
+}

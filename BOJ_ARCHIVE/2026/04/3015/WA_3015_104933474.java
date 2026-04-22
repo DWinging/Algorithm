@@ -1,0 +1,57 @@
+/**
+ * [BOJ] 3015 - 오아시스 재결합
+ * - 제출 날짜: 2026년 4월 11일
+ * - 결과: 틀렸습니다
+ */
+
+import java.util.*;
+import java.io.*;
+
+import java.io.*;
+
+public class Main {
+
+    static int c;
+
+    public static void main(String[] args) throws IOException {
+        c = System.in.read();
+        int n = readInt();
+        System.out.println(solve(n));
+    }
+
+    private static int solve(int n) throws IOException {
+        int[] stack = new int[n];
+        int[] cnt = new int[n];
+        int top = -1, comb = 0;
+        while(n-- > 0) {
+            int val = readInt();
+            int temp = 1;
+            while(top > -1) {
+                if(val > stack[top]) {
+                    comb += cnt[top];
+                    top--;
+                } else if(val == stack[top]) {
+                    comb += cnt[top--];
+                    temp++;
+                } else {
+                    comb++;
+                    break;
+                }
+            }
+
+            stack[++top] = val;
+            cnt[top] = temp;
+        }
+        return comb;
+    }
+
+    private static int readInt() throws IOException {
+        while(c <= ' ') c = System.in.read();
+        int n = 0;
+        while(c >= '0' && c <= '9') {
+            n = (n << 3) + (n << 1) + (c & 15);
+            c = System.in.read();
+        }
+        return n;
+    }
+}

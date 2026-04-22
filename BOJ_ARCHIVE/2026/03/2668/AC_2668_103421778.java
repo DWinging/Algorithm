@@ -1,0 +1,82 @@
+/**
+ * [BOJ] 2668 - 숫자고르기
+ * - 제출 날짜: 2026년 3월 2일
+ * - 결과: 맞았습니다!!
+ * - 메모리: 11444 KB
+ * - 시간: 60 ms
+ */
+
+import java.util.*;
+import java.io.*;
+
+import java.io.*;
+
+public class Main {
+
+    final static int INF = 105;
+    static int[] arr, select;
+    static int c;
+
+    public static void main(String[] args) throws IOException {
+        c = System.in.read();
+        int n = readInt();
+        inputArray(n);
+        System.out.print(solve(n) + "\n" + buildString(n));
+    }
+
+    private static void inputArray(int n) throws IOException {
+        arr = new int[n + 1];
+        select = new int[n + 1];
+        for(int i = 1; i <= n; i++) arr[i] = readInt();
+    }
+
+    private static int solve(int n) {
+        int cnt = 0;
+        for(int i = 1; i <= n; i++) {
+            if(select[i] > 0) continue;
+            int cycle = checkCycle(i, i);
+            if(cycle > 0) cnt += cycle;
+        }
+        return cnt;
+    }
+
+    private static int checkCycle(int num, int mark) {
+        int idx = num;
+        while(select[idx] == 0) {
+            select[idx] = mark;
+            idx = arr[idx];
+        }
+
+        int cnt = 0;
+        if(select[idx] == mark) {
+            int start = idx;
+            idx = arr[start];
+            select[idx] = INF;
+            cnt = 1;
+            while(idx != start) {
+                idx = arr[idx];
+                select[idx] = INF;
+                cnt++;
+            }
+        }
+        return cnt;
+    }
+
+    private static String buildString(int n) {
+        StringBuilder sb = new StringBuilder();
+        for(int i = 1; i <= n; i++) {
+            if(select[i] == INF) sb.append(i).append('\n');
+        }
+        return sb.toString();
+    }
+
+    private static int readInt() throws IOException {
+        while(c <= ' ') c = System.in.read();
+        int n = 0;
+        while(c >= '0' && c <= '9') {
+            n = (n << 3) + (n << 1) + (c & 15);
+            c = System.in.read();
+        }
+        return n;
+    }
+}
