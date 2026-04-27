@@ -2,13 +2,11 @@
  * [BOJ] 28325 - 호숫가의 개미굴
  * - 제출 날짜: 2026년 4월 7일
  * - 결과: 100점
- * - 메모리: 13076 KB
- * - 시간: 144 ms
+ * - 메모리: 12004 KB
+ * - 시간: 156 ms
  */
 
 import java.util.*;
-import java.io.*;
-
 import java.io.*;
 
 class Main {
@@ -22,31 +20,33 @@ class Main {
     }
     
     private static long solve(int n) throws IOException {
-        int[] stack = new int[n];
-        int top = -1, cnt = 0, total = n;
-
-        long antCount = 0L, room = 0L;
+        long antCount = 0L;
+        int firstCnt = -1, currentCnt = 0;
+        
         while(n-- > 0) {
-            room = readLong();
+            long room = readLong();
             // 쪽방이 있는 경우
             if(room > 0) {
                 antCount += room;
-                stack[++top] = cnt;
-                cnt = 0;
+                if(firstCnt == -1) {
+                    firstCnt = currentCnt;
+                } else {
+                    antCount += (currentCnt + 1) >> 1;
+                }
+                currentCnt = 0;
             } 
             // 쪽방이 없는 경우
             else {
-                cnt++;
+                currentCnt++;
             }
         }
-        
-        if(cnt == total) return cnt >> 1;
-        else stack[0] += cnt;
 
-        for(int i = 0; i <= Math.max(top, 0); i++) {
-            antCount += (stack[i] + 1) >> 1;
+        if(firstCnt == -1) {
+            return currentCnt >> 1;
+        } else {
+            antCount += (firstCnt + currentCnt + 1) >> 1; 
+            return antCount;
         }
-        return antCount;
     }
 
     private static int readInt() throws IOException {
