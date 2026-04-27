@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01000" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01306" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01517" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01700" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01818" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01960" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02283" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02550" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02616" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02638" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02749" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03066" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03109" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03144" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03745" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10564" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10830" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11003" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11444" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11559" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13703" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13976" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14626" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14725" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14852" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15552" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16440" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16496" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18511" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18870" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21758" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25501" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/29756" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/32358" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
