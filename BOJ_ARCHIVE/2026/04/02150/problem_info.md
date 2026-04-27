@@ -1,12 +1,12 @@
-# [Unknown] 2150
+# [Strongly Connected Component] 2150
 
 ## 📊 문제 정보
 | 항목 | 내용 |
 | :--- | :--- |
-| 티어 |  |
+| 티어 | Platinum V |
 | 시간 제한 | 2 초 |
 | 메모리 제한 | 128 MB |
-| 알고리즘 | 등록된 분류가 없습니다. |
+| 알고리즘 | 그래프 이론, 강한 연결 요소 |
 | 링크 | [백준 바로가기](https://www.acmicpc.net/problem/2150) |
 
 ---
