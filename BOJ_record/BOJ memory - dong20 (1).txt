@@ -1,0 +1,1736 @@
+BOJ memory backup v1
+handle: dong20
+generated_at: 2026-04-28T07:28:32.190Z
+snapshot_sha256: 352f0a453d2bc87e0cdf72b77f9d1ec28df27e2b748fd35c32a076d7b5343828
+signature_algorithm: unavailable
+signature: unavailable
+
+[summary]
+solved.ac rank: 2763
+boj rank: unknown
+solved count: 810
+contribution count: 35
+rival count: 9
+max streak: 89
+ac rating: 2012
+over rating: 111126
+class: CLASS 6
+
+[tag_radar]
+math: rating 1114, solved 119
+implementation: rating 1393, solved 193
+greedy: rating 1405, solved 76
+string: rating 1021, solved 70
+data_structures: rating 1739, solved 178
+graphs: rating 1652, solved 212
+dp: rating 1458, solved 110
+geometry: rating 241, solved 19
+
+[integrity]
+This backup text is generated on the server.
+The canonical snapshot JSON below is the source of truth for hash/signature checks.
+If the canonical snapshot block is changed, integrity validation should fail.
+
+[canonical_snapshot_json]
+{
+  "generatedAt": "2026-04-28T07:28:32.190Z",
+  "handle": "dong20",
+  "payload": {
+    "background": {
+      "authors": [
+        {
+          "authorId": "havana723",
+          "authorUrl": null,
+          "displayName": "havana723",
+          "handle": "havana723",
+          "instagram": null,
+          "role": "Illustration",
+          "twitter": null
+        }
+      ],
+      "backgroundCategory": "event",
+      "backgroundId": "event260214_03",
+      "backgroundImageUrl": "https://static.solved.ac/profile_bg/profile/event260214_03-d7565526-3be1-4fcc-9cdd-28806fcb6ee9.png",
+      "backgroundVideoUrl": null,
+      "conditionsText": {
+        "text": "솔브드 엽서 북 특전으로 획득, 혹은 〈여덟 개의 문〉 이벤트 참가 보상으로 획득",
+        "type": "text"
+      },
+      "displayDescription": "",
+      "displayName": "밤하늘의 별과 엮어서",
+      "fallbackBackgroundImageUrl": null,
+      "hiddenConditions": false,
+      "isIllust": true,
+      "solvedCompanyRights": true,
+      "unlockedUserCount": 456
+    },
+    "badge": {
+      "badgeCategory": "achievement",
+      "badgeId": "lang-java",
+      "badgeImageUrl": "https://static.solved.ac/profile_badge/profile/lang-java-fdd84b4e-d8b1-4077-9c50-45ef43d01447.png",
+      "badgeTier": "bronze",
+      "createdAt": "2024-02-22T12:58:44.152Z",
+      "displayDescription": "Java 8, Java 8 (OpenJDK), Java 11, Java 15 중 하나의 언어로 아무 문제나 해결",
+      "displayName": "Java",
+      "hiddenConditions": false,
+      "solvedCompanyRights": true,
+      "unlockedUserCount": 50798
+    },
+    "bojStats": [],
+    "classStats": [
+      {
+        "class": 1,
+        "decoration": "gold",
+        "essentials": 16,
+        "essentialSolved": 16,
+        "total": 36,
+        "totalSolved": 36
+      },
+      {
+        "class": 2,
+        "decoration": "gold",
+        "essentials": 20,
+        "essentialSolved": 20,
+        "total": 40,
+        "totalSolved": 40
+      },
+      {
+        "class": 3,
+        "decoration": "gold",
+        "essentials": 20,
+        "essentialSolved": 20,
+        "total": 48,
+        "totalSolved": 48
+      },
+      {
+        "class": 4,
+        "decoration": "silver",
+        "essentials": 24,
+        "essentialSolved": 24,
+        "total": 48,
+        "totalSolved": 44
+      },
+      {
+        "class": 5,
+        "decoration": "none",
+        "essentials": 24,
+        "essentialSolved": 22,
+        "total": 48,
+        "totalSolved": 38
+      },
+      {
+        "class": 6,
+        "decoration": "none",
+        "essentials": 24,
+        "essentialSolved": 10,
+        "total": 48,
+        "totalSolved": 20
+      },
+      {
+        "class": 7,
+        "decoration": null,
+        "essentials": 24,
+        "essentialSolved": 4,
+        "total": 48,
+        "totalSolved": 8
+      },
+      {
+        "class": 8,
+        "decoration": null,
+        "essentials": 24,
+        "essentialSolved": 0,
+        "total": 48,
+        "totalSolved": 0
+      },
+      {
+        "class": 9,
+        "decoration": null,
+        "essentials": 24,
+        "essentialSolved": 0,
+        "total": 48,
+        "totalSolved": 0
+      },
+      {
+        "class": 10,
+        "decoration": null,
+        "essentials": 24,
+        "essentialSolved": 0,
+        "total": 48,
+        "totalSolved": 0
+      }
+    ],
+    "fetchedAt": "2026-04-28T07:28:32.190Z",
+    "languageStats": [],
+    "stats": {
+      "classLabel": "CLASS 6",
+      "contributionCount": 35,
+      "maxStreak": 89,
+      "rating": 2012,
+      "rivalCount": 9,
+      "solvedCount": 810
+    },
+    "tagRatings": [
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "애드 혹",
+            "short": "애드 혹"
+          },
+          {
+            "language": "en",
+            "name": "ad-hoc",
+            "short": "ad-hoc"
+          },
+          {
+            "language": "ja",
+            "name": "アドホック",
+            "short": "アドホック"
+          }
+        ],
+        "key": "ad_hoc",
+        "rating": 52,
+        "ratingByProblemsSum": 48,
+        "ratingBySolvedCount": 4,
+        "solvedCount": 2
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "사칙연산",
+            "short": "사칙연산"
+          },
+          {
+            "language": "en",
+            "name": "arithmetic",
+            "short": "arithmetic"
+          },
+          {
+            "language": "ja",
+            "name": "算数",
+            "short": "算数"
+          }
+        ],
+        "key": "arithmetic",
+        "rating": 252,
+        "ratingByProblemsSum": 182,
+        "ratingBySolvedCount": 70,
+        "solvedCount": 43
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "백트래킹",
+            "short": "백트래킹"
+          },
+          {
+            "language": "en",
+            "name": "backtracking",
+            "short": "backtrack"
+          },
+          {
+            "language": "ja",
+            "name": "バックトラック法",
+            "short": "バックトラック"
+          }
+        ],
+        "key": "backtracking",
+        "rating": 707,
+        "ratingByProblemsSum": 652,
+        "ratingBySolvedCount": 55,
+        "solvedCount": 32
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "너비 우선 탐색",
+            "short": "너비 우선 탐색"
+          },
+          {
+            "language": "en",
+            "name": "breadth-first search",
+            "short": "bfs"
+          },
+          {
+            "language": "ja",
+            "name": "幅優先検索",
+            "short": "bfs"
+          }
+        ],
+        "key": "bfs",
+        "rating": 1373,
+        "ratingByProblemsSum": 1262,
+        "ratingBySolvedCount": 111,
+        "solvedCount": 81
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "이분 탐색",
+            "short": "이분 탐색"
+          },
+          {
+            "language": "en",
+            "name": "binary search",
+            "short": "binary search"
+          },
+          {
+            "language": "ja",
+            "name": "二分探索",
+            "short": "二分探索"
+          }
+        ],
+        "key": "binary_search",
+        "rating": 1121,
+        "ratingByProblemsSum": 1050,
+        "ratingBySolvedCount": 71,
+        "solvedCount": 44
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "비트마스킹",
+            "short": "비트마스킹"
+          },
+          {
+            "language": "en",
+            "name": "bitmask",
+            "short": "bitmask"
+          },
+          {
+            "language": "ja",
+            "name": "ビット表現",
+            "short": "ビット表現"
+          }
+        ],
+        "key": "bitmask",
+        "rating": 201,
+        "ratingByProblemsSum": 186,
+        "ratingBySolvedCount": 15,
+        "solvedCount": 8
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "브루트포스 알고리즘",
+            "short": "브루트포스 알고리즘"
+          },
+          {
+            "language": "en",
+            "name": "bruteforcing",
+            "short": "bruteforce"
+          },
+          {
+            "language": "ja",
+            "name": "全探索",
+            "short": "全探索"
+          }
+        ],
+        "key": "bruteforcing",
+        "rating": 1136,
+        "ratingByProblemsSum": 1050,
+        "ratingBySolvedCount": 86,
+        "solvedCount": 56
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "많은 조건 분기",
+            "short": "많은 조건 분기"
+          },
+          {
+            "language": "en",
+            "name": "case work",
+            "short": "case work"
+          },
+          {
+            "language": "ja",
+            "name": "ケースワーク",
+            "short": "ケースワーク"
+          }
+        ],
+        "key": "case_work",
+        "rating": 86,
+        "ratingByProblemsSum": 78,
+        "ratingBySolvedCount": 8,
+        "solvedCount": 4
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "조합론",
+            "short": "조합론"
+          },
+          {
+            "language": "en",
+            "name": "combinatorics",
+            "short": "combinatorics"
+          },
+          {
+            "language": "ja",
+            "name": "組み合わせ",
+            "short": "組み合わせ"
+          }
+        ],
+        "key": "combinatorics",
+        "rating": 185,
+        "ratingByProblemsSum": 170,
+        "ratingBySolvedCount": 15,
+        "solvedCount": 8
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "해 구성하기",
+            "short": "해 구성하기"
+          },
+          {
+            "language": "en",
+            "name": "constructive",
+            "short": "constructive"
+          },
+          {
+            "language": "ja",
+            "name": "構成的",
+            "short": "構成的"
+          }
+        ],
+        "key": "constructive",
+        "rating": 38,
+        "ratingByProblemsSum": 36,
+        "ratingBySolvedCount": 2,
+        "solvedCount": 1
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "자료 구조",
+            "short": "자료 구조"
+          },
+          {
+            "language": "en",
+            "name": "data structures",
+            "short": "ds"
+          },
+          {
+            "language": "ja",
+            "name": "データ構造",
+            "short": "ds"
+          }
+        ],
+        "key": "data_structures",
+        "rating": 1739,
+        "ratingByProblemsSum": 1572,
+        "ratingBySolvedCount": 167,
+        "solvedCount": 178
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "깊이 우선 탐색",
+            "short": "깊이 우선 탐색"
+          },
+          {
+            "language": "en",
+            "name": "depth-first search",
+            "short": "dfs"
+          },
+          {
+            "language": "ja",
+            "name": "深さ優先探索",
+            "short": "dfs"
+          }
+        ],
+        "key": "dfs",
+        "rating": 1332,
+        "ratingByProblemsSum": 1236,
+        "ratingBySolvedCount": 96,
+        "solvedCount": 65
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "데이크스트라",
+            "short": "데이크스트라"
+          },
+          {
+            "language": "en",
+            "name": "dijkstra's",
+            "short": "dijkstra's"
+          },
+          {
+            "language": "ja",
+            "name": "ダイクストラ法",
+            "short": "ダイクストラ法"
+          }
+        ],
+        "key": "dijkstra",
+        "rating": 1084,
+        "ratingByProblemsSum": 1018,
+        "ratingBySolvedCount": 66,
+        "solvedCount": 40
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "분리 집합",
+            "short": "분리 집합"
+          },
+          {
+            "language": "en",
+            "name": "disjoint set",
+            "short": "dsu"
+          },
+          {
+            "language": "ja",
+            "name": "素集合データ構造",
+            "short": "素集合データ構造"
+          }
+        ],
+        "key": "disjoint_set",
+        "rating": 600,
+        "ratingByProblemsSum": 560,
+        "ratingBySolvedCount": 40,
+        "solvedCount": 22
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "분할 정복",
+            "short": "분할 정복"
+          },
+          {
+            "language": "en",
+            "name": "divide and conquer",
+            "short": "d&c"
+          },
+          {
+            "language": "ja",
+            "name": "分割統治法",
+            "short": "分割統治法"
+          }
+        ],
+        "key": "divide_and_conquer",
+        "rating": 350,
+        "ratingByProblemsSum": 326,
+        "ratingBySolvedCount": 24,
+        "solvedCount": 13
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "다이나믹 프로그래밍",
+            "short": "다이나믹 프로그래밍"
+          },
+          {
+            "language": "en",
+            "name": "dynamic programming",
+            "short": "dp"
+          },
+          {
+            "language": "ja",
+            "name": "動的計画法",
+            "short": "dp"
+          }
+        ],
+        "key": "dp",
+        "rating": 1458,
+        "ratingByProblemsSum": 1324,
+        "ratingBySolvedCount": 134,
+        "solvedCount": 110
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "트리에서의 다이나믹 프로그래밍",
+            "short": "트리에서의 다이나믹 프로그래밍"
+          },
+          {
+            "language": "en",
+            "name": "dynamic programming on trees",
+            "short": "tree dp"
+          },
+          {
+            "language": "ja",
+            "name": "木上の動的計画法",
+            "short": "tree dp"
+          }
+        ],
+        "key": "dp_tree",
+        "rating": 168,
+        "ratingByProblemsSum": 156,
+        "ratingBySolvedCount": 12,
+        "solvedCount": 6
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "게임 이론",
+            "short": "게임 이론"
+          },
+          {
+            "language": "en",
+            "name": "game theory",
+            "short": "game theory"
+          },
+          {
+            "language": "ja",
+            "name": "ゲーム理論",
+            "short": "ゲーム"
+          }
+        ],
+        "key": "game_theory",
+        "rating": 108,
+        "ratingByProblemsSum": 96,
+        "ratingBySolvedCount": 12,
+        "solvedCount": 6
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "기하학",
+            "short": "기하학"
+          },
+          {
+            "language": "en",
+            "name": "geometry",
+            "short": "geom"
+          },
+          {
+            "language": "ja",
+            "name": "幾何学",
+            "short": "幾何"
+          }
+        ],
+        "key": "geometry",
+        "rating": 241,
+        "ratingByProblemsSum": 206,
+        "ratingBySolvedCount": 35,
+        "solvedCount": 19
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "그래프 이론",
+            "short": "그래프 이론"
+          },
+          {
+            "language": "en",
+            "name": "graph theory",
+            "short": "graph"
+          },
+          {
+            "language": "ja",
+            "name": "グラフ理論",
+            "short": "グラフ"
+          }
+        ],
+        "key": "graphs",
+        "rating": 1652,
+        "ratingByProblemsSum": 1476,
+        "ratingBySolvedCount": 176,
+        "solvedCount": 212
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "그래프 탐색",
+            "short": "그래프 탐색"
+          },
+          {
+            "language": "en",
+            "name": "graph traversal",
+            "short": "traversal"
+          },
+          {
+            "language": "ja",
+            "name": "グラフの探索",
+            "short": "横断"
+          }
+        ],
+        "key": "graph_traversal",
+        "rating": 1502,
+        "ratingByProblemsSum": 1352,
+        "ratingBySolvedCount": 150,
+        "solvedCount": 137
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "그리디 알고리즘",
+            "short": "그리디 알고리즘"
+          },
+          {
+            "language": "en",
+            "name": "greedy",
+            "short": "greedy"
+          },
+          {
+            "language": "ja",
+            "name": "貪欲法",
+            "short": "貪欲法"
+          }
+        ],
+        "key": "greedy",
+        "rating": 1405,
+        "ratingByProblemsSum": 1298,
+        "ratingBySolvedCount": 107,
+        "solvedCount": 76
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "해시를 사용한 집합과 맵",
+            "short": "해시를 사용한 집합과 맵"
+          },
+          {
+            "language": "en",
+            "name": "set / map by hashing",
+            "short": "hashset"
+          },
+          {
+            "language": "ja",
+            "name": "ハッシュ化によるセット・マップ",
+            "short": "hashset"
+          }
+        ],
+        "key": "hash_set",
+        "rating": 641,
+        "ratingByProblemsSum": 582,
+        "ratingBySolvedCount": 59,
+        "solvedCount": 35
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "구현",
+            "short": "구현"
+          },
+          {
+            "language": "en",
+            "name": "implementation",
+            "short": "impl"
+          },
+          {
+            "language": "ja",
+            "name": "実装",
+            "short": "impl"
+          }
+        ],
+        "key": "implementation",
+        "rating": 1393,
+        "ratingByProblemsSum": 1222,
+        "ratingBySolvedCount": 171,
+        "solvedCount": 193
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "수학",
+            "short": "수학"
+          },
+          {
+            "language": "en",
+            "name": "mathematics",
+            "short": "math"
+          },
+          {
+            "language": "ja",
+            "name": "数学",
+            "short": "数学"
+          }
+        ],
+        "key": "math",
+        "rating": 1114,
+        "ratingByProblemsSum": 974,
+        "ratingBySolvedCount": 140,
+        "solvedCount": 119
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "정수론",
+            "short": "정수론"
+          },
+          {
+            "language": "en",
+            "name": "number theory",
+            "short": "number theory"
+          },
+          {
+            "language": "ja",
+            "name": "整数論",
+            "short": "整数論"
+          }
+        ],
+        "key": "number_theory",
+        "rating": 250,
+        "ratingByProblemsSum": 226,
+        "ratingBySolvedCount": 24,
+        "solvedCount": 13
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "매개 변수 탐색",
+            "short": "매개 변수 탐색"
+          },
+          {
+            "language": "en",
+            "name": "parametric search",
+            "short": "parametric search"
+          },
+          {
+            "language": "ja",
+            "name": "parametric search",
+            "short": "parametric search"
+          }
+        ],
+        "key": "parametric_search",
+        "rating": 142,
+        "ratingByProblemsSum": 130,
+        "ratingBySolvedCount": 12,
+        "solvedCount": 6
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "파싱",
+            "short": "파싱"
+          },
+          {
+            "language": "en",
+            "name": "parsing",
+            "short": "parsing"
+          },
+          {
+            "language": "ja",
+            "name": "パージング",
+            "short": "パージング"
+          }
+        ],
+        "key": "parsing",
+        "rating": 84,
+        "ratingByProblemsSum": 76,
+        "ratingBySolvedCount": 8,
+        "solvedCount": 4
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "누적 합",
+            "short": "누적 합"
+          },
+          {
+            "language": "en",
+            "name": "prefix sum",
+            "short": "prefix sum"
+          },
+          {
+            "language": "ja",
+            "name": "累積和",
+            "short": "累積和"
+          }
+        ],
+        "key": "prefix_sum",
+        "rating": 652,
+        "ratingByProblemsSum": 604,
+        "ratingBySolvedCount": 48,
+        "solvedCount": 27
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "우선순위 큐",
+            "short": "우선순위 큐"
+          },
+          {
+            "language": "en",
+            "name": "priority queue",
+            "short": "priority queue"
+          },
+          {
+            "language": "ja",
+            "name": "優先度付きキュー",
+            "short": "優先度付きキュー"
+          }
+        ],
+        "key": "priority_queue",
+        "rating": 749,
+        "ratingByProblemsSum": 700,
+        "ratingBySolvedCount": 49,
+        "solvedCount": 28
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "확률론",
+            "short": "확률론"
+          },
+          {
+            "language": "en",
+            "name": "probability theory",
+            "short": "probability"
+          },
+          {
+            "language": "ja",
+            "name": "確率論",
+            "short": "確率論"
+          }
+        ],
+        "key": "probability",
+        "rating": 0,
+        "ratingByProblemsSum": 0,
+        "ratingBySolvedCount": 0,
+        "solvedCount": 0
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "세그먼트 트리",
+            "short": "세그먼트 트리"
+          },
+          {
+            "language": "en",
+            "name": "segment tree",
+            "short": "segtree"
+          },
+          {
+            "language": "ja",
+            "name": "セグメント木",
+            "short": "セグ木"
+          }
+        ],
+        "key": "segtree",
+        "rating": 951,
+        "ratingByProblemsSum": 902,
+        "ratingBySolvedCount": 49,
+        "solvedCount": 28
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "집합과 맵",
+            "short": "집합과 맵"
+          },
+          {
+            "language": "en",
+            "name": "set / map",
+            "short": "set"
+          }
+        ],
+        "key": "set",
+        "rating": 982,
+        "ratingByProblemsSum": 904,
+        "ratingBySolvedCount": 78,
+        "solvedCount": 49
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "최단 경로",
+            "short": "최단 경로"
+          },
+          {
+            "language": "en",
+            "name": "shortest path",
+            "short": "shortest path"
+          },
+          {
+            "language": "ja",
+            "name": "最短経路",
+            "short": "最短経路"
+          }
+        ],
+        "key": "shortest_path",
+        "rating": 1367,
+        "ratingByProblemsSum": 1278,
+        "ratingBySolvedCount": 89,
+        "solvedCount": 59
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "시뮬레이션",
+            "short": "시뮬레이션"
+          },
+          {
+            "language": "en",
+            "name": "simulation",
+            "short": "simulation"
+          },
+          {
+            "language": "ja",
+            "name": "シミュレーション",
+            "short": "シミュレーション"
+          }
+        ],
+        "key": "simulation",
+        "rating": 706,
+        "ratingByProblemsSum": 652,
+        "ratingBySolvedCount": 54,
+        "solvedCount": 31
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "정렬",
+            "short": "정렬"
+          },
+          {
+            "language": "en",
+            "name": "sorting",
+            "short": "sorting"
+          },
+          {
+            "language": "ja",
+            "name": "ソート",
+            "short": "ソート"
+          }
+        ],
+        "key": "sorting",
+        "rating": 1373,
+        "ratingByProblemsSum": 1252,
+        "ratingBySolvedCount": 121,
+        "solvedCount": 93
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "문자열",
+            "short": "문자열"
+          },
+          {
+            "language": "en",
+            "name": "string",
+            "short": "string"
+          },
+          {
+            "language": "ja",
+            "name": "文字列",
+            "short": "文字列"
+          }
+        ],
+        "key": "string",
+        "rating": 1021,
+        "ratingByProblemsSum": 920,
+        "ratingBySolvedCount": 101,
+        "solvedCount": 70
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "스위핑",
+            "short": "스위핑"
+          },
+          {
+            "language": "en",
+            "name": "sweeping",
+            "short": "sweeping"
+          },
+          {
+            "language": "ja",
+            "name": "平面走査",
+            "short": "平面走査"
+          }
+        ],
+        "key": "sweeping",
+        "rating": 136,
+        "ratingByProblemsSum": 126,
+        "ratingBySolvedCount": 10,
+        "solvedCount": 5
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "트리",
+            "short": "트리"
+          },
+          {
+            "language": "en",
+            "name": "tree",
+            "short": "tree"
+          },
+          {
+            "language": "ja",
+            "name": "木",
+            "short": "木"
+          }
+        ],
+        "key": "trees",
+        "rating": 1043,
+        "ratingByProblemsSum": 980,
+        "ratingBySolvedCount": 63,
+        "solvedCount": 38
+      },
+      {
+        "displayNames": [
+          {
+            "language": "ko",
+            "name": "트리를 사용한 집합과 맵",
+            "short": "트리를 사용한 집합과 맵"
+          },
+          {
+            "language": "en",
+            "name": "set / map by trees",
+            "short": "treeset"
+          },
+          {
+            "language": "ja",
+            "name": "木によるセット・マップ",
+            "short": "treeset"
+          }
+        ],
+        "key": "tree_set",
+        "rating": 185,
+        "ratingByProblemsSum": 166,
+        "ratingBySolvedCount": 19,
+        "solvedCount": 10
+      }
+    ],
+    "topProblems": [
+      {
+        "level": 21,
+        "problemId": 14504,
+        "titleKo": "수열과 쿼리 18"
+      },
+      {
+        "level": 21,
+        "problemId": 17410,
+        "titleKo": "수열과 쿼리 1.5"
+      },
+      {
+        "level": 21,
+        "problemId": 18185,
+        "titleKo": "라면 사기 (Small)"
+      },
+      {
+        "level": 21,
+        "problemId": 18186,
+        "titleKo": "라면 사기 (Large)"
+      },
+      {
+        "level": 20,
+        "problemId": 13548,
+        "titleKo": "수열과 쿼리 6"
+      },
+      {
+        "level": 19,
+        "problemId": 2912,
+        "titleKo": "백설공주와 난쟁이"
+      },
+      {
+        "level": 19,
+        "problemId": 7469,
+        "titleKo": "K번째 수"
+      },
+      {
+        "level": 19,
+        "problemId": 13547,
+        "titleKo": "수열과 쿼리 5"
+      },
+      {
+        "level": 18,
+        "problemId": 1395,
+        "titleKo": "스위치"
+      },
+      {
+        "level": 18,
+        "problemId": 2873,
+        "titleKo": "롤러코스터"
+      },
+      {
+        "level": 18,
+        "problemId": 3648,
+        "titleKo": "아이돌"
+      },
+      {
+        "level": 18,
+        "problemId": 11281,
+        "titleKo": "2-SAT - 4"
+      },
+      {
+        "level": 18,
+        "problemId": 12844,
+        "titleKo": "XOR"
+      },
+      {
+        "level": 18,
+        "problemId": 13537,
+        "titleKo": "수열과 쿼리 1"
+      },
+      {
+        "level": 18,
+        "problemId": 13544,
+        "titleKo": "수열과 쿼리 3"
+      },
+      {
+        "level": 18,
+        "problemId": 19585,
+        "titleKo": "전설"
+      },
+      {
+        "level": 17,
+        "problemId": 1199,
+        "titleKo": "오일러 회로"
+      },
+      {
+        "level": 17,
+        "problemId": 1854,
+        "titleKo": "K번째 최단경로 찾기"
+      },
+      {
+        "level": 17,
+        "problemId": 2848,
+        "titleKo": "알고스팟어"
+      },
+      {
+        "level": 17,
+        "problemId": 3653,
+        "titleKo": "영화 수집"
+      },
+      {
+        "level": 17,
+        "problemId": 10217,
+        "titleKo": "KCM Travel"
+      },
+      {
+        "level": 17,
+        "problemId": 10999,
+        "titleKo": "구간 합 구하기 2"
+      },
+      {
+        "level": 17,
+        "problemId": 11280,
+        "titleKo": "2-SAT - 3"
+      },
+      {
+        "level": 17,
+        "problemId": 11658,
+        "titleKo": "구간 합 구하기 3"
+      },
+      {
+        "level": 17,
+        "problemId": 12899,
+        "titleKo": "데이터 구조"
+      },
+      {
+        "level": 17,
+        "problemId": 13907,
+        "titleKo": "세금"
+      },
+      {
+        "level": 17,
+        "problemId": 14245,
+        "titleKo": "XOR"
+      },
+      {
+        "level": 17,
+        "problemId": 14939,
+        "titleKo": "불 끄기"
+      },
+      {
+        "level": 17,
+        "problemId": 16975,
+        "titleKo": "수열과 쿼리 21"
+      },
+      {
+        "level": 16,
+        "problemId": 1162,
+        "titleKo": "도로포장"
+      },
+      {
+        "level": 16,
+        "problemId": 1306,
+        "titleKo": "달려라 홍준"
+      },
+      {
+        "level": 16,
+        "problemId": 1517,
+        "titleKo": "버블 소트"
+      },
+      {
+        "level": 16,
+        "problemId": 1761,
+        "titleKo": "정점들의 거리"
+      },
+      {
+        "level": 16,
+        "problemId": 1948,
+        "titleKo": "임계경로"
+      },
+      {
+        "level": 16,
+        "problemId": 2104,
+        "titleKo": "부분배열 고르기"
+      },
+      {
+        "level": 16,
+        "problemId": 2150,
+        "titleKo": "Strongly Connected Component"
+      },
+      {
+        "level": 16,
+        "problemId": 2243,
+        "titleKo": "사탕상자"
+      },
+      {
+        "level": 16,
+        "problemId": 2505,
+        "titleKo": "두 번 뒤집기"
+      },
+      {
+        "level": 16,
+        "problemId": 2568,
+        "titleKo": "전깃줄 - 2"
+      },
+      {
+        "level": 16,
+        "problemId": 3015,
+        "titleKo": "오아시스 재결합"
+      },
+      {
+        "level": 16,
+        "problemId": 6549,
+        "titleKo": "히스토그램에서 가장 큰 직사각형"
+      },
+      {
+        "level": 16,
+        "problemId": 9202,
+        "titleKo": "Boggle"
+      },
+      {
+        "level": 16,
+        "problemId": 11438,
+        "titleKo": "LCA 2"
+      },
+      {
+        "level": 16,
+        "problemId": 13308,
+        "titleKo": "주유소"
+      },
+      {
+        "level": 16,
+        "problemId": 13976,
+        "titleKo": "타일 채우기 2"
+      },
+      {
+        "level": 16,
+        "problemId": 14003,
+        "titleKo": "가장 긴 증가하는 부분 수열 5"
+      },
+      {
+        "level": 16,
+        "problemId": 14942,
+        "titleKo": "개미"
+      },
+      {
+        "level": 16,
+        "problemId": 16440,
+        "titleKo": "제이크와 케이크"
+      },
+      {
+        "level": 16,
+        "problemId": 16496,
+        "titleKo": "큰 수 만들기"
+      },
+      {
+        "level": 16,
+        "problemId": 17071,
+        "titleKo": "숨바꼭질 5"
+      },
+      {
+        "level": 16,
+        "problemId": 25402,
+        "titleKo": "트리와 쿼리"
+      },
+      {
+        "level": 15,
+        "problemId": 1208,
+        "titleKo": "부분수열의 합 2"
+      },
+      {
+        "level": 15,
+        "problemId": 1275,
+        "titleKo": "커피숍2"
+      },
+      {
+        "level": 15,
+        "problemId": 1700,
+        "titleKo": "멀티탭 스케줄링"
+      },
+      {
+        "level": 15,
+        "problemId": 2042,
+        "titleKo": "구간 합 구하기"
+      },
+      {
+        "level": 15,
+        "problemId": 2098,
+        "titleKo": "외판원 순회"
+      },
+      {
+        "level": 15,
+        "problemId": 2213,
+        "titleKo": "트리의 독립집합"
+      },
+      {
+        "level": 15,
+        "problemId": 2263,
+        "titleKo": "트리의 순회"
+      },
+      {
+        "level": 15,
+        "problemId": 2268,
+        "titleKo": "수들의 합 7"
+      },
+      {
+        "level": 15,
+        "problemId": 2357,
+        "titleKo": "최솟값과 최댓값"
+      },
+      {
+        "level": 15,
+        "problemId": 3144,
+        "titleKo": "자석"
+      },
+      {
+        "level": 15,
+        "problemId": 3665,
+        "titleKo": "최종 순위"
+      },
+      {
+        "level": 15,
+        "problemId": 4198,
+        "titleKo": "열차정렬"
+      },
+      {
+        "level": 15,
+        "problemId": 5676,
+        "titleKo": "음주 코딩"
+      },
+      {
+        "level": 15,
+        "problemId": 9328,
+        "titleKo": "열쇠"
+      },
+      {
+        "level": 15,
+        "problemId": 10564,
+        "titleKo": "팔굽혀펴기"
+      },
+      {
+        "level": 15,
+        "problemId": 10838,
+        "titleKo": "트리"
+      },
+      {
+        "level": 15,
+        "problemId": 10868,
+        "titleKo": "최솟값"
+      },
+      {
+        "level": 15,
+        "problemId": 11003,
+        "titleKo": "최솟값 찾기"
+      },
+      {
+        "level": 15,
+        "problemId": 11505,
+        "titleKo": "구간 곱 구하기"
+      },
+      {
+        "level": 15,
+        "problemId": 12837,
+        "titleKo": "가계부 (Hard)"
+      },
+      {
+        "level": 15,
+        "problemId": 13459,
+        "titleKo": "구슬 탈출"
+      },
+      {
+        "level": 15,
+        "problemId": 13460,
+        "titleKo": "구슬 탈출 2"
+      },
+      {
+        "level": 15,
+        "problemId": 14428,
+        "titleKo": "수열과 쿼리 16"
+      },
+      {
+        "level": 15,
+        "problemId": 14438,
+        "titleKo": "수열과 쿼리 17"
+      },
+      {
+        "level": 15,
+        "problemId": 16118,
+        "titleKo": "달빛 여우"
+      },
+      {
+        "level": 15,
+        "problemId": 16566,
+        "titleKo": "카드 게임"
+      },
+      {
+        "level": 15,
+        "problemId": 16933,
+        "titleKo": "벽 부수고 이동하기 3"
+      },
+      {
+        "level": 15,
+        "problemId": 17143,
+        "titleKo": "낚시왕"
+      },
+      {
+        "level": 15,
+        "problemId": 17472,
+        "titleKo": "다리 만들기 2"
+      },
+      {
+        "level": 15,
+        "problemId": 18436,
+        "titleKo": "수열과 쿼리 37"
+      },
+      {
+        "level": 15,
+        "problemId": 20183,
+        "titleKo": "골목 대장 호석 - 효율성 2"
+      },
+      {
+        "level": 15,
+        "problemId": 22963,
+        "titleKo": "3초 정렬"
+      },
+      {
+        "level": 14,
+        "problemId": 1167,
+        "titleKo": "트리의 지름"
+      },
+      {
+        "level": 14,
+        "problemId": 1202,
+        "titleKo": "보석 도둑"
+      },
+      {
+        "level": 14,
+        "problemId": 1365,
+        "titleKo": "꼬인 전깃줄"
+      },
+      {
+        "level": 14,
+        "problemId": 1368,
+        "titleKo": "물대기"
+      },
+      {
+        "level": 14,
+        "problemId": 1655,
+        "titleKo": "가운데를 말해요"
+      },
+      {
+        "level": 14,
+        "problemId": 1766,
+        "titleKo": "문제집"
+      },
+      {
+        "level": 14,
+        "problemId": 1781,
+        "titleKo": "컵라면"
+      },
+      {
+        "level": 14,
+        "problemId": 1818,
+        "titleKo": "책정리"
+      },
+      {
+        "level": 14,
+        "problemId": 1826,
+        "titleKo": "연료 채우기"
+      },
+      {
+        "level": 14,
+        "problemId": 1918,
+        "titleKo": "후위 표기식"
+      },
+      {
+        "level": 14,
+        "problemId": 1949,
+        "titleKo": "우수 마을"
+      },
+      {
+        "level": 14,
+        "problemId": 1960,
+        "titleKo": "행렬만들기"
+      },
+      {
+        "level": 14,
+        "problemId": 2233,
+        "titleKo": "사과나무"
+      },
+      {
+        "level": 14,
+        "problemId": 2283,
+        "titleKo": "구간 자르기"
+      },
+      {
+        "level": 14,
+        "problemId": 2352,
+        "titleKo": "반도체 설계"
+      },
+      {
+        "level": 14,
+        "problemId": 2610,
+        "titleKo": "회의준비"
+      },
+      {
+        "level": 14,
+        "problemId": 2632,
+        "titleKo": "피자판매"
+      }
+    ],
+    "user": {
+      "arenaCompetedRoundCount": 0,
+      "arenaMaxRating": 0,
+      "arenaMaxTier": 0,
+      "arenaRating": 0,
+      "arenaTier": 0,
+      "backgroundId": "event260214_03",
+      "badgeId": "lang-java",
+      "bannedUntil": "1970-01-01T00:00:00.000Z",
+      "bio": "2023.04.14 ~ 2026.04.28",
+      "blocked": false,
+      "class": 6,
+      "classDecoration": "none",
+      "coins": 12,
+      "handle": "dong20",
+      "isReverseRival": false,
+      "isRival": false,
+      "joinedAt": "2023-01-04T07:19:56.000Z",
+      "maxStreak": 89,
+      "overRating": 111126,
+      "overRatingCutoff": 1,
+      "profileImageUrl": "https://static.solved.ac/uploads/profile/dong20-picture-1773057682066.png",
+      "proUntil": "1970-01-01T00:00:00.000Z",
+      "rank": 2763,
+      "rating": 2012,
+      "ratingByClass": 210,
+      "ratingByProblemsSum": 1596,
+      "ratingBySolvedCount": 182,
+      "ratingByVoteCount": 24,
+      "reverseBlocked": false,
+      "reverseRivalCount": 9,
+      "rivalCount": 9,
+      "solvedCount": 810,
+      "stardusts": 32574,
+      "tier": 19,
+      "verified": false,
+      "voteCount": 35
+    }
+  },
+  "schema": "boj-memory-backup-v1",
+  "summary": {
+    "bojRank": null,
+    "classLabel": "CLASS 6",
+    "contributionCount": 35,
+    "maxStreak": 89,
+    "overRating": 111126,
+    "rating": 2012,
+    "rivalCount": 9,
+    "solvedAcRank": 2763,
+    "solvedCount": 810,
+    "tier": 19
+  },
+  "tagRadar": [
+    {
+      "key": "math",
+      "label": "math",
+      "rating": 1114,
+      "solvedCount": 119
+    },
+    {
+      "key": "implementation",
+      "label": "implementation",
+      "rating": 1393,
+      "solvedCount": 193
+    },
+    {
+      "key": "greedy",
+      "label": "greedy",
+      "rating": 1405,
+      "solvedCount": 76
+    },
+    {
+      "key": "string",
+      "label": "string",
+      "rating": 1021,
+      "solvedCount": 70
+    },
+    {
+      "key": "data_structures",
+      "label": "data_structures",
+      "rating": 1739,
+      "solvedCount": 178
+    },
+    {
+      "key": "graphs",
+      "label": "graphs",
+      "rating": 1652,
+      "solvedCount": 212
+    },
+    {
+      "key": "dp",
+      "label": "dp",
+      "rating": 1458,
+      "solvedCount": 110
+    },
+    {
+      "key": "geometry",
+      "label": "geometry",
+      "rating": 241,
+      "solvedCount": 19
+    }
+  ]
+}
+
+[canonical_snapshot_compact]
+{"generatedAt":"2026-04-28T07:28:32.190Z","handle":"dong20","payload":{"background":{"authors":[{"authorId":"havana723","authorUrl":null,"displayName":"havana723","handle":"havana723","instagram":null,"role":"Illustration","twitter":null}],"backgroundCategory":"event","backgroundId":"event260214_03","backgroundImageUrl":"https://static.solved.ac/profile_bg/profile/event260214_03-d7565526-3be1-4fcc-9cdd-28806fcb6ee9.png","backgroundVideoUrl":null,"conditionsText":{"text":"솔브드 엽서 북 특전으로 획득, 혹은 〈여덟 개의 문〉 이벤트 참가 보상으로 획득","type":"text"},"displayDescription":"","displayName":"밤하늘의 별과 엮어서","fallbackBackgroundImageUrl":null,"hiddenConditions":false,"isIllust":true,"solvedCompanyRights":true,"unlockedUserCount":456},"badge":{"badgeCategory":"achievement","badgeId":"lang-java","badgeImageUrl":"https://static.solved.ac/profile_badge/profile/lang-java-fdd84b4e-d8b1-4077-9c50-45ef43d01447.png","badgeTier":"bronze","createdAt":"2024-02-22T12:58:44.152Z","displayDescription":"Java 8, Java 8 (OpenJDK), Java 11, Java 15 중 하나의 언어로 아무 문제나 해결","displayName":"Java","hiddenConditions":false,"solvedCompanyRights":true,"unlockedUserCount":50798},"bojStats":[],"classStats":[{"class":1,"decoration":"gold","essentials":16,"essentialSolved":16,"total":36,"totalSolved":36},{"class":2,"decoration":"gold","essentials":20,"essentialSolved":20,"total":40,"totalSolved":40},{"class":3,"decoration":"gold","essentials":20,"essentialSolved":20,"total":48,"totalSolved":48},{"class":4,"decoration":"silver","essentials":24,"essentialSolved":24,"total":48,"totalSolved":44},{"class":5,"decoration":"none","essentials":24,"essentialSolved":22,"total":48,"totalSolved":38},{"class":6,"decoration":"none","essentials":24,"essentialSolved":10,"total":48,"totalSolved":20},{"class":7,"decoration":null,"essentials":24,"essentialSolved":4,"total":48,"totalSolved":8},{"class":8,"decoration":null,"essentials":24,"essentialSolved":0,"total":48,"totalSolved":0},{"class":9,"decoration":null,"essentials":24,"essentialSolved":0,"total":48,"totalSolved":0},{"class":10,"decoration":null,"essentials":24,"essentialSolved":0,"total":48,"totalSolved":0}],"fetchedAt":"2026-04-28T07:28:32.190Z","languageStats":[],"stats":{"classLabel":"CLASS 6","contributionCount":35,"maxStreak":89,"rating":2012,"rivalCount":9,"solvedCount":810},"tagRatings":[{"displayNames":[{"language":"ko","name":"애드 혹","short":"애드 혹"},{"language":"en","name":"ad-hoc","short":"ad-hoc"},{"language":"ja","name":"アドホック","short":"アドホック"}],"key":"ad_hoc","rating":52,"ratingByProblemsSum":48,"ratingBySolvedCount":4,"solvedCount":2},{"displayNames":[{"language":"ko","name":"사칙연산","short":"사칙연산"},{"language":"en","name":"arithmetic","short":"arithmetic"},{"language":"ja","name":"算数","short":"算数"}],"key":"arithmetic","rating":252,"ratingByProblemsSum":182,"ratingBySolvedCount":70,"solvedCount":43},{"displayNames":[{"language":"ko","name":"백트래킹","short":"백트래킹"},{"language":"en","name":"backtracking","short":"backtrack"},{"language":"ja","name":"バックトラック法","short":"バックトラック"}],"key":"backtracking","rating":707,"ratingByProblemsSum":652,"ratingBySolvedCount":55,"solvedCount":32},{"displayNames":[{"language":"ko","name":"너비 우선 탐색","short":"너비 우선 탐색"},{"language":"en","name":"breadth-first search","short":"bfs"},{"language":"ja","name":"幅優先検索","short":"bfs"}],"key":"bfs","rating":1373,"ratingByProblemsSum":1262,"ratingBySolvedCount":111,"solvedCount":81},{"displayNames":[{"language":"ko","name":"이분 탐색","short":"이분 탐색"},{"language":"en","name":"binary search","short":"binary search"},{"language":"ja","name":"二分探索","short":"二分探索"}],"key":"binary_search","rating":1121,"ratingByProblemsSum":1050,"ratingBySolvedCount":71,"solvedCount":44},{"displayNames":[{"language":"ko","name":"비트마스킹","short":"비트마스킹"},{"language":"en","name":"bitmask","short":"bitmask"},{"language":"ja","name":"ビット表現","short":"ビット表現"}],"key":"bitmask","rating":201,"ratingByProblemsSum":186,"ratingBySolvedCount":15,"solvedCount":8},{"displayNames":[{"language":"ko","name":"브루트포스 알고리즘","short":"브루트포스 알고리즘"},{"language":"en","name":"bruteforcing","short":"bruteforce"},{"language":"ja","name":"全探索","short":"全探索"}],"key":"bruteforcing","rating":1136,"ratingByProblemsSum":1050,"ratingBySolvedCount":86,"solvedCount":56},{"displayNames":[{"language":"ko","name":"많은 조건 분기","short":"많은 조건 분기"},{"language":"en","name":"case work","short":"case work"},{"language":"ja","name":"ケースワーク","short":"ケースワーク"}],"key":"case_work","rating":86,"ratingByProblemsSum":78,"ratingBySolvedCount":8,"solvedCount":4},{"displayNames":[{"language":"ko","name":"조합론","short":"조합론"},{"language":"en","name":"combinatorics","short":"combinatorics"},{"language":"ja","name":"組み合わせ","short":"組み合わせ"}],"key":"combinatorics","rating":185,"ratingByProblemsSum":170,"ratingBySolvedCount":15,"solvedCount":8},{"displayNames":[{"language":"ko","name":"해 구성하기","short":"해 구성하기"},{"language":"en","name":"constructive","short":"constructive"},{"language":"ja","name":"構成的","short":"構成的"}],"key":"constructive","rating":38,"ratingByProblemsSum":36,"ratingBySolvedCount":2,"solvedCount":1},{"displayNames":[{"language":"ko","name":"자료 구조","short":"자료 구조"},{"language":"en","name":"data structures","short":"ds"},{"language":"ja","name":"データ構造","short":"ds"}],"key":"data_structures","rating":1739,"ratingByProblemsSum":1572,"ratingBySolvedCount":167,"solvedCount":178},{"displayNames":[{"language":"ko","name":"깊이 우선 탐색","short":"깊이 우선 탐색"},{"language":"en","name":"depth-first search","short":"dfs"},{"language":"ja","name":"深さ優先探索","short":"dfs"}],"key":"dfs","rating":1332,"ratingByProblemsSum":1236,"ratingBySolvedCount":96,"solvedCount":65},{"displayNames":[{"language":"ko","name":"데이크스트라","short":"데이크스트라"},{"language":"en","name":"dijkstra's","short":"dijkstra's"},{"language":"ja","name":"ダイクストラ法","short":"ダイクストラ法"}],"key":"dijkstra","rating":1084,"ratingByProblemsSum":1018,"ratingBySolvedCount":66,"solvedCount":40},{"displayNames":[{"language":"ko","name":"분리 집합","short":"분리 집합"},{"language":"en","name":"disjoint set","short":"dsu"},{"language":"ja","name":"素集合データ構造","short":"素集合データ構造"}],"key":"disjoint_set","rating":600,"ratingByProblemsSum":560,"ratingBySolvedCount":40,"solvedCount":22},{"displayNames":[{"language":"ko","name":"분할 정복","short":"분할 정복"},{"language":"en","name":"divide and conquer","short":"d&c"},{"language":"ja","name":"分割統治法","short":"分割統治法"}],"key":"divide_and_conquer","rating":350,"ratingByProblemsSum":326,"ratingBySolvedCount":24,"solvedCount":13},{"displayNames":[{"language":"ko","name":"다이나믹 프로그래밍","short":"다이나믹 프로그래밍"},{"language":"en","name":"dynamic programming","short":"dp"},{"language":"ja","name":"動的計画法","short":"dp"}],"key":"dp","rating":1458,"ratingByProblemsSum":1324,"ratingBySolvedCount":134,"solvedCount":110},{"displayNames":[{"language":"ko","name":"트리에서의 다이나믹 프로그래밍","short":"트리에서의 다이나믹 프로그래밍"},{"language":"en","name":"dynamic programming on trees","short":"tree dp"},{"language":"ja","name":"木上の動的計画法","short":"tree dp"}],"key":"dp_tree","rating":168,"ratingByProblemsSum":156,"ratingBySolvedCount":12,"solvedCount":6},{"displayNames":[{"language":"ko","name":"게임 이론","short":"게임 이론"},{"language":"en","name":"game theory","short":"game theory"},{"language":"ja","name":"ゲーム理論","short":"ゲーム"}],"key":"game_theory","rating":108,"ratingByProblemsSum":96,"ratingBySolvedCount":12,"solvedCount":6},{"displayNames":[{"language":"ko","name":"기하학","short":"기하학"},{"language":"en","name":"geometry","short":"geom"},{"language":"ja","name":"幾何学","short":"幾何"}],"key":"geometry","rating":241,"ratingByProblemsSum":206,"ratingBySolvedCount":35,"solvedCount":19},{"displayNames":[{"language":"ko","name":"그래프 이론","short":"그래프 이론"},{"language":"en","name":"graph theory","short":"graph"},{"language":"ja","name":"グラフ理論","short":"グラフ"}],"key":"graphs","rating":1652,"ratingByProblemsSum":1476,"ratingBySolvedCount":176,"solvedCount":212},{"displayNames":[{"language":"ko","name":"그래프 탐색","short":"그래프 탐색"},{"language":"en","name":"graph traversal","short":"traversal"},{"language":"ja","name":"グラフの探索","short":"横断"}],"key":"graph_traversal","rating":1502,"ratingByProblemsSum":1352,"ratingBySolvedCount":150,"solvedCount":137},{"displayNames":[{"language":"ko","name":"그리디 알고리즘","short":"그리디 알고리즘"},{"language":"en","name":"greedy","short":"greedy"},{"language":"ja","name":"貪欲法","short":"貪欲法"}],"key":"greedy","rating":1405,"ratingByProblemsSum":1298,"ratingBySolvedCount":107,"solvedCount":76},{"displayNames":[{"language":"ko","name":"해시를 사용한 집합과 맵","short":"해시를 사용한 집합과 맵"},{"language":"en","name":"set / map by hashing","short":"hashset"},{"language":"ja","name":"ハッシュ化によるセット・マップ","short":"hashset"}],"key":"hash_set","rating":641,"ratingByProblemsSum":582,"ratingBySolvedCount":59,"solvedCount":35},{"displayNames":[{"language":"ko","name":"구현","short":"구현"},{"language":"en","name":"implementation","short":"impl"},{"language":"ja","name":"実装","short":"impl"}],"key":"implementation","rating":1393,"ratingByProblemsSum":1222,"ratingBySolvedCount":171,"solvedCount":193},{"displayNames":[{"language":"ko","name":"수학","short":"수학"},{"language":"en","name":"mathematics","short":"math"},{"language":"ja","name":"数学","short":"数学"}],"key":"math","rating":1114,"ratingByProblemsSum":974,"ratingBySolvedCount":140,"solvedCount":119},{"displayNames":[{"language":"ko","name":"정수론","short":"정수론"},{"language":"en","name":"number theory","short":"number theory"},{"language":"ja","name":"整数論","short":"整数論"}],"key":"number_theory","rating":250,"ratingByProblemsSum":226,"ratingBySolvedCount":24,"solvedCount":13},{"displayNames":[{"language":"ko","name":"매개 변수 탐색","short":"매개 변수 탐색"},{"language":"en","name":"parametric search","short":"parametric search"},{"language":"ja","name":"parametric search","short":"parametric search"}],"key":"parametric_search","rating":142,"ratingByProblemsSum":130,"ratingBySolvedCount":12,"solvedCount":6},{"displayNames":[{"language":"ko","name":"파싱","short":"파싱"},{"language":"en","name":"parsing","short":"parsing"},{"language":"ja","name":"パージング","short":"パージング"}],"key":"parsing","rating":84,"ratingByProblemsSum":76,"ratingBySolvedCount":8,"solvedCount":4},{"displayNames":[{"language":"ko","name":"누적 합","short":"누적 합"},{"language":"en","name":"prefix sum","short":"prefix sum"},{"language":"ja","name":"累積和","short":"累積和"}],"key":"prefix_sum","rating":652,"ratingByProblemsSum":604,"ratingBySolvedCount":48,"solvedCount":27},{"displayNames":[{"language":"ko","name":"우선순위 큐","short":"우선순위 큐"},{"language":"en","name":"priority queue","short":"priority queue"},{"language":"ja","name":"優先度付きキュー","short":"優先度付きキュー"}],"key":"priority_queue","rating":749,"ratingByProblemsSum":700,"ratingBySolvedCount":49,"solvedCount":28},{"displayNames":[{"language":"ko","name":"확률론","short":"확률론"},{"language":"en","name":"probability theory","short":"probability"},{"language":"ja","name":"確率論","short":"確率論"}],"key":"probability","rating":0,"ratingByProblemsSum":0,"ratingBySolvedCount":0,"solvedCount":0},{"displayNames":[{"language":"ko","name":"세그먼트 트리","short":"세그먼트 트리"},{"language":"en","name":"segment tree","short":"segtree"},{"language":"ja","name":"セグメント木","short":"セグ木"}],"key":"segtree","rating":951,"ratingByProblemsSum":902,"ratingBySolvedCount":49,"solvedCount":28},{"displayNames":[{"language":"ko","name":"집합과 맵","short":"집합과 맵"},{"language":"en","name":"set / map","short":"set"}],"key":"set","rating":982,"ratingByProblemsSum":904,"ratingBySolvedCount":78,"solvedCount":49},{"displayNames":[{"language":"ko","name":"최단 경로","short":"최단 경로"},{"language":"en","name":"shortest path","short":"shortest path"},{"language":"ja","name":"最短経路","short":"最短経路"}],"key":"shortest_path","rating":1367,"ratingByProblemsSum":1278,"ratingBySolvedCount":89,"solvedCount":59},{"displayNames":[{"language":"ko","name":"시뮬레이션","short":"시뮬레이션"},{"language":"en","name":"simulation","short":"simulation"},{"language":"ja","name":"シミュレーション","short":"シミュレーション"}],"key":"simulation","rating":706,"ratingByProblemsSum":652,"ratingBySolvedCount":54,"solvedCount":31},{"displayNames":[{"language":"ko","name":"정렬","short":"정렬"},{"language":"en","name":"sorting","short":"sorting"},{"language":"ja","name":"ソート","short":"ソート"}],"key":"sorting","rating":1373,"ratingByProblemsSum":1252,"ratingBySolvedCount":121,"solvedCount":93},{"displayNames":[{"language":"ko","name":"문자열","short":"문자열"},{"language":"en","name":"string","short":"string"},{"language":"ja","name":"文字列","short":"文字列"}],"key":"string","rating":1021,"ratingByProblemsSum":920,"ratingBySolvedCount":101,"solvedCount":70},{"displayNames":[{"language":"ko","name":"스위핑","short":"스위핑"},{"language":"en","name":"sweeping","short":"sweeping"},{"language":"ja","name":"平面走査","short":"平面走査"}],"key":"sweeping","rating":136,"ratingByProblemsSum":126,"ratingBySolvedCount":10,"solvedCount":5},{"displayNames":[{"language":"ko","name":"트리","short":"트리"},{"language":"en","name":"tree","short":"tree"},{"language":"ja","name":"木","short":"木"}],"key":"trees","rating":1043,"ratingByProblemsSum":980,"ratingBySolvedCount":63,"solvedCount":38},{"displayNames":[{"language":"ko","name":"트리를 사용한 집합과 맵","short":"트리를 사용한 집합과 맵"},{"language":"en","name":"set / map by trees","short":"treeset"},{"language":"ja","name":"木によるセット・マップ","short":"treeset"}],"key":"tree_set","rating":185,"ratingByProblemsSum":166,"ratingBySolvedCount":19,"solvedCount":10}],"topProblems":[{"level":21,"problemId":14504,"titleKo":"수열과 쿼리 18"},{"level":21,"problemId":17410,"titleKo":"수열과 쿼리 1.5"},{"level":21,"problemId":18185,"titleKo":"라면 사기 (Small)"},{"level":21,"problemId":18186,"titleKo":"라면 사기 (Large)"},{"level":20,"problemId":13548,"titleKo":"수열과 쿼리 6"},{"level":19,"problemId":2912,"titleKo":"백설공주와 난쟁이"},{"level":19,"problemId":7469,"titleKo":"K번째 수"},{"level":19,"problemId":13547,"titleKo":"수열과 쿼리 5"},{"level":18,"problemId":1395,"titleKo":"스위치"},{"level":18,"problemId":2873,"titleKo":"롤러코스터"},{"level":18,"problemId":3648,"titleKo":"아이돌"},{"level":18,"problemId":11281,"titleKo":"2-SAT - 4"},{"level":18,"problemId":12844,"titleKo":"XOR"},{"level":18,"problemId":13537,"titleKo":"수열과 쿼리 1"},{"level":18,"problemId":13544,"titleKo":"수열과 쿼리 3"},{"level":18,"problemId":19585,"titleKo":"전설"},{"level":17,"problemId":1199,"titleKo":"오일러 회로"},{"level":17,"problemId":1854,"titleKo":"K번째 최단경로 찾기"},{"level":17,"problemId":2848,"titleKo":"알고스팟어"},{"level":17,"problemId":3653,"titleKo":"영화 수집"},{"level":17,"problemId":10217,"titleKo":"KCM Travel"},{"level":17,"problemId":10999,"titleKo":"구간 합 구하기 2"},{"level":17,"problemId":11280,"titleKo":"2-SAT - 3"},{"level":17,"problemId":11658,"titleKo":"구간 합 구하기 3"},{"level":17,"problemId":12899,"titleKo":"데이터 구조"},{"level":17,"problemId":13907,"titleKo":"세금"},{"level":17,"problemId":14245,"titleKo":"XOR"},{"level":17,"problemId":14939,"titleKo":"불 끄기"},{"level":17,"problemId":16975,"titleKo":"수열과 쿼리 21"},{"level":16,"problemId":1162,"titleKo":"도로포장"},{"level":16,"problemId":1306,"titleKo":"달려라 홍준"},{"level":16,"problemId":1517,"titleKo":"버블 소트"},{"level":16,"problemId":1761,"titleKo":"정점들의 거리"},{"level":16,"problemId":1948,"titleKo":"임계경로"},{"level":16,"problemId":2104,"titleKo":"부분배열 고르기"},{"level":16,"problemId":2150,"titleKo":"Strongly Connected Component"},{"level":16,"problemId":2243,"titleKo":"사탕상자"},{"level":16,"problemId":2505,"titleKo":"두 번 뒤집기"},{"level":16,"problemId":2568,"titleKo":"전깃줄 - 2"},{"level":16,"problemId":3015,"titleKo":"오아시스 재결합"},{"level":16,"problemId":6549,"titleKo":"히스토그램에서 가장 큰 직사각형"},{"level":16,"problemId":9202,"titleKo":"Boggle"},{"level":16,"problemId":11438,"titleKo":"LCA 2"},{"level":16,"problemId":13308,"titleKo":"주유소"},{"level":16,"problemId":13976,"titleKo":"타일 채우기 2"},{"level":16,"problemId":14003,"titleKo":"가장 긴 증가하는 부분 수열 5"},{"level":16,"problemId":14942,"titleKo":"개미"},{"level":16,"problemId":16440,"titleKo":"제이크와 케이크"},{"level":16,"problemId":16496,"titleKo":"큰 수 만들기"},{"level":16,"problemId":17071,"titleKo":"숨바꼭질 5"},{"level":16,"problemId":25402,"titleKo":"트리와 쿼리"},{"level":15,"problemId":1208,"titleKo":"부분수열의 합 2"},{"level":15,"problemId":1275,"titleKo":"커피숍2"},{"level":15,"problemId":1700,"titleKo":"멀티탭 스케줄링"},{"level":15,"problemId":2042,"titleKo":"구간 합 구하기"},{"level":15,"problemId":2098,"titleKo":"외판원 순회"},{"level":15,"problemId":2213,"titleKo":"트리의 독립집합"},{"level":15,"problemId":2263,"titleKo":"트리의 순회"},{"level":15,"problemId":2268,"titleKo":"수들의 합 7"},{"level":15,"problemId":2357,"titleKo":"최솟값과 최댓값"},{"level":15,"problemId":3144,"titleKo":"자석"},{"level":15,"problemId":3665,"titleKo":"최종 순위"},{"level":15,"problemId":4198,"titleKo":"열차정렬"},{"level":15,"problemId":5676,"titleKo":"음주 코딩"},{"level":15,"problemId":9328,"titleKo":"열쇠"},{"level":15,"problemId":10564,"titleKo":"팔굽혀펴기"},{"level":15,"problemId":10838,"titleKo":"트리"},{"level":15,"problemId":10868,"titleKo":"최솟값"},{"level":15,"problemId":11003,"titleKo":"최솟값 찾기"},{"level":15,"problemId":11505,"titleKo":"구간 곱 구하기"},{"level":15,"problemId":12837,"titleKo":"가계부 (Hard)"},{"level":15,"problemId":13459,"titleKo":"구슬 탈출"},{"level":15,"problemId":13460,"titleKo":"구슬 탈출 2"},{"level":15,"problemId":14428,"titleKo":"수열과 쿼리 16"},{"level":15,"problemId":14438,"titleKo":"수열과 쿼리 17"},{"level":15,"problemId":16118,"titleKo":"달빛 여우"},{"level":15,"problemId":16566,"titleKo":"카드 게임"},{"level":15,"problemId":16933,"titleKo":"벽 부수고 이동하기 3"},{"level":15,"problemId":17143,"titleKo":"낚시왕"},{"level":15,"problemId":17472,"titleKo":"다리 만들기 2"},{"level":15,"problemId":18436,"titleKo":"수열과 쿼리 37"},{"level":15,"problemId":20183,"titleKo":"골목 대장 호석 - 효율성 2"},{"level":15,"problemId":22963,"titleKo":"3초 정렬"},{"level":14,"problemId":1167,"titleKo":"트리의 지름"},{"level":14,"problemId":1202,"titleKo":"보석 도둑"},{"level":14,"problemId":1365,"titleKo":"꼬인 전깃줄"},{"level":14,"problemId":1368,"titleKo":"물대기"},{"level":14,"problemId":1655,"titleKo":"가운데를 말해요"},{"level":14,"problemId":1766,"titleKo":"문제집"},{"level":14,"problemId":1781,"titleKo":"컵라면"},{"level":14,"problemId":1818,"titleKo":"책정리"},{"level":14,"problemId":1826,"titleKo":"연료 채우기"},{"level":14,"problemId":1918,"titleKo":"후위 표기식"},{"level":14,"problemId":1949,"titleKo":"우수 마을"},{"level":14,"problemId":1960,"titleKo":"행렬만들기"},{"level":14,"problemId":2233,"titleKo":"사과나무"},{"level":14,"problemId":2283,"titleKo":"구간 자르기"},{"level":14,"problemId":2352,"titleKo":"반도체 설계"},{"level":14,"problemId":2610,"titleKo":"회의준비"},{"level":14,"problemId":2632,"titleKo":"피자판매"}],"user":{"arenaCompetedRoundCount":0,"arenaMaxRating":0,"arenaMaxTier":0,"arenaRating":0,"arenaTier":0,"backgroundId":"event260214_03","badgeId":"lang-java","bannedUntil":"1970-01-01T00:00:00.000Z","bio":"2023.04.14 ~ 2026.04.28","blocked":false,"class":6,"classDecoration":"none","coins":12,"handle":"dong20","isReverseRival":false,"isRival":false,"joinedAt":"2023-01-04T07:19:56.000Z","maxStreak":89,"overRating":111126,"overRatingCutoff":1,"profileImageUrl":"https://static.solved.ac/uploads/profile/dong20-picture-1773057682066.png","proUntil":"1970-01-01T00:00:00.000Z","rank":2763,"rating":2012,"ratingByClass":210,"ratingByProblemsSum":1596,"ratingBySolvedCount":182,"ratingByVoteCount":24,"reverseBlocked":false,"reverseRivalCount":9,"rivalCount":9,"solvedCount":810,"stardusts":32574,"tier":19,"verified":false,"voteCount":35}},"schema":"boj-memory-backup-v1","summary":{"bojRank":null,"classLabel":"CLASS 6","contributionCount":35,"maxStreak":89,"overRating":111126,"rating":2012,"rivalCount":9,"solvedAcRank":2763,"solvedCount":810,"tier":19},"tagRadar":[{"key":"math","label":"math","rating":1114,"solvedCount":119},{"key":"implementation","label":"implementation","rating":1393,"solvedCount":193},{"key":"greedy","label":"greedy","rating":1405,"solvedCount":76},{"key":"string","label":"string","rating":1021,"solvedCount":70},{"key":"data_structures","label":"data_structures","rating":1739,"solvedCount":178},{"key":"graphs","label":"graphs","rating":1652,"solvedCount":212},{"key":"dp","label":"dp","rating":1458,"solvedCount":110},{"key":"geometry","label":"geometry","rating":241,"solvedCount":19}]}
