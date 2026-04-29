@@ -51,15 +51,25 @@ Java 8 환경을 기준으로, 표준 라이브러리의 오버헤드를 줄이�
 ## 5. BOJ 종합 통계 (Statistics)
 2,222회의 제출 과정에서 발생한 828회의 오답(시간/메모리 초과 등)은 한계 성능을 돌파하기 위한 벤치마킹 데이터로 활용되었습니다.
 
-![](BOJ_record/BOJ_statistics.png)
-
+<table style="border: none; border-collapse: collapse; border-spacing: 0;">
+  <tr style="border: none;">
+    <td width="40%" align="center" valign="top" style="border: none; padding-right: 20px;">
+      <img src="BOJ_record/BOJ_statistics.png" width="100%">
+    </td>
+    <td width="60%" valign="top" style="border: none;">
+      <br>
+      
 | 지표 | 상세 수치 | 비고 |
 | :--- | :--- | :--- |
 | **최종 티어** | **Platinum II** | RATING: 2,012 / Class 6 |
 | **Solved.ac 랭킹** | **#2,762** | 상위 1.47% |
 | **총 제출 수** | **2,222회** | 전체 여정의 총량 |
 | **해결 문제 수** | **810개** | 순수 정답률 53% (중복 제외 시) |
-| **최장 스트릭** | **89일** | 2026년 4월 28일 기준 65일 진행 중 종료 |
+| **최장 스트릭** | **89일** | 26.04.28 기준 65일 종료 |
+
+   </td>    
+  </tr>
+</table>
 
 <br>
 
