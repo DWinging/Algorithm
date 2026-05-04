@@ -1,4 +1,4 @@
-# 🚀 SWEA 19004. 점프 놀이 (Java)
+# 🚀 SWEA 19004. [점프 놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYtrEOraDk0DFAR-&categoryId=AYtrEOraDk0DFAR-&categoryType=CODE&problemTitle=%EC%A0%90%ED%94%84+%EB%86%80%EC%9D%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (Java)
 
 > **날짜:** 2026년 4월 30일
 > **알고리즘:** Dynamic Programming (DP), Depth First Search (DFS)  

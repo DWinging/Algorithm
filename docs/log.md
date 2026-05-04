@@ -1,53 +1,8 @@
-# 📅 Algorithm Solve Log
+## 📑 Engineering Index: Logic & Optimization Database
 
-### 🚀 2026-05-04 | D5 영어 공부 (10507)
-> 플랫폼: SWEA <br>
-> 알고리즘: Two-Pointer
-
-**💡 핵심 인사이트:**
-*  **미래 예측 방식:** right + 1을 참조해 다음 칸의 상태를 미리 검증한 뒤 포인터를 이동시키는 방식. 배열 경계 초과를 막기 위한 수동 예외 처리가 필요해 제어 흐름이 복잡해지고 유지 보수성이 떨어지는 한계가 있음
-*  **현재 수습 방식:** for문으로 right를 먼저 전진시켜 상태를 갱신하고, 한도 초과시 while문으로 left를 당겨 정상 상태로 복구(수습)하는 선언적 방식. 예외 상황이 일반 로직에 자연스럽게 흡수되어 가독성과 코드의 견고함이 크게 향상됨
-*  **c++ 메모리 관리**: 유효 범위를 벗어난 인덱스(date[n]) 참조 시 런타임 에러를 발생시키는 Java와 달리, C++은 쓰레기 값을 반환하며 로직을 강행하는 Undefined Behavior 특성이 있음. 우연히 정답 처리되었더라도 메모리를 오염시킬 수 있는 시한폭탄이므로, 환경에 구애받지 않는 안전한 경계 처리가 필수적임
-
-**🔗 기록:** [github](../Algorithm/2026/05/04/영어_공부/) | [velog](https://velog.io/@dong20/c-SWEA-영어-공부)
-
----
-
-### 🚀 2026-05-02 | Easy Merge Two Sorted Lists
-> 플랫폼: LeetCode <br>
-> 알고리즘: Merge Sort, LinkedList, Two Pointer
-
-**🔧 트러블 슈팅:**
-*   **객체 참조 오류 및 데이터 유실 방지**: `cur->next = list1->next`와 같이 다음 노드를 직접 연결하던 실수를 교정하여, 현재 비교 중인 노드 자체가 결과 리스트에서 누락되지 않도록 **포인터 할당 범위를 정확히 타겟팅**함.
-*   **경계 조건(Edge Case) 및 런타임 에러 제어**: `node->next` 참조 방식의 루프 종료 조건이 유발하는 마지막 노드 누락과 빈 리스트(`nullptr`) 입력 시의 세그멘테이션 폴트(Segmentation Fault)를 방지하기 위해, **노드 자체의 유효성 검증 방식**으로 로직을 개선하여 안정성을 높임.
-*   **잔여 노드 처리의 시간 복잡도 최적화**: 모든 노드를 하나씩 다시 연결하던 불필요한 반복문을 제거하고, 연결 리스트의 기하학적 특성을 활용해 **남은 리스트의 헤드만 한 번에 연결($O(1)$)**함으로써 불필요한 연산 사이클과 잠재적인 무한 루프 위험을 동시에 해결함.
-  
-**🔗 기록:** [github](../Algorithm/2026/05/02/LeetCode_MergeTwoSortedLists/)
-
----
-
-### 🚀 2026-05-01 | Lv3 경주로 건설
-> 플랫폼: 프로그래머스 <br>
-> 알고리즘: Dijkstra, 0-1BFS 응용
-
-**💡 핵심 인사이트:**
-*   **가중치 특성을 활용한 자료구조 최적화**: 가중치가 두 종류(100, 600)로 제한적인 데이터 도메인의 특성을 파악하여, 무거운 `PriorityQueue` 대신 `Deque`를 도입해 정렬 오버헤드를 완벽히 제거함.
-*   **정렬 유지 vs 가벼운 갱신(Relaxation)의 트레이드오프**: 힙 정렬 비용을 지불하는 다익스트라 대신 일부 중복 탐색을 허용하는 전수 갱신 방식을 택하여, 실전 퍼포먼스를 최대 10배 향상시킴.
-*   **JVM 오버헤드 최소화 (Low-level)**: 힙 재구조화 및 `Comparable` 인터페이스 기반의 객체 비교 연산 사이클을 걷어내어, CPU 캐시 적중률을 높이고 기계적 연산 효율을 극대화함.
-  
-**🔗 기록:** [github](../Algorithm/2026/05/01/프로그래머스_경주로건설/) | [velog](https://velog.io/@dong20/Java-프로그래머스-경주로-건설)
-
----
-
-### 🚀 2026-04-30 | D4 점프 놀이 (19004)
-> 플랫폼: SWEA <br>
-> 알고리즘: DP + DFS (Sequential Pathfinding)
-
-**💡 핵심 인사이트:**
-*   **재귀의 첫 고생이 DP의 자산**: Top-down 방식도 첫 탐색 이후 메모이제이션을 통해 재귀 진입을 차단하므로, 실질 연산 횟수는 Bottom-up과 동일함.
-*   **Static Linked List 구현**: `ArrayList`를 지양하고 `Point` 객체 내 `pre` 인덱스를 두어 정적 배열 기반의 연결 리스트를 직접 구현 (GC 부하 최소화).
-*   **Low-level 최적화**: `System.in.read()` 기반 Fast I/O 및 삼항 연산자를 활용한 거리 계산 최적화 적용.
-  
-**🔗 기록:** [github](../Algorithm/2026/04/30/SWEA_19004/) | [velog](https://velog.io/@dong20/SWEA-19004-점프-놀이D4)
-
----
+| 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-05-04 | SWEA | [10507](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNQOb3avD0DFAXS&categoryId=AXNQOb3avD0DFAXS&categoryType=CODE&problemTitle=%EC%98%81%EC%96%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 영어 공부 | Two-Pointer | `접근 방식`, `메모리 관리` | [github](../Algorithm/2026/05/04/영어_공부/) | [velog](https://velog.io/@dong20/c-SWEA-영어-공부) |
+| 26-05-02 | Leet | [Merge Two Sorted...](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Linked List | `노드 유효성`, `O(1) 잔여` | [github](../Algorithm/2026/05/02/LeetCode_MergeTwoSortedLists/) | - |
+| 26-05-01 | Prgms | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) 경주로 건설 | Dijkstra | `Deque 최적화`, `JVM 오버헤드` | [github](../Algorithm/2026/05/01/프로그래머스_경주로건설/) | [velog](https://velog.io/@dong20/Java-프로그래머스-경주로-건설) |
+| 26-04-30 | SWEA | [19004](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYtrEOraDk0DFAR-&categoryId=AYtrEOraDk0DFAR-&categoryType=CODE&problemTitle=%EC%A0%90%ED%94%84+%EB%86%80%EC%9D%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 점프 놀이 | DP + DFS | `Static Linked List` | [github](../Algorithm/2026/04/30/SWEA_19004/) | [velog](https://velog.io/@dong20/SWEA-19004-점프-놀이D4) |
