@@ -1,4 +1,4 @@
-# 🚀 LeetCode Easy [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) (LeetCode)
+# 🚀 LeetCode Easy [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) (c++)
 
 > **날짜:** 2026년 5월 2일
 > **알고리즘:** Merge Sort, LinkedList, Two Pointer
