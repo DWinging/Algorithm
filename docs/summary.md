@@ -1,5 +1,16 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-05 | D6 [영준이의 무게측정](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LeQJqDpwDFAXc) (1849)
+> 플랫폼: SWEA <br>
+> 알고리즘: Union-Find, 가중치 분리 집합 (Weighted DSU)
+
+**🔧 트러블 슈팅:**
+* **경로 압축 시점의 논리적 오류:** Weighted Union-Find에서 가중치를 갱신하는 타이밍이 중요함. Root를 우선 탐색한 후 스택을 활용해 역으로 내려오면서(Top-Down)으로 갱신해야 정확하게 가중치를 갱신할 수 있음
+
+**🔗 기록:** [github](../Algorithm/2026/05/05/영준이의_무게측정/) | [velog](https://velog.io/@dong20/c-SWEA-영준이의-무게측정)
+
+---
+
 ### 🚀 2026-05-04 | D5 [영어 공부](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNQOb3avD0DFAXS&categoryId=AXNQOb3avD0DFAXS&categoryType=CODE&problemTitle=%EC%98%81%EC%96%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (10507)
 > 플랫폼: SWEA <br>
 > 알고리즘: Two-Pointer
