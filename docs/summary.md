@@ -1,6 +1,20 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-06 | ㅣv3 [표현 가능한 이진 트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=cpp#)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 분할 정복, 비트 마스킹
+
+**🔧 트러블 슈팅:**
+* **트리의 크기(비트 수) 산정 오류:** 초기에 변수의 비트 크기를 1, 2, 3, 4... 씩 선형적으로 탐색하려 했으나, 포화 이진 트리가 형성되지 않는 경우가 발생함. 비트 사이즈를 $2^n$-1 규격에 맞추어 트리의 중앙을 보장하도록 사이즈 산출 로직을 교정함
+* **재귀 함수 기저 조건 누락:** 문제 로직 특성상 별도의 기저 조건이 없어도 무한 루프가 발생하지 않지만, 위험성을 내포한 코드로 `if(bit_count <= 1) return 1;` 기저 조건을 추가함
+
+**🔗 기록:** [github](../Algorithm/2026/05/06/표현_가능한_이진트리/) | [velog](https://velog.io/@dong20/c-프로그래머스-표현-가능한-이진-트리)
+
+---
+
 ### 🚀 2026-05-05 | D6 [영준이의 무게측정](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LeQJqDpwDFAXc) (1849)
+
 > 플랫폼: SWEA <br>
 > 알고리즘: Union-Find, 가중치 분리 집합 (Weighted DSU)
 
@@ -12,6 +26,7 @@
 ---
 
 ### 🚀 2026-05-04 | D5 [영어 공부](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNQOb3avD0DFAXS&categoryId=AXNQOb3avD0DFAXS&categoryType=CODE&problemTitle=%EC%98%81%EC%96%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (10507)
+
 > 플랫폼: SWEA <br>
 > 알고리즘: Two-Pointer
 
@@ -25,6 +40,7 @@
 ---
 
 ### 🚀 2026-05-02 | Easy [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
 > 플랫폼: LeetCode <br>
 > 알고리즘: Merge Sort, LinkedList, Two Pointer
 
@@ -38,6 +54,7 @@
 ---
 
 ### 🚀 2026-05-01 | Lv3 [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) 
+
 > 플랫폼: 프로그래머스 <br>
 > 알고리즘: Dijkstra, 0-1BFS 응용
 
@@ -51,6 +68,7 @@
 ---
 
 ### 🚀 2026-04-30 | D4 [점프 놀이 (19004)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYtrEOraDk0DFAR-&categoryId=AYtrEOraDk0DFAR-&categoryType=CODE&problemTitle=%EC%A0%90%ED%94%84+%EB%86%80%EC%9D%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
 > 플랫폼: SWEA <br>
 > 알고리즘: DP + DFS (Sequential Pathfinding)
 
