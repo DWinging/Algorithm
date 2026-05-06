@@ -1,7 +1,7 @@
 ## 📑 Engineering Index: Logic & Optimization Database
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 26-05-06 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=cpp#) 표현 가능한 이진 트리 | 분할 정복, 비트마스킹 | 포화 이진트리, 비트 연산 | [github](../Algorithm/2026/05/05/영준이의_무게측정/) | [velog](https://velog.io/@dong20/c-프로그래머스-표현-가능한-이진-트리) |
 | 26-05-05 | SWEA | [1849](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LeQJqDpwDFAXc) 영준이의 무게 측정 | Union-Find, 가중치 분리 집합 (Weighted DSU) | 가중치 갱신 타이밍, 경로 압축, 수학적 역산 | [github](../Algorithm/2026/05/05/영준이의_무게측정/) | [velog](https://velog.io/@dong20/c-SWEA-영준이의-무게측정) |
 | 26-05-04 | SWEA | [10507](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNQOb3avD0DFAXS&categoryId=AXNQOb3avD0DFAXS&categoryType=CODE&problemTitle=%EC%98%81%EC%96%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 영어 공부 | Two-Pointer | `접근 방식`, `메모리 관리` | [github](../Algorithm/2026/05/04/영어_공부/) | [velog](https://velog.io/@dong20/c-SWEA-영어-공부) |
