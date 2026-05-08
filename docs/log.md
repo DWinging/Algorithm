@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-05-08 | LeetCode | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | 트리, 분할 정복, 재귀 | 분할 정복, 트리에서의 순회 | [github](../Algorithm/2026/05/08/leetCode_Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | - |
 | 26-05-07 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=java) 카드 짝 맞추기 | 시뮬레이션, DFS, BFS | 시뮬레이션, 백트래킹 설계 | [github](../Algorithm/2026/05/07/카드_짝_맞추기/) | [velog](https://velog.io/@dong20/Java-프로그래머스-카드-짝-맞추기) |
 | 26-05-06 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=cpp#) 표현 가능한 이진 트리 | 분할 정복, 비트마스킹 | 포화 이진트리, 비트 연산 | [github](../Algorithm/2026/05/06/표현_가능한_이진트리/) | [velog](https://velog.io/@dong20/c-프로그래머스-표현-가능한-이진-트리) |
 | 26-05-05 | SWEA | [1849](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LeQJqDpwDFAXc) 영준이의 무게 측정 | Union-Find, 가중치 분리 집합 (Weighted DSU) | 가중치 갱신 타이밍, 경로 압축, 수학적 역산 | [github](../Algorithm/2026/05/05/영준이의_무게측정/) | [velog](https://velog.io/@dong20/c-SWEA-영준이의-무게측정) |
