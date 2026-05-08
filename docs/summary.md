@@ -1,5 +1,23 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-08 | mid [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 트리, 분할 정복, 재귀
+
+
+**💡 핵심 인사이트:**
+* **정교한 인덱스 관리:** 배열 복사(substring, Slicing)를 배제하고 인덱스(Start, End)만으로 구간을 정의하는 방식은 성능상 이점이 크지만, 오프셋 계산에서 한 치의 오차도 허용하지 않는 정밀한 설계 능력을 요구합니다.
+* **최적화의 기술 (O(N)):** inorder 배열의 root를 탐색하는 과정에서 HashMap을 활용하면 편향트리에서도 안정적인 성능을 기대할 수 있습니다.
+
+**🔧 트러블 슈팅:**
+* **변수명 오타로 인한 런타임 에러 (s vs e):** C++ 리팩토링 중 왼쪽 서브트리의 구간을 설정할 때, 시작점(sPre)이 아닌 끝점(ePre)을 기준으로 계산식을 작성하여 범위를 이탈하는 버그가 발생함.
+* **중복 탐색의 비효율 제거:** 초기 설계에서 매 재귀마다 inorder 배열을 순차 탐색하던 로직을 HashMap 기반 인덱싱으로 전환함. "고유값(Unique Values)"이라는 문제의 전제 조건을 활용해 시간 복잡도를 $O(N^2)$에서 $O(N)$으로 끌어올려 성능 안정성을 확보함.
+  
+**🔗 기록:** [github](../Algorithm/2026/05/08/leetCode_Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/)
+
+---
+
 ### 🚀 2026-05-07 | Lv3 [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=java)
 
 > 플랫폼: 프로그래머스 <br>
