@@ -1,11 +1,9 @@
-# 🚀 프로그래머스 Lv3 [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) (Java)
-
-> **날짜:** 2026년 5월 1일
-> **알고리즘:** Dijkstra, 0-1 BFS 응용
-> **언어:** Java 8  
+### 🚀 프로그래머스 Lv3 [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) (Java)
+ 
+> **날짜:** 2026년 5월 1일 <br>
+> **알고리즘:** Dijkstra, 0-1 BFS 응용 <br>
+> **언어:** Java 8   <br>
 > **핵심 키워드:** PriorityQueue, Deque, Relaxation, Engineering Trade-off
-
----
 
 ## 📌 문제 개요
 $N \times N$ 격자판의 좌측 상단 `(0, 0)`에서 우측 하단 `(N-1, N-1)`까지 경주로를 건설하는 데 필요한 **최소 비용**을 구하는 문제입니다. 인접한 칸으로 이동하는 직선 도로는 100원이 소요되며, 방향을 꺾는 코너를 만들 경우 500원이 추가되어 총 600원이 소요됩니다. 같은 좌표라도 **진입 방향**에 따라 이후 발생하는 비용이 달라지는 것이 특징입니다.

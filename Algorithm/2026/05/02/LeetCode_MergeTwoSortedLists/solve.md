@@ -1,11 +1,9 @@
-# 🚀 LeetCode Easy [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) (c++)
+### 🚀 LeetCode Easy [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) (c++)
 
-> **날짜:** 2026년 5월 2일
-> **알고리즘:** Merge Sort, LinkedList, Two Pointer
-> **언어:** c++
+> **날짜:** 2026년 5월 2일 <br>
+> **알고리즘:** Merge Sort, LinkedList, Two Pointer <br>
+> **언어:** c++ <br>
 > **핵심 키워드:** LinkedList
-
----
 
 ## 📌 문제 개요
 두 개의 정렬된 연결 리스트(`list1`, `list2`)를 하나의 정렬된 연결 리스트로 병합하는 문제입니다. 새로운 노드를 생성하지 않고, 기존 리스트의 노드들을 적절히 이어 붙여(Splicing) 공간 효율성을 높이는 것이 핵심입니다.

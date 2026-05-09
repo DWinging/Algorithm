@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-09 | D4 [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr&categoryId=AWBJKA6qr2oDFAWr&categoryType=CODE&problemTitle=%EC%84%9C%EB%A1%9C%EC%86%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 분리 집합, Union-Find
+
+**💡 핵심 인사이트:**
+
+* **경로 압축을 통한 연산 최적화 (O(α(N))):** `find` 수행 시 부모 노드를 루트 노드로 즉시 갱신하는 경로 압축(Path Compression) 기법을 적용하여, 비선형 트리 구조를 평탄화함으로써 연산당 시간 복잡도를 애커만 역함수 수준으로 수렴시켜 탐색 효율을 극대화합니다.
+* **반복문 기반의 비재귀 구현 (Iterative Stability):** 재귀 호출에 따른 시스템 스택 오버헤드 및 메모리 제한 리스크를 제거하기 위해 반복문(While-loop)으로 `find` 로직을 설계함으로써, 대규모 데이터셋 처리 환경에서도 일관된 성능과 구조적 안정성을 확보합니다.
+  
+**🔗 기록:** [github](../Algorithm/2026/05/09/SWEA_서로소_집합/)
+
+---
+
 ### 🚀 2026-05-08 | mid [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
 
 > 플랫폼: LeetCode <br>

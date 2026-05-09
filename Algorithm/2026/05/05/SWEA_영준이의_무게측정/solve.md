@@ -1,11 +1,9 @@
 ### SWEA D6 [영준이의 무게측정](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LeQJqDpwDFAXc) (C++)
 
-> **날짜:** 2026년 5월 5일
-> **알고리즘:** Union-Find, 가중치 분리 집합 (Weighted DSU)
-> **언어:** C++, Java
+> **날짜:** 2026년 5월 5일 <br>
+> **알고리즘:** Union-Find, 가중치 분리 집합 (Weighted DSU) <br>
+> **언어:** C++, Java <br>
 > **핵심 키워드:** 가중치 갱신 타이밍, 경로 압축, 수학적 역산
-
----
 
 ## 📌 문제 개요
 양팔 저울을 사용해 두 샘플의 무게를 비교하고, 특정 두 샘플의 무게 차이를 구하는 문제입니다. 

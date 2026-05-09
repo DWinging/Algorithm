@@ -1,11 +1,9 @@
-# SWEA D5 [영어 공부](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNQOb3avD0DFAXS&categoryId=AXNQOb3avD0DFAXS&categoryType=CODE&problemTitle=%EC%98%81%EC%96%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (c++)
+### SWEA D5 [영어 공부](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNQOb3avD0DFAXS&categoryId=AXNQOb3avD0DFAXS&categoryType=CODE&problemTitle=%EC%98%81%EC%96%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (c++)
 
-> **날짜:** 2026년 5월 4일
-> **알고리즘:** Two Pointer
-> **언어:** c++
+> **날짜:** 2026년 5월 4일 <br>
+> **알고리즘:** Two Pointer <br>
+> **언어:** c++ <br>
 > **핵심 키워드:** 미래 예측 vs 현재 수습
-
----
 
 ## 📌 문제 개요
 체크된 공부 날짜들이 주어질 때, 결석한 날을 최대 `p`번까지 채워 넣어 만들 수 있는 **가장 긴 연속 공부 기간**을 구하는 문제입니다. 투 포인터를 활용하여 탐색 범위를 최적화하고 시간 복잡도를 줄이는 것이 핵심입니다.

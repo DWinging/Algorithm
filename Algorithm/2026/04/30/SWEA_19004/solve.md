@@ -1,11 +1,9 @@
-# 🚀 SWEA 19004. [점프 놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYtrEOraDk0DFAR-&categoryId=AYtrEOraDk0DFAR-&categoryType=CODE&problemTitle=%EC%A0%90%ED%94%84+%EB%86%80%EC%9D%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (Java)
+### 🚀 SWEA 19004. [점프 놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYtrEOraDk0DFAR-&categoryId=AYtrEOraDk0DFAR-&categoryType=CODE&problemTitle=%EC%A0%90%ED%94%84+%EB%86%80%EC%9D%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (Java)
 
-> **날짜:** 2026년 4월 30일
-> **알고리즘:** Dynamic Programming (DP), Depth First Search (DFS)  
-> **언어:** Java 8  
+> **날짜:** 2026년 4월 30일 <br>
+> **알고리즘:** Dynamic Programming (DP), Depth First Search (DFS)   <br>
+> **언어:** Java 8   <br>
 > **핵심 키워드:** Memoization, Bottom-up vs Top-down, Low-level Optimization
-
----
 
 ## 📌 문제 개요
 $N \times N$ 격자판에서 각 타일에 적힌 숫자 $i$번에서 $i+1$번으로 순차적으로 점프하여 최종적으로 $K$번 타일에 도달하는 최단 거리를 구하는 문제입니다. 점프 거리는 **맨해튼 거리**($|y1-y2| + |x1-x2|$)를 사용하며, $1$부터 $K$까지 모든 숫자를 거쳐야 합니다. 하나라도 숫자가 누락되면 도달 불가능으로 간주합니다.
