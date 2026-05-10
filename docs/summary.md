@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-10 | D5 [홍준이의 사전 놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS&categoryId=AV_6pTXqsXUDFAWS&categoryType=CODE&problemTitle=%EC%82%AC%EC%A0%84&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 트라이
+
+**💡 핵심 인사이트:**
+
+* **2차원 정적 배열 기반 Trie:** `trie[MAX_NODE][26]` 배열을 선언하여, 각 노드에서 다음 알파벳으로 이동하는 경로를 인덱스 참조($O(1)$)로 즉시 찾아가도록 설계했습니다.
+* **실시간 접두사 카운팅:** 단어를 삽입할 때 트리를 내려가면서 거쳐가는 모든 노드의 `count` 값을 `+1` 해줍니다. 이렇게 하면 `query` 시 해당 접두사의 마지막 노드에 저장된 값을 읽기만 하면 됩니다.
+  
+**🔗 기록:** [github](../Algorithm/2026/05/10/SWEA_홍준이의_사전놀이/)
+
+---
+
 ### 🚀 2026-05-09 | D4 [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr&categoryId=AWBJKA6qr2oDFAWr&categoryType=CODE&problemTitle=%EC%84%9C%EB%A1%9C%EC%86%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
 > 플랫폼: SWEA <br>
