@@ -1,5 +1,20 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-11 | Medium [검색어와 접두사](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-search-terms-and-prefixes/description)
+
+> 플랫폼: 코드 트리 <br>
+> 알고리즘: 트라이
+
+**💡 핵심 인사이트:**
+
+* **메모리 사용량 절감:** 메모리 낭비가 심한 2차원 배열 기반 트라이가 아닌 1차원 배열 기반 트라이인 LCRS를 구현함
+* **CPU 캐시 지역성 극대화:** LCRS 트라이는 메모리 상의 데이터가 연속으로 배치함으로써 캐시 히트율을 비약적으로 상승시키면서 빠르고 안정적인 속도를 보여줌
+* **확장성:** 문자의 종류나 길이에 영향을 받지 않는 LCRS를 구현하여 확장성을 높임
+  
+**🔗 기록:** [github](../Algorithm/2026/05/11/코드트리_검색어와_접두사/)
+
+---
+
 ### 🚀 2026-05-10 | D5 [홍준이의 사전 놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS&categoryId=AV_6pTXqsXUDFAWS&categoryType=CODE&problemTitle=%EC%82%AC%EC%A0%84&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
 > 플랫폼: SWEA <br>

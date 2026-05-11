@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-05-11 | 코드트리 | [Medium](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-search-terms-and-prefixes/description) 검색어와 접두사 | 트라이 | LCRS, 모듈화 | [github](../Algorithm/2026/05/11/코드트리_검색어와_접두사/) | [velog](https://velog.io/@dong20/Java-코드트리-검색어와-접두사) |
 | 26-05-10 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS&categoryId=AV_6pTXqsXUDFAWS&categoryType=CODE&problemTitle=%ED%99%8D%EC%A4%80%EC%9D%B4%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 홍준이의 사전 놀이 | 트라이 | 정적 할당 | [github](../Algorithm/2026/05/10/SWEA_홍준이의_사전놀이/) | - |
 | 26-05-09 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr&categoryId=AWBJKA6qr2oDFAWr&categoryType=CODE&problemTitle=%EC%84%9C%EB%A1%9C%EC%86%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 서로소 집합 | 분리 집합, Union-Find | 경로 압축 | [github](../Algorithm/2026/05/09/SWEA_서로소_집합/) | - |
 | 26-05-08 | LeetCode | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | 트리, 분할 정복, 재귀 | 분할 정복, 트리에서의 순회 | [github](../Algorithm/2026/05/08/leetCode_Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | - |
