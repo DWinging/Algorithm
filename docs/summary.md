@@ -1,5 +1,20 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-12 | Lv3 [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: Stack
+
+**💡 핵심 인사이트:**
+
+* **정렬 + Lazy Delete:** : $O(NlonN)$의 시간 복잡도를 가짐. Lazy Delete 방식을 적용하기 떄문에 반복적인 if 조건 분기나 별도의 상태 추적 로직이 필요함.
+* **PriorityQueue(우선 순위 큐):** 시간복잡도가 $O(NlogN)$에 수렴함. 전체 배열 정렬 방식보다 논리적으로 유리하지만, 최악의 경우 차이가 없음
+* **Stack(정적 배열 제어):** $O(N)$ (배열을 한 번 순회하며 전처리)의 시간복잡도를 가짐. int[] 정적배열과 top 포인터만 사용하여 메모리를 제어하며, 현재 값과 `stack[top]` 단 1번의 비교 연산만으로 로직이 수행하여 오버헤드가 줄어듬
+  
+**🔗 기록:** [github](../Algorithm/2026/05/12/프로그래머스_풍선_터트리기/)
+
+---
+
 ### 🚀 2026-05-11 | Medium [검색어와 접두사](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-search-terms-and-prefixes/description)
 
 > 플랫폼: 코드 트리 <br>
