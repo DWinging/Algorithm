@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-05-13 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4xuqCqBeUDFAUx) 인수의 생일 파티 | Dijkstra, SPFA | Dijkstra, SPFA, 모듈화 | [github](../Algorithm/2026/05/13/SWEA_인수의_생일_파티/) | - |
 | 26-05-12 | 프로그래머스 | [Lv3](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-search-terms-and-prefixes/description) 풍선 터트리기 | Stack | Stack, Sorting, PriorityQueue | [github](../Algorithm/2026/05/12/프로그래머스_풍선_터트리기/) | [velog](https://velog.io/@dong20/Java-프로그래머스-풍선-터트리기) |
 | 26-05-11 | 코드트리 | [Medium](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-search-terms-and-prefixes/description) 검색어와 접두사 | 트라이 | LCRS, 모듈화 | [github](../Algorithm/2026/05/11/코드트리_검색어와_접두사/) | [velog](https://velog.io/@dong20/Java-코드트리-검색어와-접두사) |
 | 26-05-10 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS&categoryId=AV_6pTXqsXUDFAWS&categoryType=CODE&problemTitle=%ED%99%8D%EC%A4%80%EC%9D%B4%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 홍준이의 사전 놀이 | 트라이 | 정적 할당 | [github](../Algorithm/2026/05/10/SWEA_홍준이의_사전놀이/) | - |

@@ -1,5 +1,21 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-13 | D6 [인수의 생일 파티](https://school.programmers.co.kr/learn/courses/30/lessons/68646)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: Dijkstra, SPFA
+
+**💡 핵심 인사이트:**
+
+* **Dijkstra (PQ):** $O(E \log V)$. 매 갱신마다 힙(Heap) 재배치 비용이 발생하며, 정점 전체를 동기화해야 하는 상황에서는 이 정렬 세금이 성능 병목의 원인이 됨. (161ms)
+* **SPFA (Deque):** 평균 $O(V+E)$. 정렬 없이 $O(1)$의 Deque 연산만 수행. '전파' 특성이 강한 문제 데이터에서 다익스트라 대비 약 40%의 시간 및 20%의 메모리 절감 효과를 보임. (95ms)
+* **Early Exit (조기 종료):** `total < n` 조건을 통해 모든 노드의 거리가 확정된 순간 루프를 탈출함. 큐에 잔류한 중복 노드들에 의한 불필요한 힙 연산과 탐색을 물리적으로 차단함.
+* **Modularity (캡슐화):** 로직과 상태를 클래스로 격리하여 설계의 밀도를 높임. 유연한 구조 덕분에 코드 전면 수정 없이 내부 엔진(PQ ↔ Deque)만 교체하는 전략적 성능 최적화가 가능했음.
+  
+**🔗 기록:** [github](../Algorithm/2026/05/13/SWEA_인수의_생일_파티/)
+
+---
+
 ### 🚀 2026-05-12 | Lv3 [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)
 
 > 플랫폼: 프로그래머스 <br>
