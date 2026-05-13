@@ -5,7 +5,6 @@
 > **언어:**  Java <br>
 > **핵심 키워드:** 다익스트라, 역방향 간선, 객체지향 모듈화, SPFA
 
-
 ## 📌 문제 개요
 
 * $N$개의 마을에 사는 사람들이 $X$번 마을에 모여 파티를 하고 다시 각자의 마을로 돌아가야 한다.
@@ -71,10 +70,11 @@
 
 ---
 
-### 📂 소스 코드
+### 📂 기록
+*   [Detailed Review (Velog)](https://velog.io/@dong20/Java-SWEA-인수의-생일-파티)
+
+*   [Solution (main)](./Solution.java)
 *   [Input](./Input/Input.java)
 *   [Dijkstra](./Dijkstra/Dijkstra.java)
 *   [SPFA](./SPFA/Spfa.java)
-*   [Solution (main)](./Solution.java)
- 
 ---

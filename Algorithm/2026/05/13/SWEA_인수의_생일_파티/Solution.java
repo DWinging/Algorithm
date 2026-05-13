@@ -1,6 +1,6 @@
 import Dijkstra.Dijkstra;
 import Input.Input;
-import Input.SPFA;
+import SPFA.Spfa;
 import java.io.IOException;
 
 class Solution {    
@@ -16,11 +16,11 @@ class Solution {
 
         // GC 부하를 줄이기 위해 루프 밖에서 인스턴스 생성 및 재사용
         Dijkstra dij1 = new Dijkstra(MAX_SIZE); // 정방향: S -> Every
-        Dijkstra dij2 = new Dijkstra(MAX_SIZE); // 역방향: Every -> S (돌아오는 길)
+        // Dijkstra dij2 = new Dijkstra(MAX_SIZE); // 역방향: Every -> S (돌아오는 길)
 
         // SPFA
         // Spfa dij1 = new Spfa(MAX_SIZE); // 정방향: S -> Every
-        // Spfa dij2 = new Spfa(MAX_SIZE); // 역방향: Every -> S (돌아오는 길)
+        Spfa dij2 = new Spfa(MAX_SIZE); // 역방향: Every -> S (돌아오는 길)
 
         for(int t = 1; t <= T; t++) {
             int n = input.readInt();

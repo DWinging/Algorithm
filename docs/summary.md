@@ -12,7 +12,7 @@
 * **Early Exit (조기 종료):** `total < n` 조건을 통해 모든 노드의 거리가 확정된 순간 루프를 탈출함. 큐에 잔류한 중복 노드들에 의한 불필요한 힙 연산과 탐색을 물리적으로 차단함.
 * **Modularity (캡슐화):** 로직과 상태를 클래스로 격리하여 설계의 밀도를 높임. 유연한 구조 덕분에 코드 전면 수정 없이 내부 엔진(PQ ↔ Deque)만 교체하는 전략적 성능 최적화가 가능했음.
   
-**🔗 기록:** [github](../Algorithm/2026/05/13/SWEA_인수의_생일_파티/)
+**🔗 기록:** [github](../Algorithm/2026/05/13/SWEA_인수의_생일_파티/) | [velog](https://velog.io/@dong20/Java-SWEA-인수의-생일-파티)
 
 ---
 
@@ -27,11 +27,12 @@
 * **PriorityQueue(우선 순위 큐):** 시간복잡도가 $O(NlogN)$에 수렴함. 전체 배열 정렬 방식보다 논리적으로 유리하지만, 최악의 경우 차이가 없음
 * **Stack(정적 배열 제어):** $O(N)$ (배열을 한 번 순회하며 전처리)의 시간복잡도를 가짐. int[] 정적배열과 top 포인터만 사용하여 메모리를 제어하며, 현재 값과 `stack[top]` 단 1번의 비교 연산만으로 로직이 수행하여 오버헤드가 줄어듬
   
-**🔗 기록:** [github](../Algorithm/2026/05/12/프로그래머스_풍선_터트리기/)
+**🔗 기록:** [github](../Algorithm/2026/05/12/프로그래머스_풍선_터트리기/) | [velog](https://velog.io/@dong20/Java-프로그래머스-풍선-터트리기)
+
 
 ---
 
-### 🚀 2026-05-11 | Medium [검색어와 접두사](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-search-terms-and-prefixes/description)
+### 🚀 2026-05-11 | Medium [검색어와 접두사](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-search-terms-and-prefixes/description) 
 
 > 플랫폼: 코드 트리 <br>
 > 알고리즘: 트라이
@@ -42,7 +43,7 @@
 * **CPU 캐시 지역성 극대화:** LCRS 트라이는 메모리 상의 데이터가 연속으로 배치함으로써 캐시 히트율을 비약적으로 상승시키면서 빠르고 안정적인 속도를 보여줌
 * **확장성:** 문자의 종류나 길이에 영향을 받지 않는 LCRS를 구현하여 확장성을 높임
   
-**🔗 기록:** [github](../Algorithm/2026/05/11/코드트리_검색어와_접두사/)
+**🔗 기록:** [github](../Algorithm/2026/05/11/코드트리_검색어와_접두사/) | [velog](https://velog.io/@dong20/Java-코드트리-검색어와-접두사)
 
 ---
 

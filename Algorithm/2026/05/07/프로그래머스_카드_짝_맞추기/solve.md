@@ -58,7 +58,9 @@
 
 ---
 
-### 📂 소스 코드
+### 📂 기록
+*   [Detailed Review (Velog)](https://velog.io/@dong20/Java-프로그래머스-카드-짝-맞추기)
+
 *   [정답 코드 및 최적화 버전 (Java)](./Solution.java)
 *   [리팩토링 이전 높은 결합도 코드 (Java)](./Legacy_Solution.java)
   

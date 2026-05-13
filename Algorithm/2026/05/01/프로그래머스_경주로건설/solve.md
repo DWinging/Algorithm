@@ -53,7 +53,9 @@ $N \times N$ 격자판의 좌측 상단 `(0, 0)`에서 우측 하단 `(N-1, N-1)
 
 ---
 
-### 📂 소스 코드
+### 📂 기록
+*   [Detailed Review (Velog)](https://velog.io/@dong20/Java-프로그래머스-경주로-건설)
+
 *   [Dijkstra (Standard) 풀이 바로가기](./Solution_dijkstra.java)
 *   [0-1 BFS 응용 (Performance Optimized) 풀이 바로가기](./Solution_01BFS.java)
 

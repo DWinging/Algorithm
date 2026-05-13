@@ -49,7 +49,9 @@
 
 ---
 
-### 📂 소스 코드
+### 📂 기록
+*   [Detailed Review (Velog)](https://velog.io/@dong20/c-SWEA-영어-공부)
+
 *   [미래 예측 전략](./solution.c++)
 *   [현재 수습 전략](solution_ver2.c++)
 *   [번외 : Undefined Behavior 풀이](solution_ver3.c++)

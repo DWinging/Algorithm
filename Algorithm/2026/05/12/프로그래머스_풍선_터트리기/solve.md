@@ -57,6 +57,7 @@
 ---
 
 ### 📂 소스 코드
+*   [Detailed Review (Velog)](https://velog.io/@dong20/Java-프로그래머스-풍선-터트리기)
 *   [정답 코드 - Stack 풀이](./ac_code.java)
  
 ---
