@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-05-14 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/12904) 가장 긴 팰린드롬 | DP(동적 계획법) | DP, 팰린드롬 | [github](../Algorithm/2026/05/14/프로그래머스_가장_긴_팰린드롬/) | - |
 | 26-05-13 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4xuqCqBeUDFAUx) 인수의 생일 파티 | Dijkstra, SPFA | Dijkstra, SPFA, 모듈화 | [github](../Algorithm/2026/05/13/SWEA_인수의_생일_파티/) | [velog](https://velog.io/@dong20/Java-SWEA-인수의-생일-파티) |
 | 26-05-12 | 프로그래머스 | [Lv3](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-search-terms-and-prefixes/description) 풍선 터트리기 | Stack | Stack, Sorting, PriorityQueue | [github](../Algorithm/2026/05/12/프로그래머스_풍선_터트리기/) | [velog](https://velog.io/@dong20/Java-프로그래머스-풍선-터트리기) |
 | 26-05-11 | 코드트리 | [Medium](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-search-terms-and-prefixes/description) 검색어와 접두사 | 트라이 | LCRS, 모듈화 | [github](../Algorithm/2026/05/11/코드트리_검색어와_접두사/) | [velog](https://velog.io/@dong20/Java-코드트리-검색어와-접두사) |
