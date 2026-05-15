@@ -1,5 +1,22 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-15 | Lv4 [행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: Deque
+
+* **🔧 트러블 슈팅:**
+
+* **인덱스 관리:**
+* Deque 자료 구조를 사용하면 쉽게 풀 수 있지만, Deque 대신 Array를 사용한 풀이를 시도함
+* 단순하게 생각했지만, midDeque를 각각의 Head와 Tail을 관리해야한다는 점을 놓치면서 풀이에 실패함
+
+
+**🔗 기록:** [github](../Algorithm/2026/05/14/프로그래머스_가장_긴_팰린드롬/)
+
+---
+
+
 ### 🚀 2026-05-14 | Lv3 [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)
 
 > 플랫폼: 프로그래머스 <br>
