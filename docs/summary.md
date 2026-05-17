@@ -1,5 +1,22 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-17 | D4 [트리 바꾸기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZyNVrgKAVXHBIRj&categoryId=AZyNVrgKAVXHBIRj&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (26390)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 트리
+
+**💡 풀이 핵심(Core Logic):**
+*  **문제의 핵심 파악하기:** 
+*  N개의 정점과 N-1개의 간선을 가진 **연결 그래프(트리)**가 주어짐 => 혼자서 따로 떨어진 노드는 존재하지 않음
+*  필요한 작업 횟수의 최솟값을 구해야 함 => 트리를 하나의 체인으로 바꿀 필요는 없음
+*  **작업의 특징 파악하기:**
+*  이미 연결된 X, Y를 골라 X와 Y사이의 간선을 끊고, X에 연결되어 있지 않은 정점 Z를 골라 X와 Z를 연결함
+*  1번의 작업을 수행하더라도, X에서 연결된 간선의 수는 유지된다는 사실을 파악해야 함
+
+**🔗 기록:** [github](../Algorithm/2026/05/17/SWEA_트리_바꾸기/)
+
+---
+
 ### 🚀 2026-05-15 | Lv4 [행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670)
 
 > 플랫폼: 프로그래머스 <br>

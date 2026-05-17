@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-05-17 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZyNVrgKAVXHBIRj&categoryId=AZyNVrgKAVXHBIRj&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 트리 바꾸기 | 트리 | 트리 | [github](../Algorithm/2026/05/17/SWEA_트리_바꾸기/) | - |
 | 26-05-15 | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/118670) 행렬과 연산 | 자료구조, Deque | Deque | [github](../Algorithm/2026/05/15/프로그래머스_행렬과_연산/) | - |
 | 26-05-14 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/12904) 가장 긴 팰린드롬 | DP(동적 계획법) | DP, 팰린드롬 | [github](../Algorithm/2026/05/14/프로그래머스_가장_긴_팰린드롬/) | - |
 | 26-05-13 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4xuqCqBeUDFAUx) 인수의 생일 파티 | Dijkstra, SPFA | Dijkstra, SPFA, 모듈화 | [github](../Algorithm/2026/05/13/SWEA_인수의_생일_파티/) | [velog](https://velog.io/@dong20/Java-SWEA-인수의-생일-파티) |
