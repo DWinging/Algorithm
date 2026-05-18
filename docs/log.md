@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-05-18 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) 코딩 테스트 공부 | DP(동적계획법), 다익스트라 | DP(동적계획법), 다익스트라 | [github](../Algorithm/2026/05/18/프로그래머스_코딩_테스트_공부/) | - |
 | 26-05-17 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZyNVrgKAVXHBIRj&categoryId=AZyNVrgKAVXHBIRj&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 트리 바꾸기 | 트리 | 트리 | [github](../Algorithm/2026/05/17/SWEA_트리_바꾸기/) | - |
 | 26-05-15 | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/118670) 행렬과 연산 | 자료구조, Deque | Deque | [github](../Algorithm/2026/05/15/프로그래머스_행렬과_연산/) | - |
 | 26-05-14 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/12904) 가장 긴 팰린드롬 | DP(동적 계획법) | DP, 팰린드롬 | [github](../Algorithm/2026/05/14/프로그래머스_가장_긴_팰린드롬/) | - |

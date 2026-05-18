@@ -1,5 +1,20 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-18 | Lv3 [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: DP(동적 계획법), 다익스트라
+
+**💡 풀이 핵심(Core Logic):**
+*  **문제의 핵심 파악하기:** 
+*  모든 문제를 풀 수 있는 알고력과 코딩력을 얻는 최단시간을 return해야함
+*  모든 문제를 풀 필요가 없고, 알고력과 코딩력이 일정 수준에 도달하는 시간을 구하는 문제
+*  다익스트라와 DP 풀이 방식이 있음
+
+**🔗 기록:** [github](../Algorithm/2026/05/18/프로그래머스_코딩_테스트_공부/)
+
+---
+
 ### 🚀 2026-05-17 | D4 [트리 바꾸기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZyNVrgKAVXHBIRj&categoryId=AZyNVrgKAVXHBIRj&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (26390)
 
 > 플랫폼: SWEA <br>
