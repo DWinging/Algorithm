@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-19 | Lv3 [등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: Tree, 트리에서의 DP, BFS, DFS
+
+**💡 풀이 핵심(Core Logic):**
+*  **관리해야하는 요소 찾기:**
+*  $i$ 위치의 등대를 켜는 경우와 켜지 않는 경우 상태 관리를 해야하는 문제
+
+**🔗 기록:** [github](../Algorithm/2026/05/19/프로그래머스_등대/)
+
+---
+
 ### 🚀 2026-05-18 | Lv3 [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
 
 > 플랫폼: 프로그래머스 <br>
