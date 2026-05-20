@@ -1,5 +1,26 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-20 | D6 [트리 복구](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXJZ-XXKCb0DFAU3)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: Tree, 위상 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+*  **입력값 주의:**
+*  조상과 자식 관계가 주어지며, 부모 자식 관계가 아님을 유의해야함
+
+<br>
+
+*  **위상 정렬:**
+*  트리 구조를 보장하고, 조상과 자식 관계가 주어지므로 우선순위가 명확하게 나누어짐
+*  트리가 유일하게 결정됨을 보장한다는 조건을 통해 DAG에서 사이클이 발생하지 않음을 파악해야함
+
+**🔗 기록:** [github](../Algorithm/2026/05/20/SWEA_트리_복구/)
+
+---
+
+
 ### 🚀 2026-05-19 | Lv3 [등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500)
 
 > 플랫폼: 프로그래머스 <br>
