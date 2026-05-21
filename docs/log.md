@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-05-21 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsV8IaAXsDFAVW) 초보자를 위한 점프대 배치하기 | 그리디, 정렬 | 그리디, 정렬, 규칙 찾기 | [github](../Algorithm/2026/05/21/SWEA_초보자를_위한_점프대_배치하기/) | - |
 | 26-05-20 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXJZ-XXKCb0DFAU3) 트리 복구 | Tree, 위상 정렬 | 위상 정렬 | [github](../Algorithm/2026/05/20/SWEA_트리_복구/) | - |
 | 26-05-19 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/133500) 등대 | Tree, 트리에서의 DP, BFS, DFS | Tree, DP | [github](../Algorithm/2026/05/19/프로그래머스_등대/) | - |
 | 26-05-18 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) 코딩 테스트 공부 | DP(동적계획법), 다익스트라 | DP(동적계획법), 다익스트라 | [github](../Algorithm/2026/05/18/프로그래머스_코딩_테스트_공부/) | - |

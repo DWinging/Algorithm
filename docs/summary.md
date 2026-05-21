@@ -1,5 +1,21 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-21 | D5 [초보자를 위한 점프대 배치하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsV8IaAXsDFAVW)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 그리디, 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+*  **규칙 찾기:**
+*  값을 정렬 한 후 최솟값(또는 최댓값)을 기준으로 왼쪽과 오른쪽을 번갈아가면서 값을 추가하는 것이 핵심
+*  자료구조 덱 구조를 떠올리면 쉬운 접근이 가능함
+
+
+**🔗 기록:** [github](../Algorithm/2026/05/21/SWEA_초보자를_위한_점프대_배치하기/)
+
+---
+
 ### 🚀 2026-05-20 | D6 [트리 복구](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXJZ-XXKCb0DFAU3)
 
 > 플랫폼: SWEA <br>
