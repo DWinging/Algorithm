@@ -61,3 +61,10 @@
 *   [정답 코드 (c++)](./solution.c++)
 
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/Solution_java.png) <br> Solution.java <br><br>
+![](./img/Solution_c++.png) <br> Solution.c++
+
+---

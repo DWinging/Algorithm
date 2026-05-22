@@ -56,3 +56,11 @@
 *   [현재 수습 전략](solution_ver2.c++)
 *   [번외 : Undefined Behavior 풀이](solution_ver3.c++)
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/solution.png) <br> 미래 예측 전략 <br><br>
+![](./img/solution_ver2.png) <br> 현재 수습 전략 <br><br>
+![](./img/solution_ver3.png) <br> 번회 : Undefined Behavior 풀이
+
+---

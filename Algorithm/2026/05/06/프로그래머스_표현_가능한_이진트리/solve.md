@@ -61,3 +61,10 @@
 *   [Bitmasking 정답 코드 (C++)](./ac_code.cpp)
 *   [Bitmasking 오답 코드 (C++)](./wa_code.c++)
 ---
+
+
+### 🖥️ 실행 결과
+
+![](./img/ac_code_c++.png) <br> ac_code.c++
+
+---

@@ -54,3 +54,10 @@
 *   [Solution2 - if문을 제거하여 연산 과정 최적화](./Solution2.java)
  
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/Solution.png) <br> 정석 풀이 <br><br>
+![](./img/Solution2.png) <br> if문을 제거하여 연산 과정 최적화
+
+---

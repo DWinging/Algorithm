@@ -54,3 +54,11 @@
 *   [Weighted Union-Find 정답 코드 (java)](./ac_code.java)
 
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/ac_code_c++.png) <br> ac_code.c++ <br><br>
+![](./img/ac_code_java.png) <br> ac_code.java <br><br>
+
+
+---

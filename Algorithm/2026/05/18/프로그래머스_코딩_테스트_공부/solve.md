@@ -78,3 +78,11 @@
 *   [DP c++ 풀이](./Solution_dp.c++)
  
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/Solution.png) <br> 다익스트라 Java <br><br>
+![](./img/Solution_dp_java.png) <br> DP 풀이 - Java <br><br>
+![](./img/Solution_dp_c++.png) <br> DP 풀이 - c++ 
+
+---

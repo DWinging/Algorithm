@@ -62,3 +62,11 @@ $N \times N$ 격자판에서 각 타일에 적힌 숫자 $i$번에서 $i+1$번�
 *   [Bottom-up (Iteration DP) 풀이 바로가기](./Solution_BottomUp.c++)
  
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/Solution_TopDown_java.png) <br> TopDown - Java <br> 
+![](./img/Solution_BottomUp_java.png) <br> BottomUp - Java <br>
+![](./img/Solution_BottomUp_c++.png) <br> BottomUp - c++
+
+---

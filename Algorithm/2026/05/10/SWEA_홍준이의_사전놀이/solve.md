@@ -43,3 +43,9 @@
 *   [정답 코드 (UserSolution 부분)](./UserSolution.java)
  
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/UserSolution.png)
+
+---

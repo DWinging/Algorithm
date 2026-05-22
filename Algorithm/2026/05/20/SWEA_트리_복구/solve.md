@@ -42,3 +42,9 @@ $1$ 이상 $N$ 이하의 번호가 붙은 정점 $N$개와, 부모에서 자식�
 *   [Solution Java](./Solution.java)
  
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/Solution.png)
+
+---

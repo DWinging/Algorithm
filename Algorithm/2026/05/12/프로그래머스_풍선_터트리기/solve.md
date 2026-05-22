@@ -61,3 +61,9 @@
 *   [정답 코드 - Stack 풀이](./ac_code.java)
  
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/ac_code.png)
+
+---

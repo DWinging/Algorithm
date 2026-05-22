@@ -72,3 +72,9 @@ $N$개의 등대와 이들을 연결하는 $N-1$개의 뱃길이 주어집니다
 *   [Solution Java](./Solution.java)
  
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/Solution.png)
+
+---

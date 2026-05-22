@@ -43,8 +43,9 @@
  
 ---
 
-### 실행 결과
+### 🖥️ 실행 결과
 
-![](./img/result_Solution_c++.png)
+![](./img/result_Solution_c++.png) <br>Solution - c++ <br><br>
+![](./img/result_Solution_java.png) <br> Solution - Java
 
-![](./img/result_Solution_java.png)
+---

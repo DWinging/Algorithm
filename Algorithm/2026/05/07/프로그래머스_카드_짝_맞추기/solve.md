@@ -65,3 +65,10 @@
 *   [리팩토링 이전 높은 결합도 코드 (Java)](./Legacy_Solution.java)
   
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/Solution_java.png) <br> Solution.java <br><br>
+![](./img/Legacy_Solution_java.png) <br> Legacy_Solution.java
+
+---

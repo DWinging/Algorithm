@@ -60,3 +60,10 @@ $N \times N$ 격자판의 좌측 상단 `(0, 0)`에서 우측 하단 `(N-1, N-1)
 *   [0-1 BFS 응용 (Performance Optimized) 풀이 바로가기](./Solution_01BFS.java)
 
 ---
+
+### 🖥️ 실행 결과
+
+![Dijkstra](./img/Solution_dijkstra_java.png) <br> Dijkstra 풀이 <br><br>
+![](./img/Solution_01BFS_java.png) <br> 01 BFS 풀이
+
+---

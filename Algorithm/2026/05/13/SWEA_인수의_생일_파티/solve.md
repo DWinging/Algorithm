@@ -78,3 +78,10 @@
 *   [Dijkstra](./Dijkstra/Dijkstra.java)
 *   [SPFA](./SPFA/Spfa.java)
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/Dijkstra_Java.png) <br>다익스트라 풀이 <br><br>
+![](./img/SPFA_Java.png) <br>SPFA 풀이 <br><br>
+
+---

@@ -50,3 +50,9 @@
 ### 📂 소스 코드
 *   [LinkedList 풀이 바로가기](./Solution.c++)
 ---
+
+### 🖥️ 실행 결과
+
+![](./img/Solution.png)
+
+---
