@@ -42,3 +42,9 @@
 *   [Java 코드](./Solution.java)
  
 ---
+
+### 실행 결과
+
+![](./img/result_Solution_c++.png)
+
+![](./img/result_Solution_java.png)
