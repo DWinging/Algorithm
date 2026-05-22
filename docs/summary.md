@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-22 | D5 [줄 세우기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWvQdg1KU3QDFASy)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 그리디, 정렬, 비둘기 집의 원리
+
+**💡 풀이 핵심(Core Logic):**
+
+*  **사전 순 배치와 그리디:** 사전 순으로 가장 앞선 수열을 만들기 위해 작은 숫자부터 차례대로 줄을 세운다. 이웃한 숫자끼리 1 차이가 나는 상황마다 **뒤에 남은 숫자 중 가장 작은 값을 완충재로 가져와 그리디하게 돌파**하는 흐름을 잡는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/05/22/SWEA_줄_세우기/)
+
+---
+
 ### 🚀 2026-05-21 | D5 [초보자를 위한 점프대 배치하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsV8IaAXsDFAVW)
 
 > 플랫폼: SWEA <br>
