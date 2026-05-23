@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-05-23 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWopE0K61xADFARx) 스택 장인 | Stack | Stack | [github](../Algorithm/2026/05/23/SWEA_스택_장인/) | - |
 | 26-05-22 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWvQdg1KU3QDFASy) 줄 세우기 | 그리디, 비둘기 집의 원리 | 그리디, 정렬 | [github](../Algorithm/2026/05/22/SWEA_줄_세우기/) | - |
 | 26-05-21 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsV8IaAXsDFAVW) 초보자를 위한 점프대 배치하기 | 그리디, 정렬 | 그리디, 정렬, 규칙 찾기 | [github](../Algorithm/2026/05/21/SWEA_초보자를_위한_점프대_배치하기/) | - |
 | 26-05-20 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXJZ-XXKCb0DFAU3) 트리 복구 | Tree, 위상 정렬 | 위상 정렬 | [github](../Algorithm/2026/05/20/SWEA_트리_복구/) | - |

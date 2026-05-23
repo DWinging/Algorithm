@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-23 | D5 [스택 장인](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWopE0K61xADFARx)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: Stack
+
+**💡 풀이 핵심(Core Logic):**
+
+*  **Stack 이해도:** 문제의 내용 처럼 Stack을 자유자제로 사용하는 것이 핵심.
+
+**🔗 기록:** [github](../Algorithm/2026/05/23/SWEA_스택_장인/)
+
+---
+
 ### 🚀 2026-05-22 | D5 [줄 세우기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWvQdg1KU3QDFASy)
 
 > 플랫폼: SWEA <br>
