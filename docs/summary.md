@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-24 | D5 [터널 속의 기차](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWh6zasSkDFAUO)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 두 포인터, 시물레이션
+
+**💡 풀이 핵심(Core Logic):**
+
+*  **불이 켜진 시간 체크:** 기차가 터널을 지나갈때 차량의 일부분은 불이 켜져야함. 불이 꺼져있는 시간이 K 미만이 되도록 유지하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/05/24/터널_속의_기차/)
+
+---
+
 ### 🚀 2026-05-23 | D5 [스택 장인](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWopE0K61xADFARx)
 
 > 플랫폼: SWEA <br>
