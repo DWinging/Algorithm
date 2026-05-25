@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-25 | D5 [상원이의 생일파티](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWO3kT6F2oDFAV4)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 그래프 탐색, BFS
+
+**💡 풀이 핵심(Core Logic):**
+
+*  **친구의 친구 구하기:** BFS에서 탐색 깊이를 설정하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/05/25/상원이의_생일파티/)
+
+---
+
 ### 🚀 2026-05-24 | D5 [터널 속의 기차](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWh6zasSkDFAUO)
 
 > 플랫폼: SWEA <br>

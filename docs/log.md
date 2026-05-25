@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-05-25 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWO3kT6F2oDFAV4) 상원이의 생일파티 | 그래프 탐색, BFS | BFS | [github](../Algorithm/2026/05/25/상원이의_생일파티/) | - |
 | 26-05-24 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWh6zasSkDFAUO) 터널 속의 기차 | 두 포인터, 시뮬레이션 | 두 포인터, 시간 처리 | [github](../Algorithm/2026/05/24/터널_속의_기차/) | - |
 | 26-05-23 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWopE0K61xADFARx) 스택 장인 | Stack | Stack | [github](../Algorithm/2026/05/23/SWEA_스택_장인/) | - |
 | 26-05-22 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWvQdg1KU3QDFASy) 줄 세우기 | 그리디, 비둘기 집의 원리 | 그리디, 정렬 | [github](../Algorithm/2026/05/22/SWEA_줄_세우기/) | - |
