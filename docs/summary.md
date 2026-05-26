@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-26 | Lv3 [보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: DP, 수학
+
+**💡 풀이 핵심(Core Logic):**
+
+*  **이동 가능한 모든 경우의 수:** 이동 가능한 모든 경우의 수 원리를 적용하는 문제
+*  **방향 분기 처리:** 좌회전이나 우회전이 금지된 지점의 방향 분기 처리를 조심할 것
+
+**🔗 기록:** [github](../Algorithm/2026/05/26/프로그래머스_보행자_천국/)
+
+---
+
 ### 🚀 2026-05-25 | D5 [상원이의 생일파티](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWO3kT6F2oDFAV4)
 
 > 플랫폼: SWEA <br>
