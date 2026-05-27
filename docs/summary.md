@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-27 | D5 [트리 흑백 색칠](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6esOKOKQDFAWw)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: Tree, 트리에서의 DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **트리에서의 DP:** 트리에서의 독립집합(Independent Set)을 구하는 가장 클래식한 정석 문제
+
+**🔗 기록:** [github](../Algorithm/2026/05/27/트리_흑백_색칠/)
+
+---
+
 ### 🚀 2026-05-26 | Lv3 [보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832)
 
 > 플랫폼: 프로그래머스 <br>
