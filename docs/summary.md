@@ -1,6 +1,6 @@
 # 📅 Algorithm Solve Log
 
-### 🚀 2026-05-28 | D5 [금속막대](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AV18NaZqIt8CFAZN)
+### 🚀 2026-05-28 | D5 [금속막대](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN)
 
 > 플랫폼: SWEA <br>
 > 알고리즘: 자료구조, 연결 리스트
