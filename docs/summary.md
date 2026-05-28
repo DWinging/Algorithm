@@ -1,5 +1,20 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-28 | D5 [금속막대](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AV18NaZqIt8CFAZN)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 자료구조, 연결 리스트
+
+**💡 풀이 핵심(Core Logic):**
+
+* **Map 활용:** 수나사를 Key, 암나사를 value로 지정하면 다음 연결할 나사를 빠르게 찾을 수 있음
+* **시작점 설정:** 수나사에 대응하는 암나사가 없다면, 해당 나사는 시작 나사가 됨
+
+
+**🔗 기록:** [github](../Algorithm/2026/05/28/SWEA_금속막대/)
+
+---
+
 ### 🚀 2026-05-27 | D5 [트리 흑백 색칠](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6esOKOKQDFAWw)
 
 > 플랫폼: SWEA <br>

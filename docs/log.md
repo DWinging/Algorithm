@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-05-28 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AV18NaZqIt8CFAZN) 금속막대 | 자료구조 | 자료구조, 연결 리스트 | [github](../Algorithm/2026/05/28/SWEA_금속막대/) | - |
 | 26-05-27 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6esOKOKQDFAWw) 트리 흑백 색칠 | Tree, 트리에서의 DP | 트리에서의 DP | [github](../Algorithm/2026/05/27/트리_흑백_색칠/) | - |
 | 26-05-26 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/1832) 보행자 천국 | DP(동적 계획법) | DP, 수학 | [github](../Algorithm/2026/05/26/프로그래머스_보행자_천국/) | - |
 | 26-05-25 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWO3kT6F2oDFAV4) 상원이의 생일파티 | 그래프 탐색, BFS | BFS | [github](../Algorithm/2026/05/25/상원이의_생일파티/) | - |
