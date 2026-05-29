@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-29 | D5 [카드 뒤집기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXJZ8ua6CTkDFAU3)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 그리디, 수학
+
+**💡 풀이 핵심(Core Logic):**
+
+* **규칙 찾기:** 카드를 뒤집는 과정은 연쇄 동작으로 이루어지게 됨. 따라서 연쇄 동작에 대한 규칙을 찾는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/05/29/SWEA_카드_뒤집기/)
+
+---
+
 ### 🚀 2026-05-28 | D5 [금속막대](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN)
 
 > 플랫폼: SWEA <br>
