@@ -1,4 +1,4 @@
-### SWEA D4 [트리 바꾸기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZyNVrgKAVXHBIRj&categoryId=AZyNVrgKAVXHBIRj&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (Java)
+### SWEA D4 [트리 바꾸기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZyNVrgKAVXHBIRj) (Java)
 
 > **날짜:** 2026년 5월 17일 <br>
 > **알고리즘:** 트리 <br>

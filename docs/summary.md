@@ -172,7 +172,7 @@
 
 ---
 
-### 🚀 2026-05-17 | D4 [트리 바꾸기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZyNVrgKAVXHBIRj&categoryId=AZyNVrgKAVXHBIRj&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (26390)
+### 🚀 2026-05-17 | D4 [트리 바꾸기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZyNVrgKAVXHBIRj) (26390)
 
 > 플랫폼: SWEA <br>
 > 알고리즘: 트리
@@ -281,7 +281,7 @@
 
 ---
 
-### 🚀 2026-05-10 | D5 [홍준이의 사전 놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS&categoryId=AV_6pTXqsXUDFAWS&categoryType=CODE&problemTitle=%EC%82%AC%EC%A0%84&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+### 🚀 2026-05-10 | D5 [홍준이의 사전 놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS)
 
 > 플랫폼: SWEA <br>
 > 알고리즘: 트라이
@@ -295,7 +295,7 @@
 
 ---
 
-### 🚀 2026-05-09 | D4 [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr&categoryId=AWBJKA6qr2oDFAWr&categoryType=CODE&problemTitle=%EC%84%9C%EB%A1%9C%EC%86%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+### 🚀 2026-05-09 | D4 [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)
 
 > 플랫폼: SWEA <br>
 > 알고리즘: 분리 집합, Union-Find
@@ -370,7 +370,7 @@
 
 ---
 
-### 🚀 2026-05-04 | D5 [영어 공부](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNQOb3avD0DFAXS&categoryId=AXNQOb3avD0DFAXS&categoryType=CODE&problemTitle=%EC%98%81%EC%96%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) (10507)
+### 🚀 2026-05-04 | D5 [영어 공부](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNQOb3avD0DFAXS) (10507)
 
 > 플랫폼: SWEA <br>
 > 알고리즘: Two-Pointer
@@ -412,7 +412,7 @@
 
 ---
 
-### 🚀 2026-04-30 | D4 [점프 놀이 (19004)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYtrEOraDk0DFAR-&categoryId=AYtrEOraDk0DFAR-&categoryType=CODE&problemTitle=%EC%A0%90%ED%94%84+%EB%86%80%EC%9D%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+### 🚀 2026-04-30 | D4 [점프 놀이 (19004)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYtrEOraDk0DFAR-)
 
 > 플랫폼: SWEA <br>
 > 알고리즘: DP + DFS (Sequential Pathfinding)
