@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-30 | D4 [여우 줄이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZtxnSyquD7HBIQE)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 자료구조, Stack
+
+**💡 풀이 핵심(Core Logic):**
+
+* **Stack의 특징 활용:** Stack의 내부 구조가 Array라는 특징을 활용한 문제
+
+**🔗 기록:** [github](../Algorithm/2026/05/30/SWEA_여우_줄이기/)
+
+---
+
 ### 🚀 2026-05-29 | D5 [카드 뒤집기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXJZ8ua6CTkDFAU3)
 
 > 플랫폼: SWEA <br>
