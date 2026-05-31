@@ -2,7 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 26-05-31 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW-hfS2qgA0DFAVg) 백화점 | 자료구조, 덱, 두 포인터, 누적 합 | 덱, LazyDelete, 두 포인터, 누적 합 | [github](../Algorithm/2026/05/31/SWEA_백화점/) | - |
+| 26-05-31 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW-hfS2qgA0DFAVg) 백화점 | 자료구조, 덱, 두 포인터, 누적 합 | 덱, LazyDelete, 두 포인터, 누적 합 | [github](../Algorithm/2026/05/31/SWEA_백화점/) | [velog](https://velog.io/@dong20/Java-SWEA-백화점) |
 | 26-05-30 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZtxnSyquD7HBIQE) 여우 줄이기 | 자료구조, Stack | Stack | [github](../Algorithm/2026/05/30/SWEA_여우_줄이기/) | - |
 | 26-05-29 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXJZ8ua6CTkDFAU3) 카드 뒤집기 | 그리디, 수학 | 그리디, 수학 | [github](../Algorithm/2026/05/29/SWEA_카드_뒤집기/) | - |
 | 26-05-28 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN) 금속막대 | 자료구조 | 자료구조, 연결 리스트 | [github](../Algorithm/2026/05/28/SWEA_금속막대/) | - |
