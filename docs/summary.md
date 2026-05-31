@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-05-31 | D6 [백화점](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW-hfS2qgA0DFAVg)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 자료구조, 덱, 두 포인터, 누적 합
+
+**💡 풀이 핵심(Core Logic):**
+
+* **덱 활용:** 덱의 양방향 입출력을 활용하여 Lazy Delete를 구현하는 문제
+* **두 포인터와 누적 합:** 쿠폰을 사용하는 타이밍에 따라 현재 소비하는 비용이 달라지게 됨. 따라서 누적합과 두 포인터를 적절히 섞는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/05/31/SWEA_백화점/)
+
+---
+
 ### 🚀 2026-05-30 | D4 [여우 줄이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZtxnSyquD7HBIQE)
 
 > 플랫폼: SWEA <br>
