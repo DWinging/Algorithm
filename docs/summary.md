@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-1 | D5 [언덕길](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYxCewMqiqwDFASu)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: LIS, 이분 탐색, DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **LIS(가장 긴 증가하는 부분 수열):** 모든 집에서 해변 경치를 보기 위해서는 증가하는 수열을 만들어야한다. 집을 가장 적게 허물기 위해서는 LIS를 구하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/06/01/SWEA_언덕길/)
+
+---
+
 ### 🚀 2026-05-31 | D6 [백화점](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW-hfS2qgA0DFAVg)
 
 > 플랫폼: SWEA <br>
