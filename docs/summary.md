@@ -1,6 +1,19 @@
 # 📅 Algorithm Solve Log
 
-### 🚀 2026-06-1 | D5 [언덕길](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYxCewMqiqwDFASu)
+### 🚀 2026-06-02 | D5 [에너지 전송 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv8zHKHbsDFAW0)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **DP 상태 관리:** $i$번 에너지와 $i+1$ 에너지 상태를 관리하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/06/02/SWEA_에너지_전송_순서/)
+
+---
+
+### 🚀 2026-06-01 | D5 [언덕길](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYxCewMqiqwDFASu)
 
 > 플랫폼: SWEA <br>
 > 알고리즘: LIS, 이분 탐색, DP
