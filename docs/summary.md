@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-03 | D5 [만화책 정렬하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWwtYmX6hvsDFAWU)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 정렬, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **숫자 카운팅:** 숫자가 1씩 증가하는 책들을 한번에 옮긴다는 것을 기억할 것
+
+**🔗 기록:** [github](../Algorithm/2026/06/03/SWEA_만화책_정렬하기/)
+
+---
+
 ### 🚀 2026-06-02 | D5 [에너지 전송 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv8zHKHbsDFAW0)
 
 > 플랫폼: SWEA <br>
