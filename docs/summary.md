@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-04 | D5 [애너그램 랭킹](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXfRiB5KKW8DFAS5)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 수학, 조합론
+
+**💡 풀이 핵심(Core Logic):**
+
+* **동일 원소가 포함된 순열:** 자릿수를 좁혀가며 현재 문자보다 작은 알파벳을 배치하고, 남은 문자들의 중복 원소 포함 순열($\frac{N!}{\prod c_i!}$) 가짓수를 누적하는 문제
+
+**🔗 기록:** [github](../Algorithm/2026/06/04/SWEA_애너그램_랭킹/)
+
+---
+
 ### 🚀 2026-06-03 | D5 [만화책 정렬하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWwtYmX6hvsDFAWU)
 
 > 플랫폼: SWEA <br>

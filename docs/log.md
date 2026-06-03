@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-06-04 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXfRiB5KKW8DFAS5) 애너그램 랭킹 | 수학, 조합론 | 카운팅, 조합론 | [github](../Algorithm/2026/06/04/SWEA_애너그램_랭킹/) | - |
 | 26-06-03 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWwtYmX6hvsDFAWU) 만화책 정렬하기 | 정렬, 그리디 | 정렬, 카운팅 | [github](../Algorithm/2026/06/03/SWEA_만화책_정렬하기/) | - |
 | 26-06-02 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv8zHKHbsDFAW0) 에너지 전송 순서 | DP | DP | [github](../Algorithm/2026/06/02/SWEA_에너지_전송_순서/) | - |
 | 26-06-01 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYxCewMqiqwDFASu) 언덕길 | LIS, 이분 탐색, DP | LIS, 이분 탐색, DP | [github](../Algorithm/2026/06/01/SWEA_언덕길/) | - |
