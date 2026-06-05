@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-05 | D5 [초밥 식사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCcO16Vi8DFAWv)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 정렬, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **최대 이익의 이해:** 내 이득과 상대의 방어 기회비용을 합산한 $a_i + b_i$가 큰 접시부터 선점하는 것
+
+**🔗 기록:** [github](../Algorithm/2026/06/05/SWEA_초밥_식사/)
+
+---
+
 ### 🚀 2026-06-04 | D5 [애너그램 랭킹](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXfRiB5KKW8DFAS5)
 
 > 플랫폼: SWEA <br>
