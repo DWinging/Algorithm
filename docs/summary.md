@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-06 | D5 [문자열 동화](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AXMCa8EaVioDFAWv)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 정렬, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **그리디:** 특별한 로직이 필요 없이 자리수마다 계산하면 된다. 
+
+**🔗 기록:** [github](../Algorithm/2026/06/06/SWEA_문자열_동화/)
+
+---
+
 ### 🚀 2026-06-05 | D5 [초밥 식사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCcO16Vi8DFAWv)
 
 > 플랫폼: SWEA <br>
