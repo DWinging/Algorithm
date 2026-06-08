@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-08 | D5 [K번째 접미어](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18GHd6IskCFAZN)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 정렬, 문자열, 트라이
+
+**💡 풀이 핵심(Core Logic):**
+
+* **정렬:** 문자열을 생성하지 않고, idx로 정렬을 하는 것이 핵심
+* **트라이:** 모든 접미어를 부분 문자열로 판단하여 트라이 구조를 생성하는 방식
+
+**🔗 기록:** [github](../Algorithm/2026/06/08/SWEA_K번째_접미어/)
+
+---
+
 ### 🚀 2026-06-06 | D5 [문자열 동화](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AXMCa8EaVioDFAWv)
 
 > 플랫폼: SWEA <br>
