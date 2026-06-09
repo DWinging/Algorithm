@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-09 | D5 [달란트2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18R8FKIvoCFAZN)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 수학, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **그리디 발상:** 수학적으로 곱의 크기를 가장 크게 만드는 방법을 알아야 함
+
+**🔗 기록:** [github](../Algorithm/2026/06/09/SWEA_달란트2/)
+
+---
+
 ### 🚀 2026-06-08 | D5 [K번째 접미어](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18GHd6IskCFAZN)
 
 > 플랫폼: SWEA <br>
