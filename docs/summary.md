@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-10 | D5 [옥희의 OK! 부동산](https://swexpertacademy.com/main/code/problem/problemSolver.do?contestProbId=AWslJ57qFS0DFASy)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 두 포인터
+
+**💡 풀이 핵심(Core Logic):**
+
+* **두 포인터:** M원을 모두 사용하는 연속된 부분 집합을 구하는 문제
+
+**🔗 기록:** [github](../Algorithm/2026/06/09/SWEA_달란트2/)
+
+---
+
 ### 🚀 2026-06-09 | D5 [달란트2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18R8FKIvoCFAZN)
 
 > 플랫폼: SWEA <br>

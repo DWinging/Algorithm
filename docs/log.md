@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-06-10 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemSolver.do?contestProbId=AWslJ57qFS0DFASy) 옥희의 OK! 부동산 | 두 포인터 | 두 포인터 | [github](../Algorithm/2026/06/10/SWEA_옥희의_OK!_부동산/) | - |
 | 26-06-09 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18R8FKIvoCFAZN) 달란트2 | 수학, 그리디 | 수학, 그리디 | [github](../Algorithm/2026/06/09/SWEA_달란트2/) | - |
 | 26-06-08 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18GHd6IskCFAZN) K번째 접미어 | 정렬, 문자열, 트라이 | 정렬 조건, 트라이 | [github](../Algorithm/2026/06/08/SWEA_K번째_접미어/) | - |
 | 26-06-06 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AXMCa8EaVioDFAWv) 문자열 동화 | 문자열, 그리디 | 문자열, 그리디 | [github](../Algorithm/2026/06/06/SWEA_문자열_동화/) | - |
