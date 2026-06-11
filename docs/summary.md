@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-11 | D5 [문자열 변경하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWZ2JT2aC1MDFAUQ)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **그리디 알고리즘:** a의 위치를 맞추면 b는 자연스럽게 변경됨
+
+**🔗 기록:** [github](../Algorithm/2026/06/11/SWEA_문자열_변경하기/)
+
+---
+
 ### 🚀 2026-06-10 | D5 [옥희의 OK! 부동산](https://swexpertacademy.com/main/code/problem/problemSolver.do?contestProbId=AWslJ57qFS0DFASy)
 
 > 플랫폼: SWEA <br>
