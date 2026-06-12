@@ -40,7 +40,7 @@ D5치고 간단한 문제이지 않나 싶다. 문자의 종류가 2종류이며
 ---
 
 ### 📂 소스 코드
-*   [Solution.c++](./Solution.c++)
+*   [Solution.cpp](./Solution.cpp)
  
 ---
 

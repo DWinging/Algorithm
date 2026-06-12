@@ -28,7 +28,7 @@ D5라고 하기엔 간단한 문제다. 아마 초창기에 수학적 발상에 
 ---
 
 ### 📂 소스 코드
-*   [Solution.c++](./Solution.c++)
+*   [Solution.cpp](./Solution.cpp)
  
 ---
 

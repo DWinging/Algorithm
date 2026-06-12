@@ -75,7 +75,7 @@
 ### 📂 소스 코드
 *   [다익스트라 Java 풀이](./Solution.java)
 *   [DP Java 풀이_with_Gemini](./Solution_dp.java)
-*   [DP c++ 풀이](./Solution_dp.c++)
+*   [DP c++ 풀이](./Solution_dp.cpp)
  
 ---
 

@@ -27,7 +27,7 @@
 ---
 
 ### 📂 소스 코드
-*   [Solution.c++](./Solution.c++)
+*   [Solution.cpp](./Solution.cpp)
  
 ---
 

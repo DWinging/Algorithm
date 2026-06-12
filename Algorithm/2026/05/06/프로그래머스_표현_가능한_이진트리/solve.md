@@ -59,7 +59,7 @@
 *   [Detailed Review (Velog)](https://velog.io/@dong20/c-프로그래머스-표현-가능한-이진-트리)
 
 *   [Bitmasking 정답 코드 (C++)](./ac_code.cpp)
-*   [Bitmasking 오답 코드 (C++)](./wa_code.c++)
+*   [Bitmasking 오답 코드 (C++)](./wa_code.cpp)
 ---
 
 

@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-12 | D5 [동서양의 경계](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWEbScy6yS8DFAWs)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 그리디, 누적 합, 슬라이딩 윈도우
+
+**💡 풀이 핵심(Core Logic):**
+
+* **각 영토의 문화:** $i$를 기준으로 이동하면서, 서쪽과 동쪽의 문화를 갱신하는 것이 핵심
+* **경계점:** `(서쪽 영토에서 동쪽 문화를 따르는 경우)` + `(동쪽 영토에서 서쪽 문화를 따르는 경우)`의 최솟값이 구하려는 경계값이 됨
+
+**🔗 기록:** [github](../Algorithm/2026/06/12/SWEA_동서양의_경계/)
+
+---
+
 ### 🚀 2026-06-11 | D5 [문자열 변경하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWZ2JT2aC1MDFAUQ)
 
 > 플랫폼: SWEA <br>

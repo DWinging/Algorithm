@@ -49,8 +49,8 @@
 ### 📂 기록
 *   [Detailed Review (Velog)](https://velog.io/@dong20/c-SWEA-영준이의-무게측정)
 
-*   [Weighted Union-Find 오답 코드 (C++)](./wa_code.c++)
-*   [Weighted Union-Find 정답 코드 (C++)](./ac_code.c++)
+*   [Weighted Union-Find 오답 코드 (C++)](./wa_code.cpp)
+*   [Weighted Union-Find 정답 코드 (C++)](./ac_code.cpp)
 *   [Weighted Union-Find 정답 코드 (java)](./ac_code.java)
 
 ---

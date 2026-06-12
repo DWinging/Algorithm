@@ -59,7 +59,7 @@ $N \times N$ 격자판에서 각 타일에 적힌 숫자 $i$번에서 $i+1$번�
 
 *   [Top-down (DFS + Memoization) 풀이 바로가기](./Solution_TopDown.java)
 *   [Bottom-up (Iteration DP) 풀이 바로가기](./Solution_BottomUp.java)
-*   [Bottom-up (Iteration DP) 풀이 바로가기](./Solution_BottomUp.c++)
+*   [Bottom-up (Iteration DP) 풀이 바로가기](./Solution_BottomUp.cpp)
  
 ---
 

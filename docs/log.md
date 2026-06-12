@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-06-12 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWEbScy6yS8DFAWs) 동서양의 경계 | 그리디, 누적 합 | 그리디, 누적 합 | [github](../Algorithm/2026/06/12/SWEA_동서양의_경계/) | - |
 | 26-06-11 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWZ2JT2aC1MDFAUQ) 문자열 변경하기 | 그리디 | 그리디 | [github](../Algorithm/2026/06/11/SWEA_문자열_변경하기/) | - |
 | 26-06-10 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemSolver.do?contestProbId=AWslJ57qFS0DFASy) 옥희의 OK! 부동산 | 두 포인터 | 두 포인터 | [github](../Algorithm/2026/06/10/SWEA_옥희의_OK!_부동산/) | - |
 | 26-06-09 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18R8FKIvoCFAZN) 달란트2 | 수학, 그리디 | 수학, 그리디 | [github](../Algorithm/2026/06/09/SWEA_달란트2/) | - |

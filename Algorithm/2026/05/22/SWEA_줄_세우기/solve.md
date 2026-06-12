@@ -38,7 +38,7 @@
 ---
 
 ### 📂 소스 코드
-*   [c++ 코드](./Solution.c++)
+*   [c++ 코드](./Solution.cpp)
 *   [Java 코드](./Solution.java)
  
 ---

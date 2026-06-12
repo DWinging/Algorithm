@@ -48,7 +48,7 @@
 ---
 
 ### 📂 소스 코드
-*   [LinkedList 풀이 바로가기](./Solution.c++)
+*   [LinkedList 풀이 바로가기](./Solution.cpp)
 ---
 
 ### 🖥️ 실행 결과

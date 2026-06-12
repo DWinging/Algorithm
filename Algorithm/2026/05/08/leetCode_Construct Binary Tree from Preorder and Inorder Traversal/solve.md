@@ -58,7 +58,7 @@
 
 ### 📂 소스 코드
 *   [정답 코드 및 최적화 버전 (Java)](./Solution.java)
-*   [정답 코드 (c++)](./solution.c++)
+*   [정답 코드 (c++)](./solution.cpp)
 
 ---
 
