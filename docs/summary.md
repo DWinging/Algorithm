@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-13 | D6 [수 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXTC4piqD_IDFASe)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 재귀
+
+**💡 풀이 핵심(Core Logic):**
+
+* **역산:** X를 K로 만드는 것이 아닌, K를 X로 만드는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/06/13/SWEA_수_만들기/)
+
+---
+
 ### 🚀 2026-06-12 | D5 [동서양의 경계](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWEbScy6yS8DFAWs)
 
 > 플랫폼: SWEA <br>
