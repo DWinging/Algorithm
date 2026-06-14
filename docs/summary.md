@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-14 | D4 [중위순회](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD&)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 재귀, 트리
+
+**💡 풀이 핵심(Core Logic):**
+
+* **트리 순회:** 중위 순회 개념을 이해하고, 재귀 호출 방식으로 구현하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/06/14/SWEA_중위순회/)
+
+---
+
 ### 🚀 2026-06-13 | D6 [수 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXTC4piqD_IDFASe)
 
 > 플랫폼: SWEA <br>
