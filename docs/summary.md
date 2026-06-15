@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-15 | D6 [점프점프! 개굴이의 점핑!](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmBXYq8zgDFAXj)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: DP, 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+* **DP 유형 파악:** 연꽃을 2차원 배열로 봤을 때 오른쪽과 아래쪽으로 이동하는 문제라는 것을 파악해야한다.
+* **점프 거리의 제한이 없음:** 점프의 제한이 없다는 것은 해당 행 / 열의 최댓값이 결국에 점프 가능한 최대값이 된다는 것을 의미한다.
+
+**🔗 기록:** [github](../Algorithm/2026/06/15/SWEA_점프점프_개굴이의_점핑/)
+
+---
+
 ### 🚀 2026-06-14 | D4 [중위순회](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD&)
 
 > 플랫폼: SWEA <br>
