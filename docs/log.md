@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-06-16 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AX4EOkz68NIDFARe) 격자 위의 가장 긴 경로 | DP | DP | [github](../Algorithm/2026/06/16/SWEA_격자_위의_가장_긴_경로/) | - |
 | 26-06-15 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmBXYq8zgDFAXj) 점프점프! 개굴이의 점핑! | DP, 정렬 | DP, 정렬 | [github](../Algorithm/2026/06/15/SWEA_점프점프_개굴이의_점핑/) | - |
 | 26-06-14 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD&) 중위순회 | 재귀, 트리 | 트리, 재귀, 트리 순회 | [github](../Algorithm/2026/06/14/SWEA_중위순회/) | - |
 | 26-06-13 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXTC4piqD_IDFASe) 수 만들기 | 재귀 | 재귀, 역산 | [github](../Algorithm/2026/06/13/SWEA_수_만들기/) | - |

@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-16 | D5 [격자 위의 가장 긴 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AX4EOkz68NIDFARe)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **방향 탐색과 조립:** 정방향(오른쪽, 아래쪽)으로 이동하는 순회 1번 수행 후 정방향을 기준으로 역방향(위, 왼쪽) 탐색을 진행한다. 위로 이동하는 순회 1번, 왼쪽으로 이동하는 순회 1번 수행 후 다시 정방향 탐색을 진행하면서 이전에 구한 값을 조립한다.
+
+**🔗 기록:** [github](../Algorithm/2026/06/16/SWEA_격자_위의_가장_긴_경로/)
+
+---
+
 ### 🚀 2026-06-15 | D6 [점프점프! 개굴이의 점핑!](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmBXYq8zgDFAXj)
 
 > 플랫폼: SWEA <br>
