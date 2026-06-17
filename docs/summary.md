@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-17 | D5 [외계인 침공](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXE0gpIa3dADFAVX)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **선택/비선택 DP:** 현재 값을 선택하는 경우와 선택하지 않는 경우로 나누어지는 전형적인 DP 문제
+
+**🔗 기록:** [github](../Algorithm/2026/06/17/SWEA_외계인_침공/)
+
+---
+
+
 ### 🚀 2026-06-16 | D5 [격자 위의 가장 긴 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AX4EOkz68NIDFARe)
 
 > 플랫폼: SWEA <br>
