@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-18 | D5 [숫자 선물](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNS6oqhJkDFAVP)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **그리디 발상:** 그리디 발상은 어렵지 않지만, 조건이 많고 까다로워 실수하기 쉬운 문제.
+
+**🔗 기록:** [github](../Algorithm/2026/06/18/SWEA_숫자_선물/)
+
+---
+
 ### 🚀 2026-06-17 | D5 [외계인 침공](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXE0gpIa3dADFAVX)
 
 > 플랫폼: SWEA <br>
