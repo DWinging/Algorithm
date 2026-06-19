@@ -2,7 +2,8 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 26-06-18 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNS6oqhJkDFAVP) 숫자 선물 | 그리디 | 그리디 | [github](../Algorithm/2026/06/17/SWEA_외계인_침공/) | - |
+| 26-06-19 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW1Bu6Lq2iwDFARC) 동현이의 망한 옷가게 | 그리디 | 그리디 | [github](../Algorithm/2026/06/19/SWEA_동현이의_망한_옷가게/) | - |
+| 26-06-18 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNS6oqhJkDFAVP) 숫자 선물 | 그리디 | 그리디 | [github](../Algorithm/2026/06/18/SWEA_숫자_선물/) | - |
 | 26-06-17 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXE0gpIa3dADFAVX) 외계인 침공 | DP | DP, 메모리 관리(Java) | [github](../Algorithm/2026/06/17/SWEA_외계인_침공/) | - |
 | 26-06-16 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AX4EOkz68NIDFARe) 격자 위의 가장 긴 경로 | DP | DP | [github](../Algorithm/2026/06/16/SWEA_격자_위의_가장_긴_경로/) | - |
 | 26-06-15 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmBXYq8zgDFAXj) 점프점프! 개굴이의 점핑! | DP, 정렬 | DP, 정렬 | [github](../Algorithm/2026/06/15/SWEA_점프점프_개굴이의_점핑/) | - |

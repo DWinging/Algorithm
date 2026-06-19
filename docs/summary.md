@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-19 | D6 [동현이의 망한 옷가게](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW1Bu6Lq2iwDFARC)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **그리디 발상:** C의 최솟값을 갱신하는 타이밍을 계산하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/06/19/SWEA_동현이의_망한_옷가게/)
+
+---
+
 ### 🚀 2026-06-18 | D5 [숫자 선물](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNS6oqhJkDFAVP)
 
 > 플랫폼: SWEA <br>
