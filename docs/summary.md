@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-20 | D5 [종구의 딸이름 짓기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWm8hNu6llcDFASj)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: BFS
+
+**💡 풀이 핵심(Core Logic):**
+
+* **가지치기:** BFS 탐색 과정에서 위치별 알파벳을 확정시키고, 불필요한 연산을 줄이는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/06/20/SWEA_종구의_딸이름_짓기/)
+
+---
+
 ### 🚀 2026-06-19 | D6 [동현이의 망한 옷가게](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW1Bu6Lq2iwDFARC)
 
 > 플랫폼: SWEA <br>
