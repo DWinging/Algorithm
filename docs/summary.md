@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-21 | Lv3 [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 연결리스트, 스택
+
+**💡 풀이 핵심(Core Logic):**
+
+* **양방향 연결리스트:** 각 행의 위와 아래의 행 번호를 기억하는 것이 핵심
+* **스택 활용:** 스택을 활용하면 최근 삭제된 행을 파악하는데 용이함
+
+**🔗 기록:** [github](../Algorithm/2026/06/21/프로그래머스_표_편집/)
+
+---
+
 ### 🚀 2026-06-20 | D5 [종구의 딸이름 짓기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWm8hNu6llcDFASj)
 
 > 플랫폼: SWEA <br>

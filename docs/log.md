@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-06-21 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/81303) 표 편집 | 연결리스트, 스택 | 양방향 연결리스트, 스택 | [github](../Algorithm/2026/06/21/프로그래머스_표_편집/) | - |
 | 26-06-20 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWm8hNu6llcDFASj) 종구의 딸이름 짓기 | BFS | BFS | [github](../Algorithm/2026/06/20/SWEA_종구의_딸이름_짓기/) | - |
 | 26-06-19 | SWEA | [D6](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW1Bu6Lq2iwDFARC) 동현이의 망한 옷가게 | 그리디 | 그리디 | [github](../Algorithm/2026/06/19/SWEA_동현이의_망한_옷가게/) | - |
 | 26-06-18 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNS6oqhJkDFAVP) 숫자 선물 | 그리디 | 그리디 | [github](../Algorithm/2026/06/18/SWEA_숫자_선물/) | - |
