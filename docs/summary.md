@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-22 | D4 [수지의 수지 맞는 여행](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqUzj0arpkDFARG)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: DFS, 비트마스킹
+
+**💡 풀이 핵심(Core Logic):**
+
+* **DFS:** DFS를 활용하면 직관적인 풀이 가능
+* **비트마스킹:** Boolean 배열을 사용한 백트래킹도 가능하지만, 비트 마스킹을 사용하면 코드가 간결해짐
+
+**🔗 기록:** [github](../Algorithm/2026/06/22/SWEA_수지의_수지_맞는_여행/)
+
+---
+
 ### 🚀 2026-06-21 | Lv3 [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
 
 > 플랫폼: 프로그래머스 <br>
