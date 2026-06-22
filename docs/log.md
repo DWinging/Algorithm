@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-06-23 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLv-yZah48DFAVV) 콩 많이 심기 | 그리디, 수학 | 그리디, 수학, 격자그래프 | [github](../Algorithm/2026/06/23/SWEA_콩_많이_심기/) | - |
 | 26-06-22 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqUzj0arpkDFARG) 수지의 수지 맞는 여행 | DFS | DFS, 비트 마스킹 | [github](../Algorithm/2026/06/22/SWEA_수지의_수지_맞는_여행/) | - |
 | 26-06-21 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/81303) 표 편집 | 연결리스트, 스택 | 양방향 연결리스트, 스택 | [github](../Algorithm/2026/06/21/프로그래머스_표_편집/) | - |
 | 26-06-20 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWm8hNu6llcDFASj) 종구의 딸이름 짓기 | BFS | BFS | [github](../Algorithm/2026/06/20/SWEA_종구의_딸이름_짓기/) | - |

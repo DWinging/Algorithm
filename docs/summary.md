@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-23 | D4 [콩 많이 심기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLv-yZah48DFAVV)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 그리디, 수학
+
+**💡 풀이 핵심(Core Logic):**
+
+* **그리디:** 콩을 심고, 콩을 심지 못하는 위치를 미리 마킹하는 방식
+* **수학:** 한 줄에 콩을 심을 수 있는 최대 개수가 일정하다는 원리를 이용한 수식 풀이
+
+**🔗 기록:** [github](../Algorithm/2026/06/23/SWEA_콩_많이_심기/)
+
+---
+
 ### 🚀 2026-06-22 | D4 [수지의 수지 맞는 여행](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqUzj0arpkDFARG)
 
 > 플랫폼: SWEA <br>
