@@ -228,7 +228,7 @@
 
 ---
 
-### 🚀 2026-06-06 | D5 [문자열 동화](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AXMCa8EaVioDFAWv)
+### 🚀 2026-06-06 | D5 [문자열 동화](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCa8EaVioDFAWv)
 
 > 플랫폼: SWEA <br>
 > 알고리즘: 정렬, 그리디

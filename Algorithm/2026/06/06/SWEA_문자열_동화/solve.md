@@ -1,4 +1,4 @@
-### SWEA 10202 [문자열 동화](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AXMCa8EaVioDFAWv) (Java)
+### SWEA 10202 [문자열 동화](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCa8EaVioDFAWv) (Java)
 
 > **날짜:** 2026년 6월 6일 <br>
 > **알고리즘:** 문자열, 그리디 <br>

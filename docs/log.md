@@ -19,7 +19,7 @@
 | 26-06-10 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemSolver.do?contestProbId=AWslJ57qFS0DFASy) 옥희의 OK! 부동산 | 두 포인터 | 두 포인터 | [github](../Algorithm/2026/06/10/SWEA_옥희의_OK!_부동산/) | - |
 | 26-06-09 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18R8FKIvoCFAZN) 달란트2 | 수학, 그리디 | 수학, 그리디 | [github](../Algorithm/2026/06/09/SWEA_달란트2/) | - |
 | 26-06-08 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18GHd6IskCFAZN) K번째 접미어 | 정렬, 문자열, 트라이 | 정렬 조건, 트라이 | [github](../Algorithm/2026/06/08/SWEA_K번째_접미어/) | - |
-| 26-06-06 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AXMCa8EaVioDFAWv) 문자열 동화 | 문자열, 그리디 | 문자열, 그리디 | [github](../Algorithm/2026/06/06/SWEA_문자열_동화/) | - |
+| 26-06-06 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCa8EaVioDFAWv) 문자열 동화 | 문자열, 그리디 | 문자열, 그리디 | [github](../Algorithm/2026/06/06/SWEA_문자열_동화/) | - |
 | 26-06-05 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCcO16Vi8DFAWv) 초밥 식사 | 정렬, 그리디 | 정렬, 그리디 | [github](../Algorithm/2026/06/05/SWEA_초밥_식사/) | - |
 | 26-06-04 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXfRiB5KKW8DFAS5) 애너그램 랭킹 | 수학, 조합론 | 카운팅, 조합론 | [github](../Algorithm/2026/06/04/SWEA_애너그램_랭킹/) | - |
 | 26-06-03 | SWEA | [D5](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWwtYmX6hvsDFAWU) 만화책 정렬하기 | 정렬, 그리디 | 정렬, 카운팅 | [github](../Algorithm/2026/06/03/SWEA_만화책_정렬하기/) | - |
