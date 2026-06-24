@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-24 | D4 [팰린드롬 공포증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW5jJcZ68LsDFATQ)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 그리디, 수학
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **수학:** 2이상의 팰린드롬이 만들어지는 조건 찾기
+
+**🔗 기록:** [github](../Algorithm/2026/06/24/SWEA_팰린드롬_공포증/)
+
+---
+
 ### 🚀 2026-06-23 | D4 [콩 많이 심기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLv-yZah48DFAVV)
 
 > 플랫폼: SWEA <br>

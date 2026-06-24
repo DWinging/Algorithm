@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-06-24 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW5jJcZ68LsDFATQ) 팰린드롬 공포증 | 그리디, 수학 | 그리디, 수학, 카운팅 | [github](../Algorithm/2026/06/24/SWEA_팰린드롬_공포증/) | - |
 | 26-06-23 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLv-yZah48DFAVV) 콩 많이 심기 | 그리디, 수학 | 그리디, 수학, 격자그래프 | [github](../Algorithm/2026/06/23/SWEA_콩_많이_심기/) | - |
 | 26-06-22 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqUzj0arpkDFARG) 수지의 수지 맞는 여행 | DFS | DFS, 비트 마스킹 | [github](../Algorithm/2026/06/22/SWEA_수지의_수지_맞는_여행/) | - |
 | 26-06-21 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/81303) 표 편집 | 연결리스트, 스택 | 양방향 연결리스트, 스택 | [github](../Algorithm/2026/06/21/프로그래머스_표_편집/) | - |
