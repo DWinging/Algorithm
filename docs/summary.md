@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-25 | D4 [빠른 전화번호 키패드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 트라이
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **트라이:** 트라이 구조를 구성하여 문자열 비교하는 문제
+
+**🔗 기록:** [github](../Algorithm/2026/06/25/SWEA_빠른_휴대전화_키패드/)
+
+---
+
 ### 🚀 2026-06-24 | D4 [팰린드롬 공포증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW5jJcZ68LsDFATQ)
 
 > 플랫폼: SWEA <br>
