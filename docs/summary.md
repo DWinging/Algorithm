@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-26 | D4 [재관이의 대량 할인](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIseXoKEUcDFAWN)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **그리디:** 할인을 많이 받는 묶음을 만드는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/06/26/SWEA_재관이의_대량_할인/)
+
+---
+
 ### 🚀 2026-06-25 | D4 [빠른 전화번호 키패드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW)
 
 > 플랫폼: SWEA <br>
