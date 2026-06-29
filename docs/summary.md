@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-28 | D4 [팰린드롬](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRrK7KhO4DFAUo)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **DP:** DP 점화식 세우기
+
+**🔗 기록:** [github](../Algorithm/2026/06/28/SWEA_팰린드롬/)
+
+---
+
 ### 🚀 2026-06-26 | D4 [재관이의 대량 할인](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIseXoKEUcDFAWN)
 
 > 플랫폼: SWEA <br>
