@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-29 | Medium [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 문자열, 수학
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **지그재그 문자열:** 지그재그로 반복되는 문자열 사이의 규칙 찾기
+
+**🔗 기록:** [github](../Algorithm/2026/06/29/LeetCode_Zigzag_Conversion/)
+
+---
+
 ### 🚀 2026-06-28 | D4 [팰린드롬](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRrK7KhO4DFAUo)
 
 > 플랫폼: SWEA <br>
