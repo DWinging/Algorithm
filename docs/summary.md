@@ -1,5 +1,24 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-06-30 | Hard [Maximum Points After Collecting Coins From All Nodes](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 트리, DFS, 연결리스트, DP
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **동전을 절반 나누는 케이스:** 동전을 절반 나누는 경우 해당 노드의 모든 자식 노드에 영향을 준다는 것을 기억할 것
+
+
+**🛠 트러블 슈팅:**
+
+ * 2로 나눈 후 다시 2를 곱할 때 자료형을 주의하자
+
+
+**🔗 기록:** [github](../Algorithm/2026/06/30/LeetCode_Maximum_Points_After_Collecting_Coins_From_All_Nodes/)
+
+---
+
 ### 🚀 2026-06-29 | Medium [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
 
 > 플랫폼: LeetCode <br>

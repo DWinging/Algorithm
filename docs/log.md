@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-06-30 | LeetCode | [Hard](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/) Maximum Points After Collecting Coins From All Nodes | 트리, DFS, 연결리스트, DP | 트리, DFS, DP | [github](../Algorithm/2026/06/30/LeetCode_Maximum_Points_After_Collecting_Coins_From_All_Nodes/) | - |
 | 26-06-29 | LeetCode | [Medium](https://leetcode.com/problems/zigzag-conversion/description/) Zigzag Conversion | 문자열, 수학 | 규칙찾기 | [github](../Algorithm/2026/06/29/LeetCode_Zigzag_Conversion/) | - |
 | 26-06-28 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRrK7KhO4DFAUo) 팰린드롬 | DP | DP | [github](../Algorithm/2026/06/28/SWEA_팰린드롬/) | - |
 | 26-06-26 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWIseXoKEUcDFAWN) 재관이의 대량 할인 | 그리디 | 그리디 | [github](../Algorithm/2026/06/26/SWEA_재관이의_대량_할인/) | - |
