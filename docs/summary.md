@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-01 | Medium [Maximum Product of First and Last Elements of a Subsequence](https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: DP, 두 포인터
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **문제 핵심 파악:** 연속하는 부분 수열에서 시작과 끝에 해당하는 숫자 2개만 필요함.
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/01/LeetCode_Maximum_Product_of_First_and_Last_Elements_of_a_Subsequence/)
+
+---
+
 ### 🚀 2026-06-30 | Hard [Maximum Points After Collecting Coins From All Nodes](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/)
 
 > 플랫폼: LeetCode <br>
