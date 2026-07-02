@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-02 | Medium [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: DP, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **중복 연산 제거:** 중복 연산 횟수를 줄이는 것이 핵심
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/02/Jump_Game_II/)
+
+---
+
 ### 🚀 2026-07-01 | Medium [Maximum Product of First and Last Elements of a Subsequence](https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence/description/)
 
 > 플랫폼: LeetCode <br>
