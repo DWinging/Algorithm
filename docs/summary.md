@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-03 | Medium [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그리프 이론, 위상 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **방향 그래프:** 우선 순위가 정해진 방향 그래프로 사이클 유무를 판별하는 문제
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/03/LeetCode_Course_Schedule/)
+
+---
+
 ### 🚀 2026-07-02 | Medium [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 
 > 플랫폼: LeetCode <br>

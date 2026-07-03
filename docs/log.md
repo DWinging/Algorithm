@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-07-03 | LeetCode | [Medium](https://leetcode.com/problems/course-schedule/description/) Course Schedule | 그래프 이론, 위상 정렬 | DFS, 위상 정렬 | [github](../Algorithm/2026/07/03/LeetCode_Course_Schedule/) | - |
 | 26-07-02 | LeetCode | [Medium](https://leetcode.com/problems/jump-game-ii/description/) Jump Game II | DP, 그리디 | DP, 그리디 | [github](../Algorithm/2026/07/02/Jump_Game_II/) | - |
 | 26-07-01 | LeetCode | [Medium](https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence/description/) Maximum Product of First and Last Elements of a Subsequence | DP, 두 포인터 | DP, 두 포인터 | [github](../Algorithm/2026/07/01/LeetCode_Maximum_Product_of_First_and_Last_Elements_of_a_Subsequence/) | - |
 | 26-06-30 | LeetCode | [Hard](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/) Maximum Points After Collecting Coins From All Nodes | 트리, DFS, 연결리스트, DP | 트리, DFS, DP | [github](../Algorithm/2026/06/30/LeetCode_Maximum_Points_After_Collecting_Coins_From_All_Nodes/) | - |
