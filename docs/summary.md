@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-04 | Medium [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그리프 이론, 위상 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **방향 그래프:** 우선 순위가 정해진 방향 그래프에서 방문 순서를 출력하는 문제
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/04/LeetCode_Course_Schedule_ii/)
+
+---
+
 ### 🚀 2026-07-03 | Medium [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
 
 > 플랫폼: LeetCode <br>
