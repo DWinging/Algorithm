@@ -1,5 +1,20 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-06 | Medium [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 자료구조, Union-Find
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **Set의 활용:** 카운팅 정렬 개념 응용
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/06/LeetCode_Longest_Consecutive_Sequence/)
+
+---
+
+
 ### 🚀 2026-07-05 | Medium [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 
 > 플랫폼: LeetCode <br>
