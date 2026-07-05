@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-05 | Medium [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 두 포인터, 누적 합
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **두 포인터:** 연속하는 부분 수열임을 기억한다.
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/05/Minimum_Size_Subarray_Sum/)
+
+---
+
 ### 🚀 2026-07-04 | Medium [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
 
 > 플랫폼: LeetCode <br>
