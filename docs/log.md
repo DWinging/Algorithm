@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-07-07 | LeetCode | [Medium](https://leetcode.com/problems/number-of-provinces/description/) Number of Provinces | 그래프 탐색, 분리 집합 | BFS, DFS, Union-Find | [github](../Algorithm/2026/07/07/LeetCode_Number_of_Provinces/) | - |
 | 26-07-06 | LeetCode | [Medium](https://leetcode.com/problems/longest-consecutive-sequence/description/) Longest Consecutive Sequence | 자료구조, Union-Find | 자료구조 | [github](../Algorithm/2026/07/06/LeetCode_Longest_Consecutive_Sequence/) | - |
 | 26-07-05 | LeetCode | [Medium](https://leetcode.com/problems/minimum-size-subarray-sum/description/) Minimum Size Subarray Sum | 두 포인터, 누적 합 | 두 포인터, 누적 합 | [github](../Algorithm/2026/07/05/Minimum_Size_Subarray_Sum/) | - |
 | 26-07-04 | LeetCode | [Medium](https://leetcode.com/problems/course-schedule-ii/description/) Course Schedule II | 그래프 이론, 위상 정렬 | DFS, 위상 정렬 | [github](../Algorithm/2026/07/04/LeetCode_Course_Schedule_ii/) | - |

@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-07 | Medium [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그래프 탐색, 분리 집합
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **그래프 탐색:** 인접 행렬로 주어진 그래프에서 그룹이 몇개 있는지 카운트하는 유형
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/07/LeetCode_Number_of_Provinces/)
+
+---
+
 ### 🚀 2026-07-06 | Medium [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 
 > 플랫폼: LeetCode <br>
