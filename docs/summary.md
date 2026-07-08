@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-08 | Lv4 [쿠키 구입](https://school.programmers.co.kr/learn/courses/30/lessons/49995)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 누적 합, 이분 탐색, 두 포인터
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **우측 구간 기준 탐색:** 누적 합 배열 위에서 우측 구간 합을 선형으로 늘려가며 구하고, 그 값과 일치하는 좌측 구간의 시작점을 이분 탐색($O(\log N)$)으로 매칭하여 최적화한다.
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/08/프로그래머스_쿠키_구입/)
+
+---
+
 ### 🚀 2026-07-07 | Medium [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)
 
 > 플랫폼: LeetCode <br>
