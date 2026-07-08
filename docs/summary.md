@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-09 | Hard [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그리디, 정렬, 우선순위 큐
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **스케줄링:** 마감 기간을 기준으로 정렬 후 마감기한이 짧은 코스부터 수행한다. 
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/09/LeetCode_Course_Schedule_III/)
+
+---
+
 ### 🚀 2026-07-08 | Lv4 [쿠키 구입](https://school.programmers.co.kr/learn/courses/30/lessons/49995)
 
 > 플랫폼: 프로그래머스 <br>
