@@ -2,7 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 26-07-09 | LeetCode | [Hard](https://leetcode.com/problems/course-schedule-iii/description/) Course Schedule III | 정렬, 그리디 | 정렬, 그리디, 우선순위 큐 | [github](../Algorithm/2026/07/09/LeetCode_Course_Schedule_III/) | - |
+| 26-07-09 | LeetCode | [Hard](https://leetcode.com/problems/course-schedule-iii/description/) Course Schedule III | 정렬, 그리디, 우선순위 큐 | 정렬, 그리디, 우선순위 큐 | [github](../Algorithm/2026/07/09/LeetCode_Course_Schedule_III/) | - |
 | 26-07-08 | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/49995) 쿠기 구입 | 누적 합, 이분 탐색, 두 포인터 | 누적 합, 이분 탐색, 두 포인터 | [github](../Algorithm/2026/07/08/프로그래머스_쿠키_구입/) | - |
 | 26-07-07 | LeetCode | [Medium](https://leetcode.com/problems/number-of-provinces/description/) Number of Provinces | 그래프 탐색, 분리 집합 | BFS, DFS, Union-Find | [github](../Algorithm/2026/07/07/LeetCode_Number_of_Provinces/) | - |
 | 26-07-06 | LeetCode | [Medium](https://leetcode.com/problems/longest-consecutive-sequence/description/) Longest Consecutive Sequence | 자료구조, Union-Find | 자료구조 | [github](../Algorithm/2026/07/06/LeetCode_Longest_Consecutive_Sequence/) | - |
