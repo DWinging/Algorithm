@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-10 | Medium [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그래프 탐색, 트리, 분리 집합
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **싸이클 탐색:** 트리에 간선을 하나 추가하여 싸이클이 생성되었다. 해당 그래프를 다시 트리로 바꾸기 위해서 지울 수 있는 간선을 찾는 것이 핵심이다.
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/10/LeetCode_Redundant_Connection/)
+
+---
+
 ### 🚀 2026-07-09 | Hard [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)
 
 > 플랫폼: LeetCode <br>
