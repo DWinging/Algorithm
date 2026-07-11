@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-11 | Medium [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 누적 합, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **양방향 누적 곱:** 나눗셈을 사용하지 않고, 양방향 누적 곱을 구하는 것이 핵심
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/11/LeetCode_Product_of_Array_Except_Self/)
+
+---
+
 ### 🚀 2026-07-10 | Medium [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)
 
 > 플랫폼: LeetCode <br>
