@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-13 | Medium [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **장애물이 존재하는 최단 경로:** 배열을 순차적으로 탐색하면서 경우의 수를 누적하는 문제
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/13/LeetCode_Unique_Paths_II/)
+
+---
+
 ### 🚀 2026-07-12 | Medium [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)
 
 > 플랫폼: LeetCode <br>
