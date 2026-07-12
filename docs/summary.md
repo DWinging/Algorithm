@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-12 | Medium [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 트리, 위상 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **MHT를 만들 수 있는 조건:** 하나의 트리 구조에서 만들 수 있는 MHT는 최대 2개다.
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/12/LeetCode_Minimum_Height_Trees/)
+
+---
+
 ### 🚀 2026-07-11 | Medium [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 
 > 플랫폼: LeetCode <br>
