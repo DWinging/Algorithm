@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-14 | Medium [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **그리디 연산:** 현재까지 구한 최솟값과 다음 배열의 최댓값, 현재까지 구한 최댓값과 다음 배열의 최솟값을 계산하는 것이 핵심
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/14/LeetCode_Maximum_Distance_in_Arrays/)
+
+---
+
 ### 🚀 2026-07-13 | Medium [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
 
 > 플랫폼: LeetCode <br>

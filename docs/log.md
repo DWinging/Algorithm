@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-07-14 | LeetCode | [Medium](https://leetcode.com/problems/maximum-distance-in-arrays/description/) Maximum Distance in Arrays | 그리디 | 그리디 | [github](../Algorithm/2026/07/14/LeetCode_Maximum_Distance_in_Arrays/) | - |
 | 26-07-13| LeetCode | [Medium](https://leetcode.com/problems/unique-paths-ii/description/) Unique Paths II | DP | DP | [github](../Algorithm/2026/07/13/LeetCode_Unique_Paths_II/) | - |
 | 26-07-12| LeetCode | [Medium](https://leetcode.com/problems/minimum-height-trees/description/) Minimum Height Trees | 트리, 위상 정렬 | 트리, 위상 정렬 | [github](../Algorithm/2026/07/12/LeetCode_Minimum_Height_Trees/) | - |
 | 26-07-11 | LeetCode | [Medium](https://leetcode.com/problems/product-of-array-except-self/description/) Product of Array Except Self | 누적 합, 그리디 | 누적 곱 | [github](../Algorithm/2026/07/11/LeetCode_Product_of_Array_Except_Self/) | - |
