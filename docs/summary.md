@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-15 | hard [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 트리에서의 DP
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **트리에서의 DP:** 각 노드의 왼쪽 최장 길이와 오른쪽 최장 길이를 구해야한다.
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/15/LeetCode_Longest_Path_With_Different_Adjacent_Characters/)
+
+---
+
 ### 🚀 2026-07-14 | Medium [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/)
 
 > 플랫폼: LeetCode <br>

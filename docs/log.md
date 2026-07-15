@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-07-15 | LeetCode | [hard](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/) Longest Path With Different Adjacent Characters | 트리에서의 DP, DFS | 트리에서의 DP, DFS | [github](../Algorithm/2026/07/15/LeetCode_Longest_Path_With_Different_Adjacent_Characters/) | - |
 | 26-07-14 | LeetCode | [Medium](https://leetcode.com/problems/maximum-distance-in-arrays/description/) Maximum Distance in Arrays | 그리디 | 그리디 | [github](../Algorithm/2026/07/14/LeetCode_Maximum_Distance_in_Arrays/) | - |
 | 26-07-13| LeetCode | [Medium](https://leetcode.com/problems/unique-paths-ii/description/) Unique Paths II | DP | DP | [github](../Algorithm/2026/07/13/LeetCode_Unique_Paths_II/) | - |
 | 26-07-12| LeetCode | [Medium](https://leetcode.com/problems/minimum-height-trees/description/) Minimum Height Trees | 트리, 위상 정렬 | 트리, 위상 정렬 | [github](../Algorithm/2026/07/12/LeetCode_Minimum_Height_Trees/) | - |
