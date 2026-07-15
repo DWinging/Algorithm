@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-16 | hard [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 자료구조, 스택
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **모노톤 스택 응용:** 높이와 너비를 스택에 저장하고, 현재 채울 수 있는 높이보다 낮은 구간을 제거하며 물의 양을 누적한다.
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/16/LeetCode_Trapping_Rain_Water/)
+
+---
+
 ### 🚀 2026-07-15 | hard [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/)
 
 > 플랫폼: LeetCode <br>
