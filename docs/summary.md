@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-18 | Lv3 [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: DFS, 비트마스킹
+
+**💡 풀이 핵심(Core Logic):**
+
+ * **노드 방문 후보 정하기:** 각 노드를 방문 가능한 후보로 관리하는 것이 핵심
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/18/프로그래머스_양과_늑대/)
+
+---
+
 ### 🚀 2026-07-16 | hard [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
 
 > 플랫폼: LeetCode <br>
