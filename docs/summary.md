@@ -1,8 +1,23 @@
 # 📅 Algorithm Solve Log
 
-### 🚀 2026-07-19 | Lv4 [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/67260)
+### 🚀 2026-07-20 | hard [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
 
 > 플랫폼: LeetCode <br>
+> 알고리즘: 스택, DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **행렬 높이 누적:** 각 행을 바닥으로 가정하고, 높이를 누적한다.
+* **히스토그램:** 각 행을 바닥으로 가정하고, 가장 큰 히스토그램 사각형 구하기 로직을 사용한다.
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/20/LeetCode_Maximal_Rectangle/)
+
+---
+
+### 🚀 2026-07-19 | Lv4 [동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)
+
+> 플랫폼: 프로그래머스 <br>
 > 알고리즘: BFS, 자료구조
 
 **💡 풀이 핵심(Core Logic):**
@@ -17,7 +32,7 @@
 
 ### 🚀 2026-07-18 | Lv3 [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
 
-> 플랫폼: LeetCode <br>
+> 플랫폼: 프로그래머스 <br>
 > 알고리즘: DFS, 비트마스킹
 
 **💡 풀이 핵심(Core Logic):**
