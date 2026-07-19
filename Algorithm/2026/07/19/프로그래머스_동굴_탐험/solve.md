@@ -144,6 +144,6 @@ if (key[start] < 0) return false;
 
 ### 🖥️ 실행 결과
 
-![]()
+![](./img/Solution.png)
 
 ---
