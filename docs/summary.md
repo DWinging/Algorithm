@@ -1,5 +1,20 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-19 | Lv4 [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/67260)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: BFS, 자료구조
+
+**💡 풀이 핵심(Core Logic):**
+
+* **선행 조건 처리:** 각 방의 선행/후행 관계를 상태로 관리하고, 선행 조건이 해제된 방만 BFS 큐에 삽입한다.
+* **대기 후보 관리:** 아직 방문할 수 없는 방은 후보로 보관했다가, 선행 방 방문 시 즉시 방문 가능 상태로 전환한다.
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/19/프로그래머스_동굴_탐험/)
+
+---
+
 ### 🚀 2026-07-18 | Lv3 [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
 
 > 플랫폼: LeetCode <br>

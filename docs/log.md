@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-07-19 | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/67260) 동굴 탐험 | BFS, 자료구조 | BFS, 연결리스트, 자료구조, 상태 관리 | [github](../Algorithm/2026/07/19/프로그래머스_동굴_탐험/) | - |
 | 26-07-18 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/92343) 양과 늑대 | DFS, 비트마스킹 | DFS, 비트마스킹 | [github](../Algorithm/2026/07/18/프로그래머스_양과_늑대/) | - |
 | 26-07-16 | LeetCode | [hard](https://leetcode.com/problems/trapping-rain-water/description/) Trapping Rain Water | 자료구조, 스택 | 스택 | [github](../Algorithm/2026/07/16/LeetCode_Trapping_Rain_Water/) | - |
 | 26-07-15 | LeetCode | [hard](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/) Longest Path With Different Adjacent Characters | 트리에서의 DP, DFS | 트리에서의 DP, DFS | [github](../Algorithm/2026/07/15/LeetCode_Longest_Path_With_Different_Adjacent_Characters/) | - |
