@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-21 | medium [Target Sum](https://leetcode.com/problems/target-sum/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **탑다운 DP:** 이전에 계산한 결과가 있다면 바로 반환, 계산 결과가 없다면 재귀 호출 진행
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/21/LeetCode_Target_Sum/) | [velog](https://velog.io/@dong20/Java-프로그래머스-동굴-탐험)
+
+---
+
 ### 🚀 2026-07-20 | hard [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
 
 > 플랫폼: LeetCode <br>

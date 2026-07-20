@@ -137,9 +137,10 @@ if (key[start] < 0) return false;
 
 ---
 
-### 📂 소스 코드
+### 📂 기록
 *   [Solution.java](./Solution.java)
- 
+*   [동굴 탐험 풀이 정리 - velog](https://velog.io/@dong20/Java-프로그래머스-동굴-탐험)
+
 ---
 
 ### 🖥️ 실행 결과
