@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-22 | medium [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **상태 관리:** 산다, 판다, 쉰다를 DP로 정의하는 것이 핵심
+
+
+**🔗 기록:** [github](../Algorithm/2026/07/22/LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/)
+
+---
+
 ### 🚀 2026-07-21 | medium [Target Sum](https://leetcode.com/problems/target-sum/description/)
 
 > 플랫폼: LeetCode <br>

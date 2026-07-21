@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-07-22 | LeetCode | [medium](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) Best Time to Buy and Sell Stock with Cooldown | DP | DP | [github](../Algorithm/2026/07/22/LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/) | - |
 | 26-07-21 | LeetCode | [medium](https://leetcode.com/problems/target-sum/description/) Target Sum | DP | DP | [github](../Algorithm/2026/07/21/LeetCode_Target_Sum/) | - |
 | 26-07-20 | LeetCode | [hard](https://leetcode.com/problems/maximal-rectangle/description/) Maximal Rectangle | 스택, DP | 스택, DP, 히스토그램 | [github](../Algorithm/2026/07/20/LeetCode_Maximal_Rectangle/) | - |
 | 26-07-19 | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/67260) 동굴 탐험 | BFS, 자료구조 | BFS, 연결리스트, 자료구조, 상태 관리 | [github](../Algorithm/2026/07/19/프로그래머스_동굴_탐험/) | [velog](https://velog.io/@dong20/Java-프로그래머스-동굴-탐험) |
