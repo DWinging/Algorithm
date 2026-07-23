@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-23 | Lv3 [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 격자 그래프, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **장애물이 없음:** 해당 문제는 경로상의 장애물이 없으므로 그래프 탐색 문제가 아니다.
+* **홀/짝:** k만큼 이동 후 추가로 이동해야하는 거리가 홀수인지 짝수인지에 따라 결과가 달라진다.
+
+**🔗 기록:** [github](../Algorithm/2026/07/22/LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/)
+
+---
+
 ### 🚀 2026-07-22 | medium [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
 
 > 플랫폼: LeetCode <br>
