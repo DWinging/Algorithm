@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-24 | Hard [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그래프 탐색, 비트마스킹
+
+**💡 풀이 핵심(Core Logic):**
+
+* **방문 상태 관리:** 내가 방문 했던 위치들을 비트 형태로 관리하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/07/24/LeetCode_Shortest_Path_Visiting_All_Nodes/)
+
+---
+
 ### 🚀 2026-07-23 | Lv3 [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
 
 > 플랫폼: 프로그래머스 <br>
@@ -10,7 +23,7 @@
 * **장애물이 없음:** 해당 문제는 경로상의 장애물이 없으므로 그래프 탐색 문제가 아니다.
 * **홀/짝:** k만큼 이동 후 추가로 이동해야하는 거리가 홀수인지 짝수인지에 따라 결과가 달라진다.
 
-**🔗 기록:** [github](../Algorithm/2026/07/22/LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/)
+**🔗 기록:** [github](../Algorithm/2026/07/23/프로그래머스_미로_탈출_명령어/)
 
 ---
 
