@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-25 | Hard [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그래프 탐색, 비트마스킹
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **획득한 Key 관리:** 획득한 키를 관리하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/07/25/LeetCode_Shortest_Path_to_Get_All_Keys/)
+
+---
+
 ### 🚀 2026-07-24 | Hard [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
 
 > 플랫폼: LeetCode <br>
