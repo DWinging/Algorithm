@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-26 | Hard [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그래프 탐색, 0-1 BFS, 다익스트라
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **방향 변경 체크:** 방향을 유지하면 가중치가 0, 방향을 변경하면 가중치가 1이다.
+
+**🔗 기록:** [github](../Algorithm/2026/07/26/LeetCode_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid/)
+
+---
+
 ### 🚀 2026-07-25 | Hard [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/)
 
 > 플랫폼: LeetCode <br>
