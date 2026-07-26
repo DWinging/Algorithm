@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-27 | Medium [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그래프 탐색, 0-1 BFS
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **발판의 종류:** 발판의 종류가 0과 1 두 종류 뿐이다. 즉, 간선의 가중치가 0과 1만 존재한다.
+
+**🔗 기록:** [github](../Algorithm/2026/07/27/LeetCode_Find_a_Safe_Walk_Through_a_Grid/)
+
+---
+
 ### 🚀 2026-07-26 | Hard [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 
 > 플랫폼: LeetCode <br>
