@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-07-28 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWItDD5qAdkDFAWQ) 프리랜서 | DP | DP | [github](../Algorithm/2026/07/28/SWEA_프리랜서/) | - |
 | 26-07-27 | LeetCode | [Medium](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/) Find a Safe Walk Through a Grid | 그래프 탐색, 0-1 BFS | 0-1 BFS | [github](../Algorithm/2026/07/27/LeetCode_Find_a_Safe_Walk_Through_a_Grid/) | - |
 | 26-07-26 | LeetCode | [Hard](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) Minimum Cost to Make at Least One Valid Path in a Grid | 그래프 탐색, 0-1 BFS, 다익스트라 | 0-1 BFS | [github](../Algorithm/2026/07/26/LeetCode_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid/) | - |
 | 26-07-25 | LeetCode | [Hard](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) Shortest Path to Get All Keys | 그래프 탐색, 비트마스킹 | 그래프, 비트마스킹, BFS | [github](../Algorithm/2026/07/25/LeetCode_Shortest_Path_to_Get_All_Keys/) | - |

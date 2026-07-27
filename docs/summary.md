@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-28 | D4 [프리랜서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWItDD5qAdkDFAWQ)
+
+> 플랫폼: SWEA <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **스케줄링:** 현재 값을 선택했을 때 이후 스케줄을 관리하는 DP 문제다.
+
+**🔗 기록:** [github](../Algorithm/2026/07/28/SWEA_프리랜서/)
+
+---
+
 ### 🚀 2026-07-27 | Medium [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/)
 
 > 플랫폼: LeetCode <br>
