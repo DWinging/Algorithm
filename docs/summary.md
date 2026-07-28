@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-29 | Medium [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 우선 순위 큐, 누적 합, 차분 배열 트릭
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **겹치는 구간 구하기:** 일정이 겹치는 구간에서는 겹치는 만큼 공간이 필요하다.
+
+**🔗 기록:** [github](../Algorithm/2026/07/29/LeetCode_Divide_Intervals_Into_Minimum_Number_of_Groups/)
+
+---
+
 ### 🚀 2026-07-28 | D4 [프리랜서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWItDD5qAdkDFAWQ)
 
 > 플랫폼: SWEA <br>
