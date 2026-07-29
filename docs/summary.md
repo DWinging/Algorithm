@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-30 | Lv3 [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: BFS
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **좌표 확장:** 그림상으로는 테두리와 테두리 사이가 구분되지만, 행렬로 변환하면 구분 되지 않는다.
+* **테두리 계산:** 아이템을 주우러가는 경로가 테두리라는 것을 인지한다.
+
+**🔗 기록:** [github](../Algorithm/2026/07/30/프로그래머스_아이템_줍기/)
+
+---
+
 ### 🚀 2026-07-29 | Medium [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)
 
 > 플랫폼: LeetCode <br>
