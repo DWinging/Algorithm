@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-07-31 | LeetCode | [Hard](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/) Minimum Cost Walk in Weighted Graph | 분리 집합 | Union-Find | [github](../Algorithm/2026/07/31/LeetCode_Minimum_Cost_Walk_in_Weighted_Graph/) | - |
 | 26-07-30 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/87694) 아이템 줍기 | BFS | BFS | [github](../Algorithm/2026/07/30/프로그래머스_아이템_줍기/) | - |
 | 26-07-29 | LeetCode | [Medium](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) Divide Intervals Into Minimum Number of Groups | 우선순위 큐, 누적 합, 차분 배열 트릭 | 작업 스케줄링, 차분 배열 트릭 | [github](../Algorithm/2026/07/29/LeetCode_Divide_Intervals_Into_Minimum_Number_of_Groups/) | - |
 | 26-07-28 | SWEA | [D4](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWItDD5qAdkDFAWQ) 프리랜서 | DP | DP | [github](../Algorithm/2026/07/28/SWEA_프리랜서/) | - |

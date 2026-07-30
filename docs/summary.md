@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-07-31 | Hard [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 분리 집합
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **AND 연산:** 비트 AND는 연산할 값이 추가될수록 결과가 같거나 작아지므로, 연결된 모든 간선의 가중치를 AND한 값이 최소 비용이 된다.
+
+**🔗 기록:** [github](../Algorithm/2026/07/31/LeetCode_Minimum_Cost_Walk_in_Weighted_Graph/)
+
+---
+
 ### 🚀 2026-07-30 | Lv3 [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)
 
 > 플랫폼: 프로그래머스 <br>
