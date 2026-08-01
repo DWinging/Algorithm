@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-01 | Medium [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 이진 탐색
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **O(log n):** 시간복잡도가 O(log n)인 풀이를 선택해야 한다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/01/LeetCode_Search_in_Rotated_Sorted_Array/)
+
+---
+
 ### 🚀 2026-07-31 | Hard [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/)
 
 > 플랫폼: LeetCode <br>
