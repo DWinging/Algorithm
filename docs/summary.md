@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-03 | Medium [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 두 포인터, 모노톤 덱
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **모노톤 덱:** 모노톤 덱을 사용해 범위 내 값들을 정렬하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/03/LeetCode_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit/)
+
+---
+
 ### 🚀 2026-08-02 | Medium [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 
 > 플랫폼: LeetCode <br>
