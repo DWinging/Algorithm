@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-08-02 | LeetCode | [Medium](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) Search in Rotated Sorted Array II | 이진 탐색 | 이진 탐색 | [github](../Algorithm/2026/08/02/LeetCode_Search_in_Rotated_Sorted_Array_II/) | - |
 | 26-08-01 | LeetCode | [Medium](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) Search in Rotated Sorted Array | 이진 탐색 | 이진 탐색 | [github](../Algorithm/2026/08/01/LeetCode_Search_in_Rotated_Sorted_Array/) | - |
 | 26-07-31 | LeetCode | [Hard](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/) Minimum Cost Walk in Weighted Graph | 분리 집합 | Union-Find | [github](../Algorithm/2026/07/31/LeetCode_Minimum_Cost_Walk_in_Weighted_Graph/) | - |
 | 26-07-30 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/87694) 아이템 줍기 | BFS | BFS | [github](../Algorithm/2026/07/30/프로그래머스_아이템_줍기/) | - |

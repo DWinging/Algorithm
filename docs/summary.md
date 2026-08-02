@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-02 | Medium [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 이진 탐색
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **O(log n):** 시간복잡도가 O(log n)인 풀이를 선택해야 한다.
+* **중복 데이터 처리:** 왼쪽과 중앙 값이 같을 경우, 정렬된 위치를 파악하기 어렵다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/02/LeetCode_Search_in_Rotated_Sorted_Array_II/)
+
+---
+
 ### 🚀 2026-08-01 | Medium [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
 > 플랫폼: LeetCode <br>
