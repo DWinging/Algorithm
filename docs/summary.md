@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-04 | Lv3 [GPS](https://school.programmers.co.kr/learn/courses/30/lessons/1837/)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 다익스트라, 0-1 BFS
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **가중치 찾기:** 가중치를 설정하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/04/프로그래머스_GPS/)
+
+---
+
 ### 🚀 2026-08-03 | Medium [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/)
 
 > 플랫폼: LeetCode <br>
