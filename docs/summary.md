@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-05 | Medium [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 모노톤 덱
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **수식 이해:** 수식을 이해하고 변형하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/05/LeetCode_Max_Value_of_Equation/)
+
+---
+
 ### 🚀 2026-08-04 | Lv3 [GPS](https://school.programmers.co.kr/learn/courses/30/lessons/1837/)
 
 > 플랫폼: 프로그래머스 <br>
