@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-06 | Medium [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 이진 탐색
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **홀짝 규칙:** 홀짝 규칙을 통한 범위 선택
+
+**🔗 기록:** [github](../Algorithm/2026/08/06/LeetCode_Single_Element_in_a_Sorted_Array/)
+
+---
+
 ### 🚀 2026-08-05 | Medium [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/description/)
 
 > 플랫폼: LeetCode <br>
