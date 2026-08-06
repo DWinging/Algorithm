@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-08-07 | LeetCode | [Medium](https://leetcode.com/problems/path-with-minimum-effort/description/) Path With Minimum Effort | 다익스트라 | 다익스트라 | [github](../Algorithm/2026/08/07/LeetCode_Path_With_Minimum_Effort/) | - |
 | 26-08-06 | LeetCode | [Medium](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) Single Element in a Sorted Array | 이진 탐색 | 이진 탐색 | [github](../Algorithm/2026/08/06/LeetCode_Single_Element_in_a_Sorted_Array/) | - |
 | 26-08-05 | LeetCode | [Medium](https://leetcode.com/problems/max-value-of-equation/description/) Max Value of Equation | 모노톤 덱 | 모노톤 덱 | [github](../Algorithm/2026/08/05/LeetCode_Max_Value_of_Equation/) | - |
 | 26-08-04 | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/1837/) GPS | 다익스트라, 0-1 BFS | 다익스트라, 0-1 BFS | [github](../Algorithm/2026/08/04/프로그래머스_GPS/) | - |

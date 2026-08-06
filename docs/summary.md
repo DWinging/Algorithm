@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-07 | Medium [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 다익스트라
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **effort 유지:** 다음 칸과의 높이 차이만 보는 것이 아니라, 기존 경로에서의 최대 높이 차이도 함께 고려한다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/07/LeetCode_Path_With_Minimum_Effort/)
+
+---
+
 ### 🚀 2026-08-06 | Medium [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 
 > 플랫폼: LeetCode <br>
