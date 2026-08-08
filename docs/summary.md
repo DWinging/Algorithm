@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-08 | Medium [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: Union-Find
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **정렬 기준:** 정렬 기준을 끝나는 날짜 오름차순, 시작 날짜 내림 차순으로 설정하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/08/LeetCode_Maximum_Number_of_Events_That_Can_Be_Attended/)
+
+---
+
 ### 🚀 2026-08-07 | Medium [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)
 
 > 플랫폼: LeetCode <br>
