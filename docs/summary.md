@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-10 | Medium [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **Doubled Array를 만들 수 있는 조건:** 배열을 만들 수 있는 조건을 고려해보면 연산량을 줄일 수 있다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/10/LeetCode_Find_Original_Array_From_Doubled_Array/)
+
+---
+
 ### 🚀 2026-08-09 | Medium [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/description/)
 
 > 플랫폼: LeetCode <br>
