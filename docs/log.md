@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-08-09 | LeetCode | [Medium](https://leetcode.com/problems/largest-number-after-mutating-substring/description/) Largest Number After Mutating Substring | 그리디 | 그리디 | [github](../Algorithm/2026/08/09/LeetCode_Largest_Number_After_Mutating_Substring/) | - |
 | 26-08-08 | LeetCode | [Medium](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/) Maximum Number of Events That Can Be Attended | Union-Find | Union-Find, 우선순위 큐, 상태 관리 | [github](../Algorithm/2026/08/08/LeetCode_Maximum_Number_of_Events_That_Can_Be_Attended/) | - |
 | 26-08-07 | LeetCode | [Medium](https://leetcode.com/problems/path-with-minimum-effort/description/) Path With Minimum Effort | 다익스트라 | 다익스트라 | [github](../Algorithm/2026/08/07/LeetCode_Path_With_Minimum_Effort/) | - |
 | 26-08-06 | LeetCode | [Medium](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) Single Element in a Sorted Array | 이진 탐색 | 이진 탐색 | [github](../Algorithm/2026/08/06/LeetCode_Single_Element_in_a_Sorted_Array/) | - |

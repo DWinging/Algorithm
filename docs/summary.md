@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-09 | Medium [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **부분 문자열의 위치 찾기:** 앞에서 부터 탐색을 진행하면서, 변경 가능한 숫자가 더 큰 위치를 찾는다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/09/LeetCode_Largest_Number_After_Mutating_Substring/)
+
+---
+
 ### 🚀 2026-08-08 | Medium [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/)
 
 > 플랫폼: LeetCode <br>
