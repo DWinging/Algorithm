@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-12 | Medium [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **예외 처리:** 다양한 예외 케이스를 판단하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/12/LeetCode_Maximum_Strength_of_a_Group/)
+
+---
+
 ### 🚀 2026-08-11 | Lv4 [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063/)
 
 > 플랫폼: 프로그래머스 <br>
