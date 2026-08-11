@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-11 | Lv4 [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063/)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 희소 배열, Union-Find, 자료구조
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **희소 배열:** 번호의 범위가 1 ~ 10<sup>12</sup>라는 것을 유의한다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/11/프로그래머스_호텔_방_배정/)
+
+---
+
 ### 🚀 2026-08-10 | Medium [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/description/)
 
 > 플랫폼: LeetCode <br>

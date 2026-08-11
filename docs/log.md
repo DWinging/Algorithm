@@ -2,6 +2,7 @@
 
 | 날짜 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-08-11 | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/64063/) 호텔 방 배정 | 희소 배열, Union-Find, 자료구조 | 희소 배열, Union-Find | [github](../Algorithm/2026/08/11/프로그래머스_호텔_방_배정/) | - |
 | 26-08-10 | LeetCode | [Medium](https://leetcode.com/problems/find-original-array-from-doubled-array/description/) Find Original Array From Doubled Array | 그리디 | 그리디 | [github](../Algorithm/2026/08/10/LeetCode_Find_Original_Array_From_Doubled_Array/) | - |
 | 26-08-09 | LeetCode | [Medium](https://leetcode.com/problems/largest-number-after-mutating-substring/description/) Largest Number After Mutating Substring | 그리디 | 그리디 | [github](../Algorithm/2026/08/09/LeetCode_Largest_Number_After_Mutating_Substring/) | - |
 | 26-08-08 | LeetCode | [Medium](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/) Maximum Number of Events That Can Be Attended | Union-Find | Union-Find, 우선순위 큐, 상태 관리 | [github](../Algorithm/2026/08/08/LeetCode_Maximum_Number_of_Events_That_Can_Be_Attended/) | - |
