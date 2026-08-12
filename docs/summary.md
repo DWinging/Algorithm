@@ -832,7 +832,7 @@
 
 ---
 
-### 🚀 2026-06-10 | D5 [옥희의 OK! 부동산](https://swexpertacademy.com/main/code/problem/problemSolver.do?contestProbId=AWslJ57qFS0DFASy)
+### 🚀 2026-06-10 | D5 [옥희의 OK! 부동산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWslJ57qFS0DFASy)
 
 > 플랫폼: SWEA <br>
 > 알고리즘: 두 포인터
