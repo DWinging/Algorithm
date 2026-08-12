@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-13 | Hard [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **그리디:** 작은 값부터 연산을 수행한다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/13/LeetCode_Maximum_Spending_After_Buying_Items/)
+
+---
+
 ### 🚀 2026-08-12 | Medium [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/description/)
 
 > 플랫폼: LeetCode <br>
