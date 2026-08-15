@@ -1,5 +1,32 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-15 | Medium [Eat Pizzas!](https://leetcode.com/problems/eat-pizzas/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **홀수 일과 짝수 일:** 홀수 날짜 처리 후 짝수 날짜를 처리하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/15/LeetCode_Eat_Pizzas!/)
+
+---
+
+### 🚀 2026-08-14 | - [해적 선장 코디](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/pirate-captain-coddy/description)
+
+> 플랫폼: 코드트리 <br>
+> 알고리즘: 시뮬레이션, 자료구조, 우선순위 큐
+
+**💡 풀이 핵심(Core Logic):** 
+
+* **두 개의 큐:** 공격 대기 상태와 재장전 상태를 우선순위 큐로 관리하는 것
+* **지연 삭제:** 공격력이 바뀌기 이전 상태를 나중에 처리하는 것
+
+**🔗 기록:** [github](../Algorithm/2026/08/14/코드트리_해적_선장_코디/)
+
+---
+
 ### 🚀 2026-08-13 | Hard [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/description/)
 
 > 플랫폼: LeetCode <br>

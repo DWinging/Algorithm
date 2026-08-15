@@ -2,6 +2,8 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-08-15 | 3457 | LeetCode | [Medium](https://leetcode.com/problems/eat-pizzas/description/) Eat Pizzas! | 그리디 | 그리디 | [github](../Algorithm/2026/08/15/LeetCode_Eat_Pizzas!/) | - |
+| 26-08-14 | - | 코드트리 | [-](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/pirate-captain-coddy/description) 해적 선장 코디 | 시뮬레이션, 자료구조, 우선순위 큐 | 우선순위 큐, 지연 삭제 | [github](../Algorithm/2026/08/14/코드트리_해적_선장_코디/) | - |
 | 26-08-13 | 2931 | LeetCode | [Hard](https://leetcode.com/problems/maximum-spending-after-buying-items/description/) Maximum Spending After Buying Items | 그리디 | 그리디 | [github](../Algorithm/2026/08/13/LeetCode_Maximum_Spending_After_Buying_Items/) | - |
 | 26-08-12 | 2708 | LeetCode | [Medium](https://leetcode.com/problems/maximum-strength-of-a-group/description/) Maximum Strength of a Group | 그리디 | 그리디 | [github](../Algorithm/2026/08/12/LeetCode_Maximum_Strength_of_a_Group/) | - |
 | 26-08-11 | - | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/64063/) 호텔 방 배정 | 희소 배열, Union-Find, 자료구조 | 희소 배열, Union-Find | [github](../Algorithm/2026/08/11/프로그래머스_호텔_방_배정/) | - |
