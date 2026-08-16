@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-16 | Medium [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 다익스트라
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **최단 경로:** 가중치가 존재하는 일방향 그래프와 K번 경유가 가능하다는 조건이 있는 문제
+
+**🔗 기록:** [github](../Algorithm/2026/08/16/LeetCode_Cheapest_Flights_Within_K_Stops/)
+
+---
+
 ### 🚀 2026-08-15 | Medium [Eat Pizzas!](https://leetcode.com/problems/eat-pizzas/description/)
 
 > 플랫폼: LeetCode <br>

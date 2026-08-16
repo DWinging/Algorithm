@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-08-16 | 787 | LeetCode | [Medium](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) Cheapest Flights Within K Stops | 다익스트라 | 다익스트라 | [github](../Algorithm/2026/08/16/LeetCode_Cheapest_Flights_Within_K_Stops/) | - |
 | 26-08-15 | 3457 | LeetCode | [Medium](https://leetcode.com/problems/eat-pizzas/description/) Eat Pizzas! | 그리디 | 그리디 | [github](../Algorithm/2026/08/15/LeetCode_Eat_Pizzas!/) | - |
 | 26-08-14 | - | 코드트리 | [-](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/pirate-captain-coddy/description) 해적 선장 코디 | 시뮬레이션, 자료구조, 우선순위 큐 | 우선순위 큐, 지연 삭제 | [github](../Algorithm/2026/08/14/코드트리_해적_선장_코디/) | - |
 | 26-08-13 | 2931 | LeetCode | [Hard](https://leetcode.com/problems/maximum-spending-after-buying-items/description/) Maximum Spending After Buying Items | 그리디 | 그리디 | [github](../Algorithm/2026/08/13/LeetCode_Maximum_Spending_After_Buying_Items/) | - |
