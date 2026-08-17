@@ -1,7 +1,19 @@
 # 📅 Algorithm Solve Log
 
-### 🚀 2026-08-17 | Medium [Determine if Two Strings Are Close
-](https://leetcode.com/problems/determine-if-two-strings-are-close/description/)
+### 🚀 2026-08-18 | Medium [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 트리, BFS, DFS
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **이진 트리 생성 조건:** 이진 트리가 될 수 있는 조건을 고려해야 풀 수 있는 문제
+
+**🔗 기록:** [github](../Algorithm/2026/08/18/LeetCode_Validate_Binary_Tree_Nodes/)
+
+---
+
+### 🚀 2026-08-17 | Medium [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/description/)
 
 > 플랫폼: LeetCode <br>
 > 알고리즘: 문자열, 정렬
