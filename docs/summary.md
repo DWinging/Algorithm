@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-17 | Medium [Determine if Two Strings Are Close
+](https://leetcode.com/problems/determine-if-two-strings-are-close/description/)
+
+> 플랫폼: LeetCode <br>
+> 알고리즘: 문자열, 정렬
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **빈도수 체크:** 특정 문자가 사용되었는지 확인하고, 각 문자의 빈도수를 체크하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/17/LeetCode_Determine_if_Two_Strings_Are_Close/)
+
+---
+
 ### 🚀 2026-08-16 | Medium [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 
 > 플랫폼: LeetCode <br>
