@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-08-19 | - | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/60063) 블록 이동하기 | 시뮬레이션, BFS | 시뮬레이션, BFS | [github](../Algorithm/2026/08/19/프로그래머스_블록_이동하기/) | - |
 | 26-08-18 | 1361 | LeetCode | [Medium](https://leetcode.com/problems/validate-binary-tree-nodes/description/) Validate Binary Tree Nodes | 트리, BFS, DFS | 트리, BFS, DFS | [github](../Algorithm/2026/08/18/LeetCode_Validate_Binary_Tree_Nodes/) | - |
 | 26-08-17 | 1657 | LeetCode | [Medium](https://leetcode.com/problems/determine-if-two-strings-are-close/description/) Determine if Two Strings Are Close | 문자열, 정렬 | 문자열, 정렬 | [github](../Algorithm/2026/08/17/LeetCode_Determine_if_Two_Strings_Are_Close/) | - |
 | 26-08-16 | 787 | LeetCode | [Medium](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) Cheapest Flights Within K Stops | 다익스트라 | 다익스트라 | [github](../Algorithm/2026/08/16/LeetCode_Cheapest_Flights_Within_K_Stops/) | - |

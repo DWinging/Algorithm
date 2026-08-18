@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-19 | Lv3 [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 시뮬레이션, BFS
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **방문 체크:** 한칸이 아닌 인접한 칸을 같이 관리해야한다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/19/프로그래머스_블록_이동하기/)
+
+---
+
 ### 🚀 2026-08-18 | Medium [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/description/)
 
 > 플랫폼: LeetCode <br>
