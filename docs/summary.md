@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-20 | 1300 [Maximum Distance To Port](https://codeforces.com/problemset/problem/2172/M)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: BFS
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **농산물별 최댓값 갱신:** BFS 탐색 중 각 도시의 최단 거리를 기준으로 종류별 최대 거리를 갱신
+
+**🔗 기록:** [github](../Algorithm/2026/08/20/Codeforces_Maximum_Distance_To_Port/)
+
+---
+
 ### 🚀 2026-08-19 | Lv3 [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)
 
 > 플랫폼: 프로그래머스 <br>
