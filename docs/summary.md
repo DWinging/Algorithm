@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-21 | Lv4 [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 다익스트라, 그래프 탐색, 비트마스킹
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **양방향 상태 관리:** 현재 위치의 트랩이 발동 여부와 방문 예정 위치의 트랩 발동 여부를 함께 체크해야한다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/21/프로그래머스_미로_탈출/)
+
+---
+
 ### 🚀 2026-08-20 | 1300 [Maximum Distance To Port](https://codeforces.com/problemset/problem/2172/M)
 
 > 플랫폼: Codeforces <br>
