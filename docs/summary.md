@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-22 | Lv3 [단어 퍼즐](https://school.programmers.co.kr/learn/courses/18/lessons/1882)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **완성 위치 기준 DP:** 현재까지 완성한 위치를 기준으로 다음 단어 조각을 이어 붙인다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/22/프로그래머스_단어_퍼즐/)
+
+---
+
 ### 🚀 2026-08-21 | Lv4 [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304)
 
 > 플랫폼: 프로그래머스 <br>
