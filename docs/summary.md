@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-24 | 1300 [Prefix Permutation SUms](https://codeforces.com/problemset/problem/1851/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 누적 합
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **누적합 복원:** 누적합의 차이값을 복원해 나오지 않은 값을 찾는다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/24/Codeforces_Prefix_Permutation_Sums/)
+
+---
+
 ### 🚀 2026-08-22 | Lv3 [단어 퍼즐](https://school.programmers.co.kr/learn/courses/18/lessons/1882)
 
 > 플랫폼: 프로그래머스 <br>

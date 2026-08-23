@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-08-24 | 1851D | Codeforces | [1300](https://codeforces.com/problemset/problem/1851/D) Prefix Permutation Sums | 누적 합 | 누적 합 | [github](../Algorithm/2026/08/24/Codeforces_Prefix_Permutation_Sums/) | - |
 | 26-08-22 | - | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/18/lessons/1882) 단어 퍼즐 | DP | DP | [github](../Algorithm/2026/08/22/프로그래머스_단어_퍼즐/) | - |
 | 26-08-21 | - | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/81304) 미로 탈출 | 다익스트라, 그래프 탐색, 비트마스킹 | 다익스트라, 그래프 탐색, 비트마스킹 | [github](../Algorithm/2026/08/21/프로그래머스_미로_탈출/) | - |
 | 26-08-20 | 2172M | Codeforces | [1300](https://codeforces.com/problemset/problem/2172/M) Maximum Distance To Port | BFS | BFS | [github](../Algorithm/2026/08/20/Codeforces_Maximum_Distance_To_Port/) | - |
