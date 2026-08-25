@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-08-25 | 1749C | Codeforces | [1400](https://codeforces.com/problemset/problem/1749/C) Number Game | 그리디, 이분 탐색, 두 포인터 | 그리디, 이분 탐색, 두 포인터, 게임 이론 | [github](../Algorithm/2026/08/25/Codeforces_Number_game/) | - |
 | 26-08-24 | 1851D | Codeforces | [1300](https://codeforces.com/problemset/problem/1851/D) Prefix Permutation Sums | 누적 합 | 누적 합 | [github](../Algorithm/2026/08/24/Codeforces_Prefix_Permutation_Sums/) | - |
 | 26-08-22 | - | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/18/lessons/1882) 단어 퍼즐 | DP | DP | [github](../Algorithm/2026/08/22/프로그래머스_단어_퍼즐/) | - |
 | 26-08-21 | - | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/81304) 미로 탈출 | 다익스트라, 그래프 탐색, 비트마스킹 | 다익스트라, 그래프 탐색, 비트마스킹 | [github](../Algorithm/2026/08/21/프로그래머스_미로_탈출/) | - |
@@ -11,8 +12,7 @@
 | 26-08-17 | 1657 | LeetCode | [Medium](https://leetcode.com/problems/determine-if-two-strings-are-close/description/) Determine if Two Strings Are Close | 문자열, 정렬 | 문자열, 정렬 | [github](../Algorithm/2026/08/17/LeetCode_Determine_if_Two_Strings_Are_Close/) | - |
 | 26-08-16 | 787 | LeetCode | [Medium](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) Cheapest Flights Within K Stops | 다익스트라 | 다익스트라 | [github](../Algorithm/2026/08/16/LeetCode_Cheapest_Flights_Within_K_Stops/) | - |
 | 26-08-15 | 3457 | LeetCode | [Medium](https://leetcode.com/problems/eat-pizzas/description/) Eat Pizzas! | 그리디 | 그리디 | [github](../Algorithm/2026/08/15/LeetCode_Eat_Pizzas!/) | - |
-| 26-08-14 | - | 코드트리 | [-](https://www.codetree.ai/k
-o/frequent-problems/samsung-sw/problems/pirate-captain-coddy/description) 해적 선장 코디 | 시뮬레이션, 자료구조, 우선순위 큐 | 우선순위 큐, 지연 삭제 | [github](../Algorithm/2026/08/14/코드트리_해적_선장_코디/) | - |
+| 26-08-14 | - | 코드트리 | [-](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/pirate-captain-coddy/description) 해적 선장 코디 | 시뮬레이션, 자료구조, 우선순위 큐 | 우선순위 큐, 지연 삭제 | [github](../Algorithm/2026/08/14/코드트리_해적_선장_코디/) | - |
 | 26-08-13 | 2931 | LeetCode | [Hard](https://leetcode.com/problems/maximum-spending-after-buying-items/description/) Maximum Spending After Buying Items | 그리디 | 그리디 | [github](../Algorithm/2026/08/13/LeetCode_Maximum_Spending_After_Buying_Items/) | - |
 | 26-08-12 | 2708 | LeetCode | [Medium](https://leetcode.com/problems/maximum-strength-of-a-group/description/) Maximum Strength of a Group | 그리디 | 그리디 | [github](../Algorithm/2026/08/12/LeetCode_Maximum_Strength_of_a_Group/) | - |
 | 26-08-11 | - | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/64063/) 호텔 방 배정 | 희소 배열, Union-Find, 자료구조 | 희소 배열, Union-Find | [github](../Algorithm/2026/08/11/프로그래머스_호텔_방_배정/) | - |

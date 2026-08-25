@@ -1,6 +1,20 @@
 # 📅 Algorithm Solve Log
 
-### 🚀 2026-08-24 | 1300 [Prefix Permutation SUms](https://codeforces.com/problemset/problem/1851/D)
+### 🚀 2026-08-25 | 1400 [Number Game](https://codeforces.com/problemset/problem/1749/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디, 이분 탐색, 두 포인터
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **K 값 탐색:** Alice의 승리 가능 여부에 따라 K의 범위를 좁혀 최댓값을 찾는다.
+* **게임 진행:** 정렬된 배열의 양끝을 이용해 Alice와 Bob의 최적 선택을 시뮬레이션한다.
+
+**🔗 기록:** [github](../Algorithm/2026/08/25/Codeforces_Number_game/)
+
+---
+
+### 🚀 2026-08-24 | 1300 [Prefix Permutation Sums](https://codeforces.com/problemset/problem/1851/D)
 
 > 플랫폼: Codeforces <br>
 > 알고리즘: 누적 합
