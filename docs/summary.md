@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 2026-08-22 | Lv3 [단어 퍼즐](https://school.programmers.co.kr/learn/courses/18/lessons/1882)
+### 🚀 2026-08-22 | Lv3 [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983)
 
 > 플랫폼: 프로그래머스 <br>
 > 알고리즘: DP

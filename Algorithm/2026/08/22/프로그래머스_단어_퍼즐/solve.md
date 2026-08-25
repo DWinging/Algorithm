@@ -1,4 +1,4 @@
-### 프로그래머스 Lv3 [단어 퍼즐](https://school.programmers.co.kr/learn/courses/18/lessons/1882) (Java)
+### 프로그래머스 Lv4 [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983) (Java)
 
 > **날짜:** 2026년 8월 22일 <br>
 > **알고리즘:** DP <br>

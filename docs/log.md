@@ -4,7 +4,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 26-08-25 | 1749C | Codeforces | [1400](https://codeforces.com/problemset/problem/1749/C) Number Game | 그리디, 이분 탐색, 두 포인터 | 그리디, 이분 탐색, 두 포인터, 게임 이론 | [github](../Algorithm/2026/08/25/Codeforces_Number_game/) | - |
 | 26-08-24 | 1851D | Codeforces | [1300](https://codeforces.com/problemset/problem/1851/D) Prefix Permutation Sums | 누적 합 | 누적 합 | [github](../Algorithm/2026/08/24/Codeforces_Prefix_Permutation_Sums/) | - |
-| 26-08-22 | - | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/18/lessons/1882) 단어 퍼즐 | DP | DP | [github](../Algorithm/2026/08/22/프로그래머스_단어_퍼즐/) | - |
+| 26-08-22 | - | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/12983) 단어 퍼즐 | DP | DP | [github](../Algorithm/2026/08/22/프로그래머스_단어_퍼즐/) | - |
 | 26-08-21 | - | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/81304) 미로 탈출 | 다익스트라, 그래프 탐색, 비트마스킹 | 다익스트라, 그래프 탐색, 비트마스킹 | [github](../Algorithm/2026/08/21/프로그래머스_미로_탈출/) | - |
 | 26-08-20 | 2172M | Codeforces | [1300](https://codeforces.com/problemset/problem/2172/M) Maximum Distance To Port | BFS | BFS | [github](../Algorithm/2026/08/20/Codeforces_Maximum_Distance_To_Port/) | - |
 | 26-08-19 | - | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/60063) 블록 이동하기 | 시뮬레이션, BFS | 시뮬레이션, BFS | [github](../Algorithm/2026/08/19/프로그래머스_블록_이동하기/) | - |
