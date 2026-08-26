@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-26 | Lv3 [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 그리디, 백트래킹
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **기준점 설정:** 탐색의 기준점을 취약점이 아닌 친구로 설정하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/26/프로그래머스_외벽_점검/)
+
+---
+
 ### 🚀 2026-08-25 | 1400 [Number Game](https://codeforces.com/problemset/problem/1749/C)
 
 > 플랫폼: Codeforces <br>

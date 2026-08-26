@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-08-26 | - | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/60062) 외벽 점검 | 그리디, 백트래킹 | 그리디, 백트래킹, 원형 배열 선형화 | [github](../Algorithm/2026/08/26/프로그래머스_외벽_점검/) | - |
 | 26-08-25 | 1749C | Codeforces | [1400](https://codeforces.com/problemset/problem/1749/C) Number Game | 그리디, 이분 탐색, 두 포인터 | 그리디, 이분 탐색, 두 포인터, 게임 이론 | [github](../Algorithm/2026/08/25/Codeforces_Number_game/) | - |
 | 26-08-24 | 1851D | Codeforces | [1300](https://codeforces.com/problemset/problem/1851/D) Prefix Permutation Sums | 누적 합 | 누적 합 | [github](../Algorithm/2026/08/24/Codeforces_Prefix_Permutation_Sums/) | - |
 | 26-08-22 | - | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/12983) 단어 퍼즐 | DP | DP | [github](../Algorithm/2026/08/22/프로그래머스_단어_퍼즐/) | - |
