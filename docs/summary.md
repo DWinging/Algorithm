@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-27 | 1500 [Little Girl and Maximum Sum](https://codeforces.com/problemset/problem/276/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 차분 배열 트릭, 그리디, 누적 합, 정렬
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **중복 되는 범위 카운팅:** 각 인덱스가 여러 쿼리 범위에 몇 번 포함되는지 계산하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/27/Codeforces_LIttle_Girl_and_Maximum_Sum/)
+
+---
+
 ### 🚀 2026-08-26 | Lv3 [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)
 
 > 플랫폼: 프로그래머스 <br>
