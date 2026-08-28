@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-28 | 1400 [Karen and Coffee](https://codeforces.com/problemset/problem/816/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 차분 배열 트릭, 누적 합
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **중복 연산 줄이기:** 누적합 연산을 통해 중복 연산을 줄이는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/28/Codeforces_Karen_and_Coffee/)
+
+---
+
 ### 🚀 2026-08-27 | 1500 [Little Girl and Maximum Sum](https://codeforces.com/problemset/problem/276/C)
 
 > 플랫폼: Codeforces <br>
