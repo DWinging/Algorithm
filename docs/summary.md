@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-29 | 1600 [Zero-Sum Prefixes](https://codeforces.com/problemset/problem/1748/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 누적 합, 자료구조, DP, 그리디
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **빈도 수 구하기:** 0을 기준으로 구간을 나누고, 각 구간의 누적합 최빈값을 선택
+
+**🔗 기록:** [github](../Algorithm/2026/08/29/Codeforces_Zero-Sum_Prefixes/)
+
+---
+
 ### 🚀 2026-08-28 | 1400 [Karen and Coffee](https://codeforces.com/problemset/problem/816/B)
 
 > 플랫폼: Codeforces <br>
