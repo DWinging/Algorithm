@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-31 | 1500 [Lunar New Year and a Wander](https://codeforces.com/problemset/problem/1106/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그래프 탐색, 자료구조
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **방문 가능한 후보지 관리:** 중복 탐색이 가능한 그래프에서, 방문 가능한 후보지를 관리하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/31/Codeforces_Lunar_New_Year_and_a_Wander/)
+
+---
+
 ### 🚀 2026-08-30 | 1300 [Rumor](https://codeforces.com/problemset/problem/893/C)
 
 > 플랫폼: Codeforces <br>
