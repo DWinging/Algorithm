@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-08-30 | 1300 [Rumor](https://codeforces.com/problemset/problem/893/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 분리 집합, 그리디
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **분리 집합:** 친구 관계를 하나의 집합으로 묶는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/08/30/Codeforces_Rumor/)
+
+---
+
 ### 🚀 2026-08-29 | 1600 [Zero-Sum Prefixes](https://codeforces.com/problemset/problem/1748/C)
 
 > 플랫폼: Codeforces <br>

@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-08-30 | 893C | Codeforces | [1300](https://codeforces.com/problemset/problem/893/C) Rumor | 분리 집합, 그리디 | Union-Find, 그리디 | [github](../Algorithm/2026/08/30/Codeforces_Rumor/) | - |
 | 26-08-29 | 1748C | Codeforces | [1600](https://codeforces.com/problemset/problem/1748/C) Zero-Sum Prefixes | 누적 합, 자료구조, DP, 그리디 | 누적 합, 빈도 수 카운팅, 그리디 | [github](../Algorithm/2026/08/29/Codeforces_Zero-Sum_Prefixes/) | - |
 | 26-08-28 | 816B | Codeforces | [1400](https://codeforces.com/problemset/problem/816/B) Karen and Coffee | 차분 배열 트릭, 누적 합 | 차분 배열 트릭, 누적 합 | [github](../Algorithm/2026/08/28/Codeforces_Karen_and_Coffee/) | - |
 | 26-08-27 | 276C | Codeforces | [1500](https://codeforces.com/problemset/problem/276/C) Little Girl and Maximum Sum | 차분 배열 트릭, 그리디, 누적 합, 정렬 | 차분 배열 트릭, 그리디, 누적 합, 정렬 | [github](../Algorithm/2026/08/27/Codeforces_LIttle_Girl_and_Maximum_Sum/) | - |
