@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-09-01 | 1547E | Codeforces | [1500](https://codeforces.com/problemset/problem/1547/E) Air Conditioners | 다익스트라, DP | 다익스트라, DP | [github](../Algorithm/2026/09/01/Codeforces_Air_Conditioners/) | - |
 | 26-08-31 | 1106D | Codeforces | [1500](https://codeforces.com/problemset/problem/1106/D) Lunar New Year and a Wander | 그래프 탐색, 자료구조 | 그래프 탐색, 자료구조 | [github](../Algorithm/2026/08/31/Codeforces_Lunar_New_Year_and_a_Wander/) | - |
 | 26-08-30 | 893C | Codeforces | [1300](https://codeforces.com/problemset/problem/893/C) Rumor | 분리 집합, 그리디 | Union-Find, 그리디 | [github](../Algorithm/2026/08/30/Codeforces_Rumor/) | - |
 | 26-08-29 | 1748C | Codeforces | [1600](https://codeforces.com/problemset/problem/1748/C) Zero-Sum Prefixes | 누적 합, 자료구조, DP, 그리디 | 누적 합, 빈도 수 카운팅, 그리디 | [github](../Algorithm/2026/08/29/Codeforces_Zero-Sum_Prefixes/) | - |

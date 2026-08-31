@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-01 | 1500 [Air Conditioner](https://codeforces.com/problemset/problem/1547/E)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 다익스트라, DP
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **양방향 탐색:** 왼쪽과 오른쪽으로 전파되는 최솟값을 각각 반영해 최종 온도를 계산한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/01/Codeforces_Air_Conditioners/)
+
+---
+
 ### 🚀 2026-08-31 | 1500 [Lunar New Year and a Wander](https://codeforces.com/problemset/problem/1106/D)
 
 > 플랫폼: Codeforces <br>
