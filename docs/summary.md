@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-02 | 1400 [Vacations](https://codeforces.com/problemset/problem/699/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **전날 일정 관리:** 전날 수행한 활동을 상태로 관리하여, 같은 활동이 연속되지 않도록 현재 가능한 일정을 선택하는 문제.
+
+**🔗 기록:** [github](../Algorithm/2026/09/02/Codeforces_Vacations/)
+
+---
+
 ### 🚀 2026-09-01 | 1500 [Air Conditioner](https://codeforces.com/problemset/problem/1547/E)
 
 > 플랫폼: Codeforces <br>
