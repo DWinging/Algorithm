@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-04 | 1500 [Woodcutters](https://codeforces.com/problemset/problem/545/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **나무를 자를 수 있다면 자른다:** 순차적으로 탐색하면서, 나무를 자를수 있다면 자른다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/04/Codeforces_Woodcutters/)
+
+---
+
 ### 🚀 2026-09-03 | Lv3 [고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702)
 
 > 플랫폼: 프로그래머스 <br>
