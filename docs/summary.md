@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-03 | Lv3 [고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 백트래킹, 브루트포스, 그리디
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **첫 행의 회전 경우의 수:** 첫 행의 각 칸을 0 ~ 3번 회전시키는 모든 경우를 탐색한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/03/프로그래머스_고고학_최고의_발견/)
+
+---
+
 ### 🚀 2026-09-02 | 1400 [Vacations](https://codeforces.com/problemset/problem/699/C)
 
 > 플랫폼: Codeforces <br>

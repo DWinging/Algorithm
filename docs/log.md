@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-09-03 | - | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/131702) 고고학 최고의 발견 | 백트래킹, 브루트포스, 그리디 | 백트래킹, 브루트포스, 그리디 | [github](../Algorithm/2026/09/03/프로그래머스_고고학_최고의_발견/) | - |
 | 26-09-02 | 699C | Codeforces | [1400](https://codeforces.com/problemset/problem/699/C) Vacations | DP | DP | [github](../Algorithm/2026/09/02/Codeforces_Vacations/) | - |
 | 26-09-01 | 1547E | Codeforces | [1500](https://codeforces.com/problemset/problem/1547/E) Air Conditioners | 다익스트라, DP | 다익스트라, DP | [github](../Algorithm/2026/09/01/Codeforces_Air_Conditioners/) | - |
 | 26-08-31 | 1106D | Codeforces | [1500](https://codeforces.com/problemset/problem/1106/D) Lunar New Year and a Wander | 그래프 탐색, 자료구조 | 그래프 탐색, 자료구조 | [github](../Algorithm/2026/08/31/Codeforces_Lunar_New_Year_and_a_Wander/) | - |
