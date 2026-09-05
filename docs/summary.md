@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-05 | Lv4 [트리 트리오 중간값](https://school.programmers.co.kr/learn/courses/30/lessons/68937)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 트리
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **트리의 지름:** 지름의 양 끝점 a, b를 구한다.
+* **중간값:** 트리의 지름에 해당하는 양 끝 점 a, b를 활용하여 c 정점을 찾는다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/05/프로그래머스_트리_트리오_중간값/)
+
+---
+
 ### 🚀 2026-09-04 | 1500 [Woodcutters](https://codeforces.com/problemset/problem/545/C)
 
 > 플랫폼: Codeforces <br>
