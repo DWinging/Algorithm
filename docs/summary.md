@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-07 | 1400 [Fighting Tournament](https://codeforces.com/problemset/problem/1719/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 구현, 두 포인터
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **승리할 수 있는 구간:** 각 선수가 승리할 수 있는 구간을 관리한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/07/Codeforces_Fighting_Tournament/)
+
+---
+
+
 ### 🚀 2026-09-06 | 1400 [Subsequence Hate](https://codeforces.com/problemset/problem/1363/B)
 
 > 플랫폼: Codeforces <br>

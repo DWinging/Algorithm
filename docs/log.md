@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-09-07 | 1719C | Codeforces | [1400](https://codeforces.com/problemset/problem/1719/C) Fighting Tournament | 구현, 두 포인터 | 구현, 두 포인터 | [github](../Algorithm/2026/09/07/Codeforces_Fighting_Tournament/) | - |
 | 26-09-06 | 1363B | Codeforces | [1400](https://codeforces.com/problemset/problem/1363/B) SubSequence Hate | 구현 | 구현, 압축 | [github](../Algorithm/2026/09/06/Codeforces_Subsequence_Hate/) | - |
 | 26-09-05 | - | 프로그래머스 | [Lv4](https://school.programmers.co.kr/learn/courses/30/lessons/68937) 트리 트리오 중간값 | 트리 | 트리, 트리의 지름 | [github](../Algorithm/2026/09/05/프로그래머스_트리_트리오_중간값/) | - |
 | 26-09-04 | 545C | Codeforces | [1500](https://codeforces.com/problemset/problem/545/C) Woodcutters | 그리디 | 그리디 | [github](../Algorithm/2026/09/04/Codeforces_Woodcutters/) | - |
