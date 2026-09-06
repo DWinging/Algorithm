@@ -64,7 +64,7 @@ class Solution {
         int node2,
         int n
     ) {
-        int len = 0, val = dist1[node2];
+        int len = 0;
         for(int i = 1; i <= n; i++) {
             if(i == node1 || i == node2) continue;
             

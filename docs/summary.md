@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-06 | 1400 [Subsequence Hate](https://codeforces.com/problemset/problem/1363/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 구현
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **좋은 문자열:** 좋은 문자열의 형태를 찾고, 경계를 탐색한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/06/Codeforces_Subsequence_Hate/)
+
+---
+
 ### 🚀 2026-09-05 | Lv4 [트리 트리오 중간값](https://school.programmers.co.kr/learn/courses/30/lessons/68937)
 
 > 플랫폼: 프로그래머스 <br>
