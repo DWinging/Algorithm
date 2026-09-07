@@ -2,6 +2,7 @@ import java.io.*;
 
 class Main {
 
+    final static int MAX_TURN = 1_000_000_000;
     final static int INF = 100_000;
     static int c;
     
@@ -35,7 +36,7 @@ class Main {
                 }
             }
 
-            eTurn[idx] = -1;
+            eTurn[idx] = MAX_TURN + 1;
 
             while(q-- > 0) {
                 int cur = readInt();
@@ -47,8 +48,6 @@ class Main {
                 int val = 0;
                 if(s > k) {
                     val = 0;
-                } else if(e == -1) {
-                    val = k + 1 - s;
                 } else {
                     val = Math.min(e, k + 1) - s;
                 }
