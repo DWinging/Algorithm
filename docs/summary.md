@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-08 | 1600 [Potions (Hard Version)](https://codeforces.com/problemset/problem/1526/C2)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 자료구조, 그리디
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **음수 물약의 개수:** 음수 물약을 최대한 마시는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/09/08/Codeforces_Potions_(Hard%20Version)/)
+
+---
+
 ### 🚀 2026-09-07 | 1400 [Fighting Tournament](https://codeforces.com/problemset/problem/1719/C)
 
 > 플랫폼: Codeforces <br>
