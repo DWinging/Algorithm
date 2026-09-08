@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-09 | 1900 [The Best Vacation](https://codeforces.com/problemset/problem/1358/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 두 포인터
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **경계 월 처리:** 두 포인터로 연속된 x일을 맞추고 경계 월에서 초과된 날짜만 연속합 공식으로 제외하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/09/09/Codeforces_The_Best_Vacation/)
+
+---
+
 ### 🚀 2026-09-08 | 1600 [Potions (Hard Version)](https://codeforces.com/problemset/problem/1526/C2)
 
 > 플랫폼: Codeforces <br>
@@ -9,7 +22,7 @@
 
 * **음수 물약의 개수:** 음수 물약을 최대한 마시는 것이 핵심
 
-**🔗 기록:** [github](../Algorithm/2026/09/08/Codeforces_Potions_(Hard%20Version)/)
+**🔗 기록:** [github](../Algorithm/2026/09/08/Codeforces_Potions_(Hard_Version)/)
 
 ---
 
