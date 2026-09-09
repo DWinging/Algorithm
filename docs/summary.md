@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-10 | 1400 [Accidental Victory](https://codeforces.com/problemset/problem/1490/E)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 정렬, 자료구조, 그리디
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **우승할 가능성이 있는 선수:** 약한 상대들의 토큰을 모두 흡수한 뒤, 다음 상대를 이길 수 있는지 확인한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/10/Codeforces_Accidental_Victory/)
+
+---
+
 ### 🚀 2026-09-09 | 1900 [The Best Vacation](https://codeforces.com/problemset/problem/1358/D)
 
 > 플랫폼: Codeforces <br>
