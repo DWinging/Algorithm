@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-11 | 1400 [Mr. Kitayuta's Colorful Graph](https://codeforces.com/problemset/problem/505/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그래프 탐색, BFS
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **같은 색상 간선 유지:** 그래프 탐색 과정에서 같은 색상을 유지하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/09/11/Codeforces_Mr._Kitayuta's_Colorful_Graph/)
+
+---
+
 ### 🚀 2026-09-10 | 1400 [Accidental Victory](https://codeforces.com/problemset/problem/1490/E)
 
 > 플랫폼: Codeforces <br>

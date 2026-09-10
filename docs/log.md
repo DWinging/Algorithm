@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-09-11 | 505B | Codeforces | [1400](https://codeforces.com/problemset/problem/505/B) Mr. Kitayuta's Colorful Graph | 그래프 탐색, BFS | 그래프 탐색, BFS | [github](../Algorithm/2026/09/11/Codeforces_Mr._Kitayuta's_Colorful_Graph/) | - |
 | 26-09-10 | 1490E | Codeforces | [1400](https://codeforces.com/problemset/problem/1490/E) Accidental Victory | 정렬, 자료구조, 그리디 | 정렬, 자료구조, 그리디 | [github](../Algorithm/2026/09/10/Codeforces_Accidental_Victory/) | - |
 | 26-09-09 | 1358D | Codeforces | [1900](https://codeforces.com/problemset/problem/1358/D) The Best Vacation | 두 포인터 | 두 포인터 | [github](../Algorithm/2026/09/09/Codeforces_The_Best_Vacation/) | - |
 | 26-09-08 | 1526C2 | Codeforces | [1600](https://codeforces.com/problemset/problem/1526/C2) Potions (Hard Version) | 자료구조, 그리디 | 자료구조 그리디 | [github](../Algorithm/2026/09/08/Codeforces_Potions_(Hard_Version)/) | - |
