@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-12 | 1300 [Social Distance](https://codeforces.com/problemset/problem/1367/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디, 누적 합
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **차분 배열 트릭:** 금지 구간을 마킹하고 누적합으로 순차 탐색
+
+**🔗 기록:** [github](../Algorithm/2026/09/12/Codeforces_Social_Distance/)
+
+---
+
 ### 🚀 2026-09-11 | 1400 [Mr. Kitayuta's Colorful Graph](https://codeforces.com/problemset/problem/505/B)
 
 > 플랫폼: Codeforces <br>
