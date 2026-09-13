@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-13 | 1300 [Sharky Surfing](https://codeforces.com/problemset/problem/2037/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디, 두 포인터, 자료구조
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **파워 업:** 지금까지 지나온 파워 업 아이템 중 가장 큰 것을 우선 사용한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/13/Codeforces_Sharky_Surfing/)
+
+---
+
 ### 🚀 2026-09-12 | 1300 [Social Distance](https://codeforces.com/problemset/problem/1367/C)
 
 > 플랫폼: Codeforces <br>

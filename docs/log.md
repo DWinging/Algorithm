@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-09-13 | 2037D | Codeforces | [1300](https://codeforces.com/problemset/problem/2037/D) Sharky Surfing | 그리디, 두 포인터, 자료구조 | 그리디, 두 포인터, 자료구조 | [github](../Algorithm/2026/09/13/Codeforces_Sharky_Surfing/) | - |
 | 26-09-12 | 1367C | Codeforces | [1300](https://codeforces.com/problemset/problem/1367/C) Social Distance | 그리디, 누적 합 | 그리디, 누적 합 | [github](../Algorithm/2026/09/12/Codeforces_Social_Distance/) | - |
 | 26-09-11 | 505B | Codeforces | [1400](https://codeforces.com/problemset/problem/505/B) Mr. Kitayuta's Colorful Graph | 그래프 탐색, BFS | 그래프 탐색, BFS | [github](../Algorithm/2026/09/11/Codeforces_Mr._Kitayuta's_Colorful_Graph/) | - |
 | 26-09-10 | 1490E | Codeforces | [1400](https://codeforces.com/problemset/problem/1490/E) Accidental Victory | 정렬, 자료구조, 그리디 | 정렬, 자료구조, 그리디 | [github](../Algorithm/2026/09/10/Codeforces_Accidental_Victory/) | - |
