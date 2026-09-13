@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-14 | 1400 [Phase Shift](https://codeforces.com/problemset/problem/1735/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디, DFS
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **사전 순 배치:** 아직 매핑에 사용하지 않은 문자를 사전순으로 탐색하며, 작은 사이클이 생기지 않는 문자를 선택한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/14/Codeforces_Phase_Shift/)
+
+---
+
 ### 🚀 2026-09-13 | 1300 [Sharky Surfing](https://codeforces.com/problemset/problem/2037/D)
 
 > 플랫폼: Codeforces <br>
