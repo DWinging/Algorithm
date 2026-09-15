@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-15 | 1300 [Equalize](https://codeforces.com/problemset/problem/1037/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **순차 탐색:** 0부터 n까지 탐색하면서 값을 고정하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/09/15/Codeforces_Equalize/)
+
+---
+
 ### 🚀 2026-09-14 | 1400 [Phase Shift](https://codeforces.com/problemset/problem/1735/C)
 
 > 플랫폼: Codeforces <br>

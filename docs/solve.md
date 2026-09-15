@@ -35,11 +35,12 @@
 ---
 
 ### 📂 소스 코드
-*   []()
+*   [Solution.java](./Solution.java)
  
 ---
 
 ### 🖥️ 실행 결과
 
+![](./img/Solution)
 
 ---
