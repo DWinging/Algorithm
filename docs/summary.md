@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-16 | Lv3 [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/12920)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 이분 탐색
+
+**💡 풀이 핵심(Core Logic):**  
+
+* **시간을 축으로 이분 탐색:** n개의 작업을 처리할 수 있는 최소 시간을 탐색한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/15/Codeforces_Equalize/)
+
+---
+
 ### 🚀 2026-09-15 | 1300 [Equalize](https://codeforces.com/problemset/problem/1037/C)
 
 > 플랫폼: Codeforces <br>

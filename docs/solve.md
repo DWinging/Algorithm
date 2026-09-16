@@ -41,6 +41,6 @@
 
 ### 🖥️ 실행 결과
 
-![](./img/Solution)
+![](./img/Solution.png)
 
 ---

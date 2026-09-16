@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-09-16 | - | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/12920) 선입 선출 스케줄링 | 이분 탐색 | 파라메트릭 서치 | [github](../Algorithm/2026/09/16/프로그래머스_선입_선출_스케줄링/) | - |
 | 26-09-15 | 1037C | Codeforces | [1300](https://codeforces.com/problemset/problem/1037/C) Equalize | 그리디 | 그리디 | [github](../Algorithm/2026/09/15/Codeforces_Equalize/) | - |
 | 26-09-14 | 1735C | Codeforces | [1400](https://codeforces.com/problemset/problem/1735/C) Phase Shift | 그리디, DFS | 그리디, DFS | [github](../Algorithm/2026/09/14/Codeforces_Phase_Shift/) | - |
 | 26-09-13 | 2037D | Codeforces | [1300](https://codeforces.com/problemset/problem/2037/D) Sharky Surfing | 그리디, 두 포인터, 자료구조 | 그리디, 두 포인터, 자료구조 | [github](../Algorithm/2026/09/13/Codeforces_Sharky_Surfing/) | - |
