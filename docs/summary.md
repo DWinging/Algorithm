@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-17 | 1400 [Maximum Median](https://codeforces.com/problemset/problem/1201/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 이분 탐색, 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+* **중앙값 찾기:** 특정 중앙값을 만들 수 있는지 판별한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/17/Codeforces_Maximum_Median/)
+
+---
+
 ### 🚀 2026-09-16 | Lv3 [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/12920)
 
 > 플랫폼: Codeforces <br>
