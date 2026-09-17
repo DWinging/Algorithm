@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-18 | 1500 [Cut 'em all!](https://codeforces.com/problemset/problem/982/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 트리, DFS, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **짝수 서브트리 분리:** DFS 탐색 결과의 합이 짝수라면, 해당 서브 트리를 분리한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/18/Codeforces_Cut_'em_all!/)
+
+---
+
 ### 🚀 2026-09-17 | 1400 [Maximum Median](https://codeforces.com/problemset/problem/1201/C)
 
 > 플랫폼: Codeforces <br>
