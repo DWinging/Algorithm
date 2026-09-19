@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-19 | 1500 [Kefa and Park](https://codeforces.com/problemset/problem/580/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 트리, DFS
+
+**💡 풀이 핵심(Core Logic):**
+
+* **연속 고양이의 수:** 고양이가 없는 정점에서는 값을 초기화 한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/19/Codeforces_Kefa_and_Park/)
+
+---
+
 ### 🚀 2026-09-18 | 1500 [Cut 'em all!](https://codeforces.com/problemset/problem/982/C)
 
 > 플랫폼: Codeforces <br>

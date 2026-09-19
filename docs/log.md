@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-09-19 | 580C | Codeforces | [1500](https://codeforces.com/problemset/problem/580/C) Kefa and Park | 트리, DFS | 트리, DFS | [github](../Algorithm/2026/09/19/Codeforces_Kefa_and_Park/) | - |
 | 26-09-18 | 982C | Codeforces | [1500](https://codeforces.com/problemset/problem/982/C) Cut 'em all! | 트리, DFS, 그리디 | 트리, DFS, 그리디 | [github](../Algorithm/2026/09/18/Codeforces_Cut_'em_all!/) | - |
 | 26-09-17 | 1201C | Codeforces | [1400](https://codeforces.com/problemset/problem/1201/C) Maximum Median | 이분 탐색, 정렬 | 이분 탐색, 정렬, 파라매트릭 서치 | [github](../Algorithm/2026/09/17/Codeforces_Maximum_Median/) | - |
 | 26-09-16 | - | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/12920) 선입 선출 스케줄링 | 이분 탐색 | 파라메트릭 서치 | [github](../Algorithm/2026/09/16/프로그래머스_선입_선출_스케줄링/) | - |
