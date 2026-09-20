@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-21 | 1400 [News Distribution](https://codeforces.com/problemset/problem/1167/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 분리 집합
+
+**💡 풀이 핵심(Core Logic):**
+
+* **집합 구하기:** 같은 집합에 속한 사람이 몇 명 있는지 구하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/09/21/Codeforces_News_Distribution/)
+
+---
+
 ### 🚀 2026-09-20 | 1500 [Block Sequence](https://codeforces.com/problemset/problem/1881/E)
 
 > 플랫폼: Codeforces <br>

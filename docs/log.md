@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-09-21 | 1167C | Codeforces | [1400](https://codeforces.com/problemset/problem/1167/C) News Distribution | 분리 집합 | Union-Find | [github](../Algorithm/2026/09/21/Codeforces_News_Distribution/) | - |
 | 26-09-20 | 1881E | Codeforces | [1500](https://codeforces.com/problemset/problem/1881/E) Block Sequence | DP | DP | [github](../Algorithm/2026/09/20/Codeforces_Block_Sequence/) | - |
 | 26-09-19 | 580C | Codeforces | [1500](https://codeforces.com/problemset/problem/580/C) Kefa and Park | 트리, DFS | 트리, DFS | [github](../Algorithm/2026/09/19/Codeforces_Kefa_and_Park/) | - |
 | 26-09-18 | 982C | Codeforces | [1500](https://codeforces.com/problemset/problem/982/C) Cut 'em all! | 트리, DFS, 그리디 | 트리, DFS, 그리디 | [github](../Algorithm/2026/09/18/Codeforces_Cut_'em_all!/) | - |
