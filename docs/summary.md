@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-20 | 1500 [Block Sequence](https://codeforces.com/problemset/problem/1881/E)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **상태 관리:** DP 배열에 저장할 결과 상태 결정하기
+
+**🔗 기록:** [github](../Algorithm/2026/09/20/Codeforces_Block_Sequence/)
+
+---
+
 ### 🚀 2026-09-19 | 1500 [Kefa and Park](https://codeforces.com/problemset/problem/580/C)
 
 > 플랫폼: Codeforces <br>
