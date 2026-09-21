@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-22 | 1500 [Magic Powder - 2](https://codeforces.com/problemset/problem/670/D2)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 이분 탐색
+
+**💡 풀이 핵심(Core Logic):**
+
+* **:** {핵심 한 줄 정리}
+
+**🔗 기록:** [github](../Algorithm/2026/09/22/Codeforces_Magic_Powder_-_2/)
+
+---
+
 ### 🚀 2026-09-21 | 1400 [News Distribution](https://codeforces.com/problemset/problem/1167/C)
 
 > 플랫폼: Codeforces <br>
