@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-09-23 | 580B | Codeforces | [1500](https://codeforces.com/problemset/problem/580/B) Kefa and Company | 두 포인터, 정렬 | 두 포인터, 정렬 | [github](../Algorithm/2026/09/23/Codeforces_Kefa_and_Company/) | - |
 | 26-09-22 | 670D2 | Codeforces | [1500](https://codeforces.com/problemset/problem/670/D2) Magic Powder - 2 | 이분 탐색 | 파라매트릭 서치 | [github](../Algorithm/2026/09/22/Codeforces_Magic_Powder_-_2/) | - |
 | 26-09-21 | 1167C | Codeforces | [1400](https://codeforces.com/problemset/problem/1167/C) News Distribution | 분리 집합 | Union-Find | [github](../Algorithm/2026/09/21/Codeforces_News_Distribution/) | - |
 | 26-09-20 | 1881E | Codeforces | [1500](https://codeforces.com/problemset/problem/1881/E) Block Sequence | DP | DP | [github](../Algorithm/2026/09/20/Codeforces_Block_Sequence/) | - |

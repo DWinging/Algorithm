@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-23 | 1500 [Kefa and Company](https://codeforces.com/problemset/problem/580/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 두 포인터, 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+* **보유 금액 비교:** 초대할 친구들의 최소·최대 보유 금액 차이를 비교한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/23/Codeforces_Kefa_and_Company/)
+
+---
+
 ### 🚀 2026-09-22 | 1500 [Magic Powder - 2](https://codeforces.com/problemset/problem/670/D2)
 
 > 플랫폼: Codeforces <br>
