@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-24 | 1400 [Epic Transformation](https://codeforces.com/problemset/problem/1506/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 자료구조, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **빈도 수 체크:** 빈도 수가 많은 두 숫자를 제거하는 과정을 반복한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/24/Codeforces_Epic_Transformation/)
+
+---
+
 ### 🚀 2026-09-23 | 1500 [Kefa and Company](https://codeforces.com/problemset/problem/580/B)
 
 > 플랫폼: Codeforces <br>
