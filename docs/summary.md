@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-25 | 1500 [Tenzing and Balls](https://codeforces.com/problemset/problem/1842/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **같은 공이 나왔던 위치 기억:** 같은 공이 나왔던 위치를 기준으로 계산한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/25/Codeforces_Tenzing_and_Balls/)
+
+---
+
 ### 🚀 2026-09-24 | 1400 [Epic Transformation](https://codeforces.com/problemset/problem/1506/D)
 
 > 플랫폼: Codeforces <br>
