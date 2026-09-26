@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-09-26 | 455A | Codeforces | [1500](https://codeforces.com/problemset/problem/455/A) Boredom | DP | DP | [github](../Algorithm/2026/09/26/Codeforces_Boredom/) | - |
 | 26-09-25 | 1842C | Codeforces | [1500](https://codeforces.com/problemset/problem/1842/C) Tenzing and Balls | DP | DP | [github](../Algorithm/2026/09/25/Codeforces_Tenzing_and_Balls/) | - |
 | 26-09-24 | 1506D | Codeforces | [1400](https://codeforces.com/problemset/problem/1506/D) Epic Transformation | 자료구조, 그리디 | 빈도 수, 우선 순위 큐, 그리디 | [github](../Algorithm/2026/09/24/Codeforces_Epic_Transformation/) | - |
 | 26-09-23 | 580B | Codeforces | [1500](https://codeforces.com/problemset/problem/580/B) Kefa and Company | 두 포인터, 정렬 | 두 포인터, 정렬 | [github](../Algorithm/2026/09/23/Codeforces_Kefa_and_Company/) | - |

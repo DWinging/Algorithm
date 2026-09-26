@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-26 | 1500 [Boredom](https://codeforces.com/problemset/problem/455/A)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **빈도 수 카운팅:** 각 숫자가 나온 횟수를 카운트한다.
+* **선택/비선택 DP:** 값 `i`를 선택할지 선택하지 않을지 결정한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/26/Codeforces_Boredom/)
+
+---
+
 ### 🚀 2026-09-25 | 1500 [Tenzing and Balls](https://codeforces.com/problemset/problem/1842/C)
 
 > 플랫폼: Codeforces <br>
