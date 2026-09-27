@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-27 | 1500 [Sum of Distinct Values in a Matrix](https://codeforces.com/problemset/problem/2253/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 두 포인터, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **완벽하게 정렬된 상태:** A와 B는 완벽하게 정렬된 상태라는 점을 유의한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/27/Codeforces_Sum_of_Distinct_Values_in_a_Matrix/)
+
+---
+
 ### 🚀 2026-09-26 | 1500 [Boredom](https://codeforces.com/problemset/problem/455/A)
 
 > 플랫폼: Codeforces <br>
