@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-28 | 1600 [Fox And Names](https://codeforces.com/problemset/problem/510/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 문자열, 그래프 이론, 위상 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+* **문자의 우선 순위:** 주어진 순서에 따라 각 문자의 우선 순위를 결정하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/09/28/Codeforces_Fox_And_Names/)
+
+---
+
 ### 🚀 2026-09-27 | 1500 [Sum of Distinct Values in a Matrix](https://codeforces.com/problemset/problem/2253/C)
 
 > 플랫폼: Codeforces <br>
