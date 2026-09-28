@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-29 | 1500 [Cyclic Components](https://codeforces.com/problemset/problem/977/E)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: BFS, DFS, 그래프 이론, DSU
+
+**💡 풀이 핵심(Core Logic):**
+
+* **단순 사이클:** 하나의 단순한 사이클, 즉 하나의 원을 구성해야한다.
+
+**🔗 기록:** [github](../Algorithm/2026/09/29/Codeforces_Cyclic_Components/)
+
+---
+
 ### 🚀 2026-09-28 | 1600 [Fox And Names](https://codeforces.com/problemset/problem/510/C)
 
 > 플랫폼: Codeforces <br>

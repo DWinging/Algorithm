@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-09-29 | 977E | Codeforces | [1500](https://codeforces.com/problemset/problem/977/E) Cyclic Components | BFS, DFS, 그래프 이론, DSU | BFS, DFS, DSU, 사이클 판별 | [github](../Algorithm/2026/09/29/Codeforces_Cyclic_Components/) | - |
 | 26-09-28 | 510C | Codeforces | [1600](https://codeforces.com/problemset/problem/510/C) Fox And Names | 문자열, 그래프 이론, 위상 정렬 | 위상 정렬, 사전순 정렬 | [github](../Algorithm/2026/09/28/Codeforces_Fox_And_Names/) | - |
 | 26-09-27 | 2253C | Codeforces | [1500](https://codeforces.com/problemset/problem/2253/C) Sum of Distinct Values in a Matrix | 두 포인터, 그리디 | 두 포인터, 그리디 | [github](../Algorithm/2026/09/27/Codeforces_Sum_of_Distinct_Values_in_a_Matrix/) | - |
 | 26-09-26 | 455A | Codeforces | [1500](https://codeforces.com/problemset/problem/455/A) Boredom | DP | DP | [github](../Algorithm/2026/09/26/Codeforces_Boredom/) | - |
