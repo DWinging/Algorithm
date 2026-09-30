@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-09-30 | 1500 [Binary String Minimizing](https://codeforces.com/problemset/problem/1256/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **연속으로 1이 나오는 구간:** 1이 연속으로 나오는 구간을 확인하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/09/30/Codeforces_Binary_String_Minimizing/)
+
+---
+
 ### 🚀 2026-09-29 | 1500 [Cyclic Components](https://codeforces.com/problemset/problem/977/E)
 
 > 플랫폼: Codeforces <br>
