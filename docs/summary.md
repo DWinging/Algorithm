@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-01 | 1500 [Sagheer and Nubian Market](https://codeforces.com/problemset/problem/812/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 이분 탐색, 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+* **구매할 수 있는 물건의 수:** K개의 물건을 구매할 수 있는지 판단해야한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/01/Codeforces_Sagheer_and_Nubian_Market/)
+
+---
+
 ### 🚀 2026-09-30 | 1500 [Binary String Minimizing](https://codeforces.com/problemset/problem/1256/D)
 
 > 플랫폼: Codeforces <br>

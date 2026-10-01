@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-10-01 | 812C | Codeforces | [1500](https://codeforces.com/problemset/problem/812/C) Sagheer and Nubian Market | 이분 탐색, 정렬 | 파라매트릭 서치, 정렬 | [github](../Algorithm/2026/10/01/Codeforces_Sagheer_and_Nubian_Market/) | - |
 | 26-09-30 | 1256D | Codeforces | [1500](https://codeforces.com/problemset/problem/1256/D) Binary String Minimizing | 그리디 | 그리디 | [github](../Algorithm/2026/09/30/Codeforces_Binary_String_Minimizing/) | - |
 | 26-09-29 | 977E | Codeforces | [1500](https://codeforces.com/problemset/problem/977/E) Cyclic Components | BFS, DFS, 그래프 이론, DSU | BFS, DFS, DSU, 사이클 판별 | [github](../Algorithm/2026/09/29/Codeforces_Cyclic_Components/) | - |
 | 26-09-28 | 510C | Codeforces | [1600](https://codeforces.com/problemset/problem/510/C) Fox And Names | 문자열, 그래프 이론, 위상 정렬 | 위상 정렬, 사전순 정렬 | [github](../Algorithm/2026/09/28/Codeforces_Fox_And_Names/) | - |
