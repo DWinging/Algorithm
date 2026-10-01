@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-02 | 1400 [Suffix Structures](https://codeforces.com/problemset/problem/448/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 문자열
+
+**💡 풀이 핵심(Core Logic):**
+
+* **연산 수행 가능 여부:** 2가지 연산의 수행 가능 여부 판별
+
+**🔗 기록:** [github](../Algorithm/2026/10/02/Codeforces_Suffix_Structures/)
+
+---
+
 ### 🚀 2026-10-01 | 1500 [Sagheer and Nubian Market](https://codeforces.com/problemset/problem/812/C)
 
 > 플랫폼: Codeforces <br>
