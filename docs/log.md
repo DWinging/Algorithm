@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-10-03 | 1490F | Codeforces | [1500](https://codeforces.com/problemset/problem/1490/F) Equalize the Array | 정렬, 자료구조, 수학, 그리디 | 정렬, 카운팅, 수학, 그리디 | [github](../Algorithm/2026/10/04/Codeforces_Equalize_the_Array/) | - |
 | 26-10-02 | 448B | Codeforces | [1400](https://codeforces.com/problemset/problem/448/B) Suffix Structures | 문자열 | 문자열 | [github](../Algorithm/2026/10/02/Codeforces_Suffix_Structures/) | - |
 | 26-10-01 | 812C | Codeforces | [1500](https://codeforces.com/problemset/problem/812/C) Sagheer and Nubian Market | 이분 탐색, 정렬 | 파라매트릭 서치, 정렬 | [github](../Algorithm/2026/10/01/Codeforces_Sagheer_and_Nubian_Market/) | - |
 | 26-09-30 | 1256D | Codeforces | [1500](https://codeforces.com/problemset/problem/1256/D) Binary String Minimizing | 그리디 | 그리디 | [github](../Algorithm/2026/09/30/Codeforces_Binary_String_Minimizing/) | - |

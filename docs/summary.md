@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-03 | 1500 [Equalize the Array](https://codeforces.com/problemset/problem/1490/F)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 정렬, 자료구조, 수학, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **빈도 수 카운팅:** 숫자가 나온 빈도수를 체크하는 것이 핵심
+* **추가, 삭제 연산:** 전체 숫자 n에서 남기는 숫자 만큼을 제외하면 추가, 삭제하는 숫자의 개수가 나온다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/04/Codeforces_Equalize_the_Array/)
+
+---
+
 ### 🚀 2026-10-02 | 1400 [Suffix Structures](https://codeforces.com/problemset/problem/448/B)
 
 > 플랫폼: Codeforces <br>
