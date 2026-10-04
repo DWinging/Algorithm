@@ -1,6 +1,6 @@
 ### Codeforces 1500 [1490F - Equalize the Array](https://codeforces.com/problemset/problem/1490/F) (Rust)
 
-> **날짜:** 2026년 10월 04일 <br>
+> **날짜:** 2026년 10월 03일 <br>
 > **알고리즘:** 정렬, 자료구조, 수학, 그리디 <br>
 > **언어:** Rust <br>
 > **핵심 키워드:** 정렬, 카운팅, 수학, 그리디
