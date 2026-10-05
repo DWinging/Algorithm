@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-05 | 1500 [Bear and Friendship Condition](https://codeforces.com/problemset/problem/771/A)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 분리 집합
+
+**💡 풀이 핵심(Core Logic):**
+
+* **완전 그래프:** 각 집합은 완전 그래프 형태가 만들어져야 한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/05/Codeforces_Bear_and_Friendship_Condition/)
+
+---
+
 ### 🚀 2026-10-04 | 1500 [Graph Composition](https://codeforces.com/problemset/problem/2060/E)
 
 > 플랫폼: Codeforces <br>

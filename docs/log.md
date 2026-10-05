@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-10-05 | 771A | Codeforces | [1500](https://codeforces.com/problemset/problem/771/A) Bear and Friendship Condition | 분리 집합 | Union-Find, DSU, 수학 | [github](../Algorithm/2026/10/05/Codeforces_Bear_and_Friendship_Condition/) | - |
 | 26-10-04 | 2060E | Codeforces | [1500](https://codeforces.com/problemset/problem/2060/E) Graph Composition | 분리 집합, 그리디, 그래프 이론 | Union-Find, DSU, 그리디 | [github](../Algorithm/2026/10/04/Codeforces_Graph_Composition/) | - |
 | 26-10-03 | 1490F | Codeforces | [1500](https://codeforces.com/problemset/problem/1490/F) Equalize the Array | 정렬, 자료구조, 수학, 그리디 | 정렬, 카운팅, 수학, 그리디 | [github](../Algorithm/2026/10/03/Codeforces_Equalize_the_Array/) | - |
 | 26-10-02 | 448B | Codeforces | [1400](https://codeforces.com/problemset/problem/448/B) Suffix Structures | 문자열 | 문자열 | [github](../Algorithm/2026/10/02/Codeforces_Suffix_Structures/) | - |
