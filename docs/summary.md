@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-06 | 1500 [Biridian Forest](https://codeforces.com/problemset/problem/329/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: BFS, DFS, 그래프 탐색
+
+**💡 풀이 핵심(Core Logic):**
+
+* **출발지에서 집결:** 모든 트레이너는 출발지에서 모인다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/06/Codeforces_Biridian_Forest/)
+
+---
+
 ### 🚀 2026-10-05 | 1500 [Bear and Friendship Condition](https://codeforces.com/problemset/problem/771/A)
 
 > 플랫폼: Codeforces <br>
