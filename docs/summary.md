@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-07 | 1400 [Books](https://codeforces.com/problemset/problem/279/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 두 포인터
+
+**💡 풀이 핵심(Core Logic):**
+
+* **책 권 수:** 시간 내에 읽을 수 있는 책의 수를 계산한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/07/Codeforces_Books/)
+
+---
+
 ### 🚀 2026-10-06 | 1500 [Biridian Forest](https://codeforces.com/problemset/problem/329/B)
 
 > 플랫폼: Codeforces <br>

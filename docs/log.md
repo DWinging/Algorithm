@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-10-07 | 279B | Codeforces | [1400](https://codeforces.com/problemset/problem/279/B) Books | 두 포인터 | 두 포인터 | [github](../Algorithm/2026/10/07/Codeforces_Books/) | - |
 | 26-10-06 | 329B | Codeforces | [1500](https://codeforces.com/problemset/problem/329/B) Biridian Forest | BFS, DFS, 그래프 탐색 | BFS, 그래프 탐색 | [github](../Algorithm/2026/10/06/Codeforces_Biridian_Forest/) | - |
 | 26-10-05 | 771A | Codeforces | [1500](https://codeforces.com/problemset/problem/771/A) Bear and Friendship Condition | 분리 집합 | Union-Find, DSU, 수학 | [github](../Algorithm/2026/10/05/Codeforces_Bear_and_Friendship_Condition/) | - |
 | 26-10-04 | 2060E | Codeforces | [1500](https://codeforces.com/problemset/problem/2060/E) Graph Composition | 분리 집합, 그리디, 그래프 이론 | Union-Find, DSU, 그리디 | [github](../Algorithm/2026/10/04/Codeforces_Graph_Composition/) | - |
