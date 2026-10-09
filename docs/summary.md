@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-09 | 1400 [Jumping Through Segments](https://codeforces.com/problemset/problem/1907/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 이분 탐색
+
+**💡 풀이 핵심(Core Logic):**
+
+* **이동 가능한 거리:** K값이 이동 가능한 값인지 판별한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/09/Codeforces_Jumping_Through_Segments/)
+
+---
+
 ### 🚀 2026-10-07 | 1400 [Books](https://codeforces.com/problemset/problem/279/B)
 
 > 플랫폼: Codeforces <br>

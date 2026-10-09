@@ -1,0 +1,6 @@
+# Rust
+*.exe
+*.pdb
+
+# inbox
+inbox/
