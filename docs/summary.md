@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-10 | 1500 [Mortal Kombat Tower](https://codeforces.com/problemset/problem/1418/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: DP, DFS, 재귀
+
+**💡 풀이 핵심(Core Logic):**
+
+* **적 처치:** 친구와 나 중에 누가 적을 처치했는지 판별
+
+**🔗 기록:** [github](../Algorithm/2026/10/10/Codeforces_Mortal_Kombat_Tower/)
+
+---
+
 ### 🚀 2026-10-09 | 1400 [Jumping Through Segments](https://codeforces.com/problemset/problem/1907/D)
 
 > 플랫폼: Codeforces <br>
