@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-11 | 1400 [Silly Mistake](https://codeforces.com/problemset/problem/1253/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **이벤트 정합성:** 직원별 입·퇴장 상태를 관리하며, 모든 직원이 퇴장한 시점을 기준으로 날짜를 분할한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/11/Codeforces_Silly_Mistake/)
+
+---
+
 ### 🚀 2026-10-10 | 1500 [Mortal Kombat Tower](https://codeforces.com/problemset/problem/1418/C)
 
 > 플랫폼: Codeforces <br>

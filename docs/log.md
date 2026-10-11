@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-10-11 | 1253B | Codeforces | [1400](https://codeforces.com/problemset/problem/1253/B) Silly Mistake | 그리디 | 그리디 | [github](../Algorithm/2026/10/11/Codeforces_Silly_Mistake/) | - |
 | 26-10-10 | 1418C | Codeforces | [1500](https://codeforces.com/problemset/problem/1418/C) Mortal Kombat Tower | DP, DFS, 재귀 | DP, DFS, 재귀, TopDown, BottomUp | [github](../Algorithm/2026/10/10/Codeforces_Mortal_Kombat_Tower/) | - |
 | 26-10-09 | 1907D | Codeforces | [1400](https://codeforces.com/problemset/problem/1907/D) Jumping Through Segments | 이분 탐색 | 파라매트릭 서치 | [github](../Algorithm/2026/10/09/Codeforces_Jumping_Through_Segments/) | - |
 | 26-10-07 | 279B | Codeforces | [1400](https://codeforces.com/problemset/problem/279/B) Books | 두 포인터 | 두 포인터 | [github](../Algorithm/2026/10/07/Codeforces_Books/) | - |
