@@ -3,7 +3,7 @@
 ### 🚀 2026-10-12 | 1600 [Spanning Tree with Maximum Degree](https://codeforces.com/problemset/problem/1133/F1)
 
 > 플랫폼: Codeforces <br>
-> 알고리즘: 그래프 탐색
+> 알고리즘: 그래프 탐색, 신장 트리
 
 **💡 풀이 핵심(Core Logic):**
 
