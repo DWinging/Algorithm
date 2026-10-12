@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-12 | 1600 [Spanning Tree with Maximum Degree](https://codeforces.com/problemset/problem/1133/F1)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그래프 탐색
+
+**💡 풀이 핵심(Core Logic):**
+
+* **트리 구성:** 트리의 루트를 찾고, 트리를 구성한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/12/Codeforces_Spanning_Tree_with_Maximum_Degree/)
+
+---
+
 ### 🚀 2026-10-11 | 1400 [Silly Mistake](https://codeforces.com/problemset/problem/1253/B)
 
 > 플랫폼: Codeforces <br>

@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-10-12 | 1133F1 | Codeforces | [1600](https://codeforces.com/problemset/problem/1133/F1) Spanning Tree with Maximum Degree | 그래프 탐색, 신장 트리 | BFS, DFS, 최대 차수, 신장 트리 | [github](../Algorithm/2026/10/12/Codeforces_Spanning_Tree_with_Maximum_Degree/) | - |
 | 26-10-11 | 1253B | Codeforces | [1400](https://codeforces.com/problemset/problem/1253/B) Silly Mistake | 그리디 | 그리디 | [github](../Algorithm/2026/10/11/Codeforces_Silly_Mistake/) | - |
 | 26-10-10 | 1418C | Codeforces | [1500](https://codeforces.com/problemset/problem/1418/C) Mortal Kombat Tower | DP, DFS, 재귀 | DP, DFS, 재귀, TopDown, BottomUp | [github](../Algorithm/2026/10/10/Codeforces_Mortal_Kombat_Tower/) | - |
 | 26-10-09 | 1907D | Codeforces | [1400](https://codeforces.com/problemset/problem/1907/D) Jumping Through Segments | 이분 탐색 | 파라매트릭 서치 | [github](../Algorithm/2026/10/09/Codeforces_Jumping_Through_Segments/) | - |
