@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-13 | Lv3 [발전소 회로 복구](https://school.programmers.co.kr/learn/courses/30/lessons/468375)
+
+> 플랫폼: 프로그래머스 <br>
+> 알고리즘: 백트래킹, DP, BFS, 비트마스킹
+
+**💡 풀이 핵심(Core Logic):**
+
+* **복합 알고리즘 구현 능력:** 문제에서 필요한 알고리즘을 비교적 직관적으로 유추할 수 있으므로, 여러 알고리즘을 적절히 조합하고 실수 없이 구현하는 것이 핵심이다.
+
+**🔗 기록:** [github](../2026/10/13/프로그래머스_발전소_회로_복구/)
+
+---
+
 ### 🚀 2026-10-12 | 1600 [Spanning Tree with Maximum Degree](https://codeforces.com/problemset/problem/1133/F1)
 
 > 플랫폼: Codeforces <br>
