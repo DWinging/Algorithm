@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-10-14 | 1609D | Codeforces | [1600](https://codeforces.com/problemset/problem/1609/D) Social Network | 정렬, 자료구조, 분리 집합, 그리디 | 정렬, DSU, Union-Find, 그리디 | [github](../Algorithm/2026/10/14/Codeforces_Social_Network/) | - |
 | 26-10-13 | - | 프로그래머스 | [Lv3](https://school.programmers.co.kr/learn/courses/30/lessons/468375) 발전소 회로 복구 | 백트래킹, DP, BFS, 비트마스킹 | 백트래킹, DP, BFS, 비트마스킹 | [github](../2026/10/13/프로그래머스_발전소_회로_복구/) | - |
 | 26-10-12 | 1133F1 | Codeforces | [1600](https://codeforces.com/problemset/problem/1133/F1) Spanning Tree with Maximum Degree | 그래프 탐색, 신장 트리 | BFS, DFS, 최대 차수, 신장 트리 | [github](../Algorithm/2026/10/12/Codeforces_Spanning_Tree_with_Maximum_Degree/) | - |
 | 26-10-11 | 1253B | Codeforces | [1400](https://codeforces.com/problemset/problem/1253/B) Silly Mistake | 그리디 | 그리디 | [github](../Algorithm/2026/10/11/Codeforces_Silly_Mistake/) | - |

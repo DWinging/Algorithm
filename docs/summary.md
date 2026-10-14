@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-14 | 1600 [Social Network](https://codeforces.com/problemset/problem/1609/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 정렬, 자료구조, 분리 집합, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **그룹 연결:** 매 연산마다 그룹끼리 묶어서 최대 관계를 구한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/14/Codeforces_Social_Network/)
+
+---
+
 ### 🚀 2026-10-13 | Lv3 [발전소 회로 복구](https://school.programmers.co.kr/learn/courses/30/lessons/468375)
 
 > 플랫폼: 프로그래머스 <br>
