@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-15 | 1600 [Minimal Height Tree](https://codeforces.com/problemset/problem/1437/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 두 포인터, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **자식 노드:** 한 부모가 가질 수 있는 자식 노드를 그리디하게 배치한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/15/Codeforces_Minimal_Height_Tree/)
+
+---
+
 ### 🚀 2026-10-14 | 1600 [Social Network](https://codeforces.com/problemset/problem/1609/D)
 
 > 플랫폼: Codeforces <br>
