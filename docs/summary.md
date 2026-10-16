@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-16 | 1600 [Igor and his way to work](https://codeforces.com/problemset/problem/793/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: BFS, 최단거리, 그래프 탐색
+
+**💡 풀이 핵심(Core Logic):**
+
+* **상태 설계:** 좌표와 이동 방향을 함께 관리하여 방향 전환 횟수를 최소화
+
+**🔗 기록:** [github](../Algorithm/2026/10/16/Codeforces_Igor_and_his_way_to_work/)
+
+---
+
 ### 🚀 2026-10-15 | 1600 [Minimal Height Tree](https://codeforces.com/problemset/problem/1437/D)
 
 > 플랫폼: Codeforces <br>
