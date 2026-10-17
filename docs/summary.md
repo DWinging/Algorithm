@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-17 | 1500 [Heaters](https://codeforces.com/problemset/problem/1066/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **히터의 범위:** 히터가 커버하는 범위를 체크한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/17/Codeforces_Heaters/)
+
+---
+
 ### 🚀 2026-10-16 | 1600 [Igor and his way to work](https://codeforces.com/problemset/problem/793/B)
 
 > 플랫폼: Codeforces <br>
