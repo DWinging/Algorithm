@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-10-19 | 191C | Codeforces | [1900](https://codeforces.com/problemset/problem/191/C) Fools and Roads | 트리, LCA, BFS, 자료구조 | 트리, LCA, BFS, 이진리프팅, 후위순회, 차분 배열 트릭 | [github](../Algorithm/2026/10/19/Codeforces_Fools_and_Roads/) | - |
 | 26-10-18 | 1006E | Codeforces | [1600](https://codeforces.com/problemset/problem/1006/E) Military Problem | 트리, DFS | 트리, DFS | [github](../Algorithm/2026/10/18/Codeforces_Military_Problem/) | - |
 | 26-10-17 | 1066B | Codeforces | [1500](https://codeforces.com/problemset/problem/1066/B) Heaters | 그리디 | 그리디 | [github](../Algorithm/2026/10/17/Codeforces_Heaters/) | - |
 | 26-10-16 | 793B | Codeforces | [1600](https://codeforces.com/problemset/problem/793/B) Igor and his way to work | BFS, 최단거리, 그래프 탐색 | 0-1BFS | [github](../Algorithm/2026/10/16/Codeforces_Igor_and_his_way_to_work/) | - |

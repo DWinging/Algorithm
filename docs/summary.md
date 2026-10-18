@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-19 | 1900 [Fools and Roads](https://codeforces.com/problemset/problem/191/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 트리, LCA, BFS, 자료구조
+
+**💡 풀이 핵심(Core Logic):**
+
+* **차분 배열 트릭:** 두 노드에서 출발해 LCA에서 끝나는 차분 배열 트릭 로직을 구현해야한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/19/Codeforces_Fools_and_Roads/)
+
+---
+
 ### 🚀 2026-10-18 | 1600 [Military Problem](https://codeforces.com/problemset/problem/1006/E)
 
 > 플랫폼: Codeforces <br>
