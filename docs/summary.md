@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-18 | 1600 [Military Problem](https://codeforces.com/problemset/problem/1006/E)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 트리, DFS
+
+**💡 풀이 핵심(Core Logic):**
+
+* **서브 트리:** 각 노드의 서브 트리 개수를 관리한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/18/Codeforces_Military_Problem/)
+
+---
+
 ### 🚀 2026-10-17 | 1500 [Heaters](https://codeforces.com/problemset/problem/1066/B)
 
 > 플랫폼: Codeforces <br>
