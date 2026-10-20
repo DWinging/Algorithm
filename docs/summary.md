@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-20 | 1600 [Linova and Kingdom](https://codeforces.com/problemset/problem/1336/A)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 트리, 그리디, 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+* **노드의 가중치:** 각 노드를 선택했을때 얻을 수 있는 점수를 활용한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/20/Codeforces_Linova_and_Kingdom/)
+
+---
+
 ### 🚀 2026-10-19 | 1900 [Fools and Roads](https://codeforces.com/problemset/problem/191/C)
 
 > 플랫폼: Codeforces <br>
