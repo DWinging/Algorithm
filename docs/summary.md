@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-21 | 2000 [1-Trees and Queries](https://codeforces.com/problemset/problem/1304/E)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 트리, LCA
+
+**💡 풀이 핵심(Core Logic):**
+
+* **{핵심 주제}:** {핵심 한 줄 정리}
+
+**🔗 기록:** [github](../Algorithm/2026/10/21/Codeforces_1-Trees_and_Queries/)
+
+---
+
 ### 🚀 2026-10-20 | 1600 [Linova and Kingdom](https://codeforces.com/problemset/problem/1336/A)
 
 > 플랫폼: Codeforces <br>

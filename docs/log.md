@@ -2,6 +2,7 @@
 
 | 날짜 | 번호 | 플랫폼 | 문제 | 알고리즘 | 핵심 키워드 | github | velog |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26-10-21 | 1304E | Codeforces | [2000](https://codeforces.com/problemset/problem/1304/E) 1-Trees and Queries | 트리, LCA | 트리, LCA, 홀짝 판정 | [github](../Algorithm/2026/10/21/Codeforces_1-Trees_and_Queries/) | - |
 | 26-10-20 | 1336A | Codeforces | [1600](https://codeforces.com/problemset/problem/1336/A) Linova and Kingdom | 트리, 그리디, 정렬 | 트리, 그리디, 정렬 | [github](../Algorithm/2026/10/20/Codeforces_Linova_and_Kingdom/) | - |
 | 26-10-19 | 191C | Codeforces | [1900](https://codeforces.com/problemset/problem/191/C) Fools and Roads | 트리, LCA, BFS, 자료구조 | 트리, LCA, BFS, 이진리프팅, 후위순회, 차분 배열 트릭 | [github](../Algorithm/2026/10/19/Codeforces_Fools_and_Roads/) | - |
 | 26-10-18 | 1006E | Codeforces | [1600](https://codeforces.com/problemset/problem/1006/E) Military Problem | 트리, DFS | 트리, DFS | [github](../Algorithm/2026/10/18/Codeforces_Military_Problem/) | - |
