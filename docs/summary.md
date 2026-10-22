@@ -126,7 +126,7 @@
 
 * **복합 알고리즘 구현 능력:** 문제에서 필요한 알고리즘을 비교적 직관적으로 유추할 수 있으므로, 여러 알고리즘을 적절히 조합하고 실수 없이 구현하는 것이 핵심이다.
 
-**🔗 기록:** [github](../2026/10/13/프로그래머스_발전소_회로_복구/)
+**🔗 기록:** [github](../Algorithm/2026/10/13/프로그래머스_발전소_회로_복구/)
 
 ---
 
@@ -2081,7 +2081,7 @@
 * 단순하게 생각했지만, midDeque를 각각의 Head와 Tail을 관리해야한다는 점을 놓치면서 풀이에 실패함
 
 
-**🔗 기록:** [github](../Algorithm/2026/05/14/프로그래머스_가장_긴_팰린드롬/)
+**🔗 기록:** [github](../Algorithm/2026/05/15/프로그래머스_행렬과_연산/)
 
 ---
 
@@ -2114,7 +2114,7 @@
 
 ---
 
-### 🚀 2026-05-13 | D6 [인수의 생일 파티](https://school.programmers.co.kr/learn/courses/30/lessons/68646)
+### 🚀 2026-05-13 | D6 [인수의 생일 파티](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4xuqCqBeUDFAUx)
 
 > 플랫폼: SWEA <br>
 > 알고리즘: Dijkstra, SPFA
@@ -2221,7 +2221,7 @@
 * **카드 방문 순서 미지정 (Stack Overflow):** 동일한 번호의 카드 2장 중 어느 카드를 먼저 방문할지 순서를 강제하지 않아 탐색이 방향성을 잃는 문제가 발생함. DFS가 중복된 상태를 파고들며 제자리를 맴돌아 스택 오버플로우가 발생했으며, 1회 탐색 스텝에서 (A $\rightarrow$ B), (B $\rightarrow$ A) 경로를 명확히 강제하여 탐색 방향성을 확보함.
 * **Ctrl 이동의 정지 조건 디테일 (미끄러짐 버그):** `Ctrl + 방향키` 이동 시, "카드 위에서 멈춘다"는 조건을 한 칸 이동한 *후*에 검사하여 바로 앞의 카드를 미끄러져 지나치는 버그가 발생함. `while` 루프 최상단에서 현재 위치의 카드 존재 여부를 *먼저* 체크하고 멈추도록 로직의 검사 순서를 교정함.
   
-**🔗 기록:** [github](../Algorithm/2026/05/07/카드_짝_맞추기/) | [velog](https://velog.io/@dong20/Java-프로그래머스-카드-짝-맞추기)
+**🔗 기록:** [github](../Algorithm/2026/05/07/프로그래머스_카드_짝_맞추기/) | [velog](https://velog.io/@dong20/Java-프로그래머스-카드-짝-맞추기)
 
 ---
 
@@ -2234,7 +2234,7 @@
 * **트리의 크기(비트 수) 산정 오류:** 초기에 변수의 비트 크기를 1, 2, 3, 4... 씩 선형적으로 탐색하려 했으나, 포화 이진 트리가 형성되지 않는 경우가 발생함. 비트 사이즈를 $2^n$-1 규격에 맞추어 트리의 중앙을 보장하도록 사이즈 산출 로직을 교정함
 * **재귀 함수 기저 조건 누락:** 문제 로직 특성상 별도의 기저 조건이 없어도 무한 루프가 발생하지 않지만, 위험성을 내포한 코드로 `if(bit_count <= 1) return 1;` 기저 조건을 추가함
 
-**🔗 기록:** [github](../Algorithm/2026/05/06/표현_가능한_이진트리/) | [velog](https://velog.io/@dong20/c-프로그래머스-표현-가능한-이진-트리)
+**🔗 기록:** [github](../Algorithm/2026/05/06/프로그래머스_표현_가능한_이진트리/) | [velog](https://velog.io/@dong20/c-프로그래머스-표현-가능한-이진-트리)
 
 ---
 
@@ -2246,28 +2246,28 @@
 **🔧 트러블 슈팅:**
 * **경로 압축 시점의 논리적 오류:** Weighted Union-Find에서 가중치를 갱신하는 타이밍이 중요함. Root를 우선 탐색한 후 스택을 활용해 역으로 내려오면서(Top-Down)으로 갱신해야 정확하게 가중치를 갱신할 수 있음
 
-**🔗 기록:** [github](../Algorithm/2026/05/05/영준이의_무게측정/) | [velog](https://velog.io/@dong20/c-SWEA-영준이의-무게측정)
+**🔗 기록:** [github](../Algorithm/2026/05/05/SWEA_영준이의_무게측정/) | [velog](https://velog.io/@dong20/c-SWEA-영준이의-무게측정)
 
 ---
 
 ### 🚀 2026-05-04 | D5 [영어 공부](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNQOb3avD0DFAXS) (10507)
 
 > 플랫폼: SWEA <br>
-> 알고리즘: Two-Pointer
+> 알고리즘: 두 포인터
 
 **💡 핵심 인사이트:**
 *  **미래 예측 방식:** right + 1을 참조해 다음 칸의 상태를 미리 검증한 뒤 포인터를 이동시키는 방식. 배열 경계 초과를 막기 위한 수동 예외 처리가 필요해 제어 흐름이 복잡해지고 유지 보수성이 떨어지는 한계가 있음
 *  **현재 수습 방식:** for문으로 right를 먼저 전진시켜 상태를 갱신하고, 한도 초과시 while문으로 left를 당겨 정상 상태로 복구(수습)하는 선언적 방식. 예외 상황이 일반 로직에 자연스럽게 흡수되어 가독성과 코드의 견고함이 크게 향상됨
 *  **c++ 메모리 관리**: 유효 범위를 벗어난 인덱스(date[n]) 참조 시 런타임 에러를 발생시키는 Java와 달리, C++은 쓰레기 값을 반환하며 로직을 강행하는 Undefined Behavior 특성이 있음. 우연히 정답 처리되었더라도 메모리를 오염시킬 수 있는 시한폭탄이므로, 환경에 구애받지 않는 안전한 경계 처리가 필수적임
 
-**🔗 기록:** [github](../Algorithm/2026/05/04/영어_공부/) | [velog](https://velog.io/@dong20/c-SWEA-영어-공부)
+**🔗 기록:** [github](../Algorithm/2026/05/04/SWEA_영어_공부/) | [velog](https://velog.io/@dong20/c-SWEA-영어-공부)
 
 ---
 
 ### 🚀 2026-05-02 | Easy [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
 > 플랫폼: LeetCode <br>
-> 알고리즘: Merge Sort, LinkedList, Two Pointer
+> 알고리즘: 병합 정렬, 연결리스트, 두 포인터
 
 **🔧 트러블 슈팅:**
 *   **객체 참조 오류 및 데이터 유실 방지**: `cur->next = list1->next`와 같이 다음 노드를 직접 연결하던 실수를 교정하여, 현재 비교 중인 노드 자체가 결과 리스트에서 누락되지 않도록 **포인터 할당 범위를 정확히 타겟팅**함.
@@ -2281,7 +2281,7 @@
 ### 🚀 2026-05-01 | Lv3 [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) 
 
 > 플랫폼: 프로그래머스 <br>
-> 알고리즘: Dijkstra, 0-1BFS 응용
+> 알고리즘: 다익스트라, 0-1 BFS 응용
 
 **💡 핵심 인사이트:**
 *   **가중치 특성을 활용한 자료구조 최적화**: 가중치가 두 종류(100, 600)로 제한적인 데이터 도메인의 특성을 파악하여, 무거운 `PriorityQueue` 대신 `Deque`를 도입해 정렬 오버헤드를 완벽히 제거함.
@@ -2295,7 +2295,7 @@
 ### 🚀 2026-04-30 | D4 [점프 놀이 (19004)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYtrEOraDk0DFAR-)
 
 > 플랫폼: SWEA <br>
-> 알고리즘: DP + DFS (Sequential Pathfinding)
+> 알고리즘: DP, DFS
 
 **💡 핵심 인사이트:**
 *   **재귀의 첫 고생이 DP의 자산**: Top-down 방식도 첫 탐색 이후 메모이제이션을 통해 재귀 진입을 차단하므로, 실질 연산 횟수는 Bottom-up과 동일함.
