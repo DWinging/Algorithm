@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-22 | 2100 [Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: DSU, MST, LCA, BFS, 트리, 자료구조
+
+**💡 풀이 핵심(Core Logic):**
+
+* **제거할 간선:** i번째 간선을 추가하여 발생하는 사이클 내에서 i번째 간선을 제외하고 가장 큰 간선을 찾는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/10/22/Codeforces_Minimum_spanning_tree_for_each_edge/)
+
+---
+
 ### 🚀 2026-10-21 | 2000 [1-Trees and Queries](https://codeforces.com/problemset/problem/1304/E)
 
 > 플랫폼: Codeforces <br>
