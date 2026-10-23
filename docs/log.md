@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-10-23</td>
+      <td align="center" nowrap="nowrap">1741E</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1741/E">1600</a> Sending a Sequence Over the Network</td>
+      <td>DP</td>
+      <td>DP</td>
+      <td align="center"><a href="../Algorithm/2026/10/23/Codeforces_Sending_a_Sequence_Over_the_Network/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-10-22</td>
       <td align="center" nowrap="nowrap">609E</td>
       <td align="center" nowrap="nowrap">Codeforces</td>

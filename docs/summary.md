@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-23 | 1600 [Sending a Sequence Over the Network](https://codeforces.com/problemset/problem/1741/E)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **상태 전이:** i 위치에서 왼쪽과 오른쪽 도달 가능 여부를 판단한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/23/Codeforces_Sending_a_Sequence_Over_the_Network/)
+
+---
+
 ### 🚀 2026-10-22 | 2100 [Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E)
 
 > 플랫폼: Codeforces <br>
