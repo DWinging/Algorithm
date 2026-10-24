@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-10-24</td>
+      <td align="center" nowrap="nowrap">1851E</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1851/E">1500</a> Nastya and Potions</td>
+      <td>그리디, 그래프, DP, 위상 정렬</td>
+      <td>위상 정렬, DP</td>
+      <td align="center"><a href="../Algorithm/2026/10/24/Codeforces_Nastya_and_Potions/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-10-23</td>
       <td align="center" nowrap="nowrap">1741E</td>
       <td align="center" nowrap="nowrap">Codeforces</td>

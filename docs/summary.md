@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-24 | 1500 [Nastya and Potions](https://codeforces.com/problemset/problem/1851/E)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디, 그래프, DP, 위상 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+* **물약 구매 비용:** 각 물약 구매 비용을 최소로하는 방법을 구한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/24/Codeforces_Nastya_and_Potions/)
+
+---
+
 ### 🚀 2026-10-23 | 1600 [Sending a Sequence Over the Network](https://codeforces.com/problemset/problem/1741/E)
 
 > 플랫폼: Codeforces <br>
