@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-25 | 1600 [Gardener and Tree](https://codeforces.com/problemset/problem/1593/E)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그래프, 자료 구조, 트리
+
+**💡 풀이 핵심(Core Logic):**
+
+* **리프 노드 삭제:** 리프 노드의 조건을 파악하는 것이 핵심이다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/25/Codeforces_Gardener_and_Tree/)
+
+---
+
 ### 🚀 2026-10-24 | 1500 [Nastya and Potions](https://codeforces.com/problemset/problem/1851/E)
 
 > 플랫폼: Codeforces <br>

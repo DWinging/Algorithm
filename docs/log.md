@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-10-25</td>
+      <td align="center" nowrap="nowrap">1593E</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1593/E">1600</a> Gardener and Tree</td>
+      <td>그래프, 자료 구조, 트리</td>
+      <td>위상 정렬, BFS, 트리</td>
+      <td align="center"><a href="../Algorithm/2026/10/25/Codeforces_Gardener_and_Tree/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-10-24</td>
       <td align="center" nowrap="nowrap">1851E</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
