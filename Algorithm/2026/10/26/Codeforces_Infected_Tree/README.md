@@ -47,7 +47,7 @@
 
 ### 📂 소스 코드
 
-[Solution.java](./Solution.java)
+[Solution.kt](./Solution.kt)
 
 ---
 
