@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-10-26</td>
+      <td align="center" nowrap="nowrap">1689C</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1689/C">1600</a> Infected Tree</td>
+      <td>트리, DP</td>
+      <td>트리에서의 DP</td>
+      <td align="center"><a href="../Algorithm/2026/10/26/Codeforces_Infected_Tree/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-10-25</td>
       <td align="center" nowrap="nowrap">1593E</td>
       <td align="center" nowrap="nowrap">Codeforces</td>

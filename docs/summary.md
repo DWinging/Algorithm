@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-26 | 1600 [Infected Tree](https://codeforces.com/problemset/problem/1689/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 트리, DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **특정 노드 삭제 여부:** 노드를 삭제하는 경우와 유지하는 경우 판별
+
+**🔗 기록:** [github](../Algorithm/2026/10/26/Codeforces_Infected_Tree/)
+
+---
+
 ### 🚀 2026-10-25 | 1600 [Gardener and Tree](https://codeforces.com/problemset/problem/1593/E)
 
 > 플랫폼: Codeforces <br>
