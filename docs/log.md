@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-10-27</td>
+      <td align="center" nowrap="nowrap">1833E</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1833/E">1600</a> Round Dance</td>
+      <td>DSU</td>
+      <td>Union-Find</td>
+      <td align="center"><a href="../Algorithm/2026/10/27/Codeforces_Round_Dance/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-10-26</td>
       <td align="center" nowrap="nowrap">1689C</td>
       <td align="center" nowrap="nowrap">Codeforces</td>

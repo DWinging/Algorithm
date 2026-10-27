@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-27 | 1600 [Round Dance](https://codeforces.com/problemset/problem/1833/E)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: DSU
+
+**💡 풀이 핵심(Core Logic):**
+
+* **그룹의 개수:** 원이 완성 되었는지 여부를 판별한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/27/Codeforces_Round_Dance/)
+
+---
+
 ### 🚀 2026-10-26 | 1600 [Infected Tree](https://codeforces.com/problemset/problem/1689/C)
 
 > 플랫폼: Codeforces <br>
