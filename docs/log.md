@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-10-28</td>
+      <td align="center" nowrap="nowrap">1872F</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1872/F">1800</a> Selling a Menagerie</td>
+      <td>정렬, DSU, 그래프</td>
+      <td>정렬, Union-Find, 위상정렬</td>
+      <td align="center"><a href="../Algorithm/2026/10/28/Codeforces_Selling_a_Menagerie/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-10-27</td>
       <td align="center" nowrap="nowrap">1833E</td>
       <td align="center" nowrap="nowrap">Codeforces</td>

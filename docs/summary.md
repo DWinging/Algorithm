@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-28 | 1800 [Selling a Menagerie](https://codeforces.com/problemset/problem/1872/F)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 정렬, DSU, 그래프
+
+**💡 풀이 핵심(Core Logic):**
+
+* **싸이클 판단:** 싸이클이 생겼을때 어떤 값을 우선으로 선택할지 판단하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/10/28/Codeforces_Selling_a_Menagerie/)
+
+---
+
 ### 🚀 2026-10-27 | 1600 [Round Dance](https://codeforces.com/problemset/problem/1833/E)
 
 > 플랫폼: Codeforces <br>
