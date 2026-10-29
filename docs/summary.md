@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-29 | 1600 [Working out](https://codeforces.com/problemset/problem/429/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **교차점:** 남성과 여성은 한 점에서만 교차해야한다.
+
+**🔗 기록:** [github](../Algorithm/2026/10/29/Codeforces_Working_out/)
+
+---
+
 ### 🚀 2026-10-28 | 1800 [Selling a Menagerie](https://codeforces.com/problemset/problem/1872/F)
 
 > 플랫폼: Codeforces <br>
