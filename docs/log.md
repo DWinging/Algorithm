@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-10-30</td>
+      <td align="center" nowrap="nowrap">219D</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/219/D">1700</a> Choosing Capital for Treeland</td>
+      <td>트리, DP</td>
+      <td>트리에서의 DP</td>
+      <td align="center"><a href="../Algorithm/2026/10/30/Codeforces_Choosing_Capital_for_Treeland/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-10-29</td>
       <td align="center" nowrap="nowrap">429B</td>
       <td align="center" nowrap="nowrap">Codeforces</td>

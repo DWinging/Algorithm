@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-30 | 1700 [Choosing Capital for Treeland](https://codeforces.com/problemset/problem/219/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 트리, DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **도로의 방향:** 각 지점에서 도로의 방향을 바꾸는 경우의 수 구하기
+
+**🔗 기록:** [github](../Algorithm/2026/10/30/Codeforces_Choosing_Capital_for_Treeland/)
+
+---
+
 ### 🚀 2026-10-29 | 1600 [Working out](https://codeforces.com/problemset/problem/429/B)
 
 > 플랫폼: Codeforces <br>
