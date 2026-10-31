@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-10-31</td>
+      <td align="center" nowrap="nowrap">1324F</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1324/F">1800</a> Maximum White Subtree</td>
+      <td>트리, DP</td>
+      <td>트리에서의 DP</td>
+      <td align="center"><a href="../Algorithm/2026/10/31/Codeforces_Maximum_White_Subtree/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-10-30</td>
       <td align="center" nowrap="nowrap">219D</td>
       <td align="center" nowrap="nowrap">Codeforces</td>

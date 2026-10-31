@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-10-31 | 1800 [Maximum White Subtree](https://codeforces.com/problemset/problem/1324/F)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 트리, DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **서브트리:** 부모의 결과 반영 여부를 판단하여 최적값 갱신
+
+**🔗 기록:** [github](../Algorithm/2026/10/31/Codeforces_Maximum_White_Subtree/)
+
+---
+
 ### 🚀 2026-10-30 | 1700 [Choosing Capital for Treeland](https://codeforces.com/problemset/problem/219/D)
 
 > 플랫폼: Codeforces <br>
