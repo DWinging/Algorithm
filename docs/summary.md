@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-01 | 1900 [Tree with Maximum Cost](https://codeforces.com/problemset/problem/1092/F)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 트리, DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **거리 차이:** 거리가 늘어났을때 가중치의 변화를 체크한다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/01/Codeforces_Tree_with_Maximum_Cost/)
+
+---
+
 ### 🚀 2026-10-31 | 1800 [Maximum White Subtree](https://codeforces.com/problemset/problem/1324/F)
 
 > 플랫폼: Codeforces <br>

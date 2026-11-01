@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-01</td>
+      <td align="center" nowrap="nowrap">1092F</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1092/F">1900</a> Tree with Maximum Cost</td>
+      <td>트리, DP</td>
+      <td>트리에서의 DP</td>
+      <td align="center"><a href="../Algorithm/2026/11/01/Codeforces_Tree_with_Maximum_Cost/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-10-31</td>
       <td align="center" nowrap="nowrap">1324F</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
