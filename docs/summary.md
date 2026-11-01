@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-02 | 1500 [Air Conditioner](https://codeforces.com/problemset/problem/1304/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디, 두 포인터, 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+* **교집합:** 설정 가능한 온도의 교집합을 구한다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/02/Codeforces_Air_Conditioner/)
+
+---
+
 ### 🚀 2026-11-01 | 1900 [Tree with Maximum Cost](https://codeforces.com/problemset/problem/1092/F)
 
 > 플랫폼: Codeforces <br>

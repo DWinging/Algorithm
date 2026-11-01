@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-02</td>
+      <td align="center" nowrap="nowrap">1304C</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1304/C">1500</a> Air Conditioner</td>
+      <td>그리디, 두 포인터, 정렬</td>
+      <td>그리디, 두 포인터</td>
+      <td align="center"><a href="../Algorithm/2026/11/02/Codeforces_Air_Conditioner/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-01</td>
       <td align="center" nowrap="nowrap">1092F</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
