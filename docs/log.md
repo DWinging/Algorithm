@@ -221,7 +221,7 @@
       <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/468375">Lv3</a> 발전소 회로 복구</td>
       <td>백트래킹, DP, BFS, 비트마스킹</td>
       <td>백트래킹, DP, BFS, 비트마스킹</td>
-      <td align="center"><a href="../2026/10/13/프로그래머스_발전소_회로_복구/">github</a></td>
+      <td align="center"><a href="../Algorithm/2026/10/13/프로그래머스_발전소_회로_복구/">github</a></td>
       <td align="center">-</td>
     </tr>
     <tr>
