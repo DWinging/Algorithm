@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-03 | 1900 [Magic Ship](https://codeforces.com/problemset/problem/1117/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 이분 탐색, 누적 합, 수학
+
+**💡 풀이 핵심(Core Logic):**
+
+* **이동량:** 총 이동량을 구하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/11/03/Codeforces_Magic_Ship/)
+
+---
+
 ### 🚀 2026-11-02 | 1500 [Air Conditioner](https://codeforces.com/problemset/problem/1304/C)
 
 > 플랫폼: Codeforces <br>

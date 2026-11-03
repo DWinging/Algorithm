@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-03</td>
+      <td align="center" nowrap="nowrap">1117C</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1117/C">1900</a> Magic Ship</td>
+      <td>이분 탐색, 누적 합, 수학</td>
+      <td>주기성, 파라매트릭 서치</td>
+      <td align="center"><a href="../Algorithm/2026/11/03/Codeforces_Magic_Ship/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-02</td>
       <td align="center" nowrap="nowrap">1304C</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
