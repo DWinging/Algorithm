@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-04 | 1800 [Petya and Array](https://codeforces.com/problemset/problem/1042/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 분할 정복, 누적 합, 두 포인터, 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+* **분할 정복:** 구간을 나누어 계산한다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/04/Codeforces_Petya_and_Array/)
+
+---
+
 ### 🚀 2026-11-03 | 1900 [Magic Ship](https://codeforces.com/problemset/problem/1117/C)
 
 > 플랫폼: Codeforces <br>

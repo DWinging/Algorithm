@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-04</td>
+      <td align="center" nowrap="nowrap">1042D</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1042/D">1800</a> Petya and Array</td>
+      <td>분할 정복, 누적 합, 두 포인터, 정렬</td>
+      <td>분할 정복, 누적 합, 두 포인터, 병합 정렬</td>
+      <td align="center"><a href="../Algorithm/2026/11/04/Codeforces_Petya_and_Array/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-03</td>
       <td align="center" nowrap="nowrap">1117C</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
