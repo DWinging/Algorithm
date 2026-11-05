@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-05 | 1900 [Salary Changing](https://codeforces.com/problemset/problem/1251/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그리디, 정렬, 이분 탐색
+
+**💡 풀이 핵심(Core Logic):**
+
+* **급여 지급:** 중앙값에 맞춰 급여를 지급 가능한지 판단
+
+**🔗 기록:** [github](../Algorithm/2026/11/05/Codeforces_Salary_Changing/)
+
+---
+
 ### 🚀 2026-11-04 | 1800 [Petya and Array](https://codeforces.com/problemset/problem/1042/D)
 
 > 플랫폼: Codeforces <br>

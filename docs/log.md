@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-05</td>
+      <td align="center" nowrap="nowrap">1251D</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1251/D">1900</a> Salary Changing</td>
+      <td>그리디, 정렬, 이분 탐색</td>
+      <td>파라매트릭 서치, 그리디, 정렬</td>
+      <td align="center"><a href="../Algorithm/2026/11/05/Codeforces_Salary_Changing/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-04</td>
       <td align="center" nowrap="nowrap">1042D</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
