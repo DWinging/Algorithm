@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-07 | 1900 [Yura and Deadlines](https://codeforces.com/problemset/problem/2244/G)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **선택한 과제의 영향 범위:** 선택한 과제의 영향 범위가 종료되는 시점에 DP값을 활성화
+
+**🔗 기록:** [github](../Algorithm/2026/11/07/Codeforces_Yura_and_Deadlines/)
+
+---
+
 ### 🚀 2026-11-06 | 1700 [Solve The Maze](https://codeforces.com/problemset/problem/1365/D)
 
 > 플랫폼: Codeforces <br>

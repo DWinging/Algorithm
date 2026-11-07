@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-07</td>
+      <td align="center" nowrap="nowrap">2244G</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/2244/G">1900</a> Yura and Deadlines</td>
+      <td>DP</td>
+      <td>DP, 펜윅트리</td>
+      <td align="center"><a href="../Algorithm/2026/11/07/Codeforces_Yura_and_Deadlines/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-06</td>
       <td align="center" nowrap="nowrap">1365D</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
