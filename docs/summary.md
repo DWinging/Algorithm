@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-08 | 1700 [Igor In the Museum](https://codeforces.com/problemset/problem/598/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그래프 탐색, BFS, DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **마주치는 벽:** 그림의 개수를 세는 문제
+
+**🔗 기록:** [github](../Algorithm/2026/11/08/Codeforces_Igor_In_the_Museum/)
+
+---
+
 ### 🚀 2026-11-07 | 1900 [Yura and Deadlines](https://codeforces.com/problemset/problem/2244/G)
 
 > 플랫폼: Codeforces <br>
