@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-09 | 1800 [Labyrinth](https://codeforces.com/problemset/problem/1063/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 0-1BFS, 그래프 탐색
+
+**💡 풀이 핵심(Core Logic):**
+
+* **이동 가중치:** 상하는 제한이 없고, 좌우만 이동 제한이 있다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/09/Codeforces_Labyrinth/)
+
+---
+
 ### 🚀 2026-11-08 | 1700 [Igor In the Museum](https://codeforces.com/problemset/problem/598/D)
 
 > 플랫폼: Codeforces <br>

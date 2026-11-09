@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-09</td>
+      <td align="center" nowrap="nowrap">1063B</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1063/B">1800</a> Labyrinth</td>
+      <td>0-1BFS, 그래프 탐색</td>
+      <td>0-1BFS</td>
+      <td align="center"><a href="../Algorithm/2026/11/09/Codeforces_Labyrinth/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-08</td>
       <td align="center" nowrap="nowrap">598D</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
