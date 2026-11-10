@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-10 | 1700 [Drunken Maze](https://codeforces.com/problemset/problem/2041/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그래프 탐색, BFS
+
+**💡 풀이 핵심(Core Logic):**
+
+* **이동 횟수 제한:** 횟수 제한을 관리하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/11/10/Codeforces_Drunken_Maze/)
+
+---
+
 ### 🚀 2026-11-09 | 1800 [Labyrinth](https://codeforces.com/problemset/problem/1063/B)
 
 > 플랫폼: Codeforces <br>
