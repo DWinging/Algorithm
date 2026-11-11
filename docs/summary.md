@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-11 | 1700 [Phillip and Trains](https://codeforces.com/problemset/problem/585/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: BFS, 그래프 탐색
+
+**💡 풀이 핵심(Core Logic):**
+
+* **이동:** 사람과 기차 모두 이동할 떄 이동 순서가 중요하다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/11/Codeforces_Phillip_and_Trains/)
+
+---
+
 ### 🚀 2026-11-10 | 1700 [Drunken Maze](https://codeforces.com/problemset/problem/2041/D)
 
 > 플랫폼: Codeforces <br>
