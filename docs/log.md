@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-14</td>
+      <td align="center" nowrap="nowrap">1611E1</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1611/E1">1700</a> Escape The Maze (easy version)</td>
+      <td>BFS, 트리</td>
+      <td>트리, 멀티 소스 BFS</td>
+      <td align="center"><a href="../Algorithm/2026/11/14/Codeforces_Escape_The_Maze_easy_version/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-11</td>
       <td align="center" nowrap="nowrap">585B</td>
       <td align="center" nowrap="nowrap">Codeforces</td>

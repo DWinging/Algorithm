@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-14 | 1700 [Escape The Maze (easy version)](https://codeforces.com/problemset/problem/1611/E1)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: BFS, 트리
+
+**💡 풀이 핵심(Core Logic):**
+
+* **멀티 소스:** 모든 사용자가 동시에 이동을 시작한다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/14/Codeforces_Escape_The_Maze_easy_version/)
+
+---
+
 ### 🚀 2026-11-11 | 1700 [Phillip and Trains](https://codeforces.com/problemset/problem/585/B)
 
 > 플랫폼: Codeforces <br>
