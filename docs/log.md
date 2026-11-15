@@ -35,6 +35,16 @@
       <td align="center">-</td>
     </tr>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-13</td>
+      <td align="center" nowrap="nowrap">1320B</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1320/B">1700</a> Navigation System</td>
+      <td>BFS, 그래프 탐색</td>
+      <td>BFS</td>
+      <td align="center"><a href="../Algorithm/2026/11/13/Codeforces_Navigation_System/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-11</td>
       <td align="center" nowrap="nowrap">585B</td>
       <td align="center" nowrap="nowrap">Codeforces</td>

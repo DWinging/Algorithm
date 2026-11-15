@@ -26,6 +26,19 @@
 
 ---
 
+### 🚀 2026-11-13 | 1700 [Navigation System](https://codeforces.com/problemset/problem/1320/B)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: BFS, 그래프 탐색
+
+**💡 풀이 핵심(Core Logic):**
+
+* **최단 경로:** 모든 교차점에서 마지막 교차점까지의 거리를 활용한다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/13/Codeforces_Navigation_System/)
+
+---
+
 ### 🚀 2026-11-11 | 1700 [Phillip and Trains](https://codeforces.com/problemset/problem/585/B)
 
 > 플랫폼: Codeforces <br>
