@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-15 | 1600 [The Two Routes](https://codeforces.com/problemset/problem/601/A)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: BFS, 최단 거리
+
+**💡 풀이 핵심(Core Logic):**
+
+* **문제 해석:** 두 도시를 연결하는 직통 기차길이 있으면, 직통하는 도로가 없다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/15/Codeforces_The_Two_Routes/)
+
+---
+
 ### 🚀 2026-11-14 | 1700 [Escape The Maze (easy version)](https://codeforces.com/problemset/problem/1611/E1)
 
 > 플랫폼: Codeforces <br>

@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-15</td>
+      <td align="center" nowrap="nowrap">601A</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/601/A">1600</a> The Two Routes</td>
+      <td>BFS, 최단 거리</td>
+      <td>BFS, 문제 해석</td>
+      <td align="center"><a href="../Algorithm/2026/11/15/Codeforces_The_Two_Routes/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-14</td>
       <td align="center" nowrap="nowrap">1611E1</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
