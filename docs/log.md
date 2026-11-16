@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-16</td>
+      <td align="center" nowrap="nowrap">1027D</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1027/D">1700</a> Mouse Hunt</td>
+      <td>그래프 탐색, DSU</td>
+      <td>사이클 판별</td>
+      <td align="center"><a href="../Algorithm/2026/11/16/Codeforces_Mouse_Hunt/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-15</td>
       <td align="center" nowrap="nowrap">601A</td>
       <td align="center" nowrap="nowrap">Codeforces</td>

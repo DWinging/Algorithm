@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-16 | 1700 [Mouse Hunt](https://codeforces.com/problemset/problem/1027/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 그래프 탐색, DSU
+
+**💡 풀이 핵심(Core Logic):**
+
+* **사이클 판별:** 쥐를 반드시 잡을 수 있는 사이클을 찾는다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/16/Codeforces_Mouse_Hunt/)
+
+---
+
 ### 🚀 2026-11-15 | 1600 [The Two Routes](https://codeforces.com/problemset/problem/601/A)
 
 > 플랫폼: Codeforces <br>
