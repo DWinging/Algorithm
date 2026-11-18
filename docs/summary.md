@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-18 | 1700 [Valid BFS?](https://codeforces.com/problemset/problem/1037/D)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 트리, BFS
+
+**💡 풀이 핵심(Core Logic):**
+
+* **BFS 순서 검증:** 트리 구성, BFS 탐색 순서를 검증한다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/18/Codeforces_Valid_BFS/)
+
+---
+
 ### 🚀 2026-11-17 | 1600 [Hard Process](https://codeforces.com/problemset/problem/660/C)
 
 > 플랫폼: Codeforces <br>

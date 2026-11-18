@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-18</td>
+      <td align="center" nowrap="nowrap">1037D</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/1037/D">1700</a> Valid BFS?</td>
+      <td>트리, BFS</td>
+      <td>BFS 탐색 순서 검증, 부모-자식 관계</td>
+      <td align="center"><a href="../Algorithm/2026/11/18/Codeforces_Valid_BFS/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-17</td>
       <td align="center" nowrap="nowrap">660C</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
