@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-17 | 1600 [Hard Process](https://codeforces.com/problemset/problem/660/C)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 두 포인터
+
+**💡 풀이 핵심(Core Logic):**
+
+* **변경 위치 기록:** 0에서 1을 바꾸는 위치를 관리한다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/18/Codeforces_Hard_Process/)
+
+---
+
 ### 🚀 2026-11-16 | 1700 [Mouse Hunt](https://codeforces.com/problemset/problem/1027/D)
 
 > 플랫폼: Codeforces <br>

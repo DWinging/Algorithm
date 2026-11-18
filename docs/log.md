@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-17</td>
+      <td align="center" nowrap="nowrap">660C</td>
+      <td align="center" nowrap="nowrap">Codeforces</td>
+      <td><a href="https://codeforces.com/problemset/problem/660/C">1600</a> Hard Process</td>
+      <td>두 포인터</td>
+      <td>두 포인터</td>
+      <td align="center"><a href="../Algorithm/2026/11/18/Codeforces_Hard_Process/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-16</td>
       <td align="center" nowrap="nowrap">1027D</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
