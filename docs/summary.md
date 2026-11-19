@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-19 | 1800 [ATM and Students](https://codeforces.com/problemset/problem/1611/F)
+
+> 플랫폼: Codeforces <br>
+> 알고리즘: 두 포인터
+
+**💡 풀이 핵심(Core Logic):**
+
+* **양수 구간:** 양수 값이 유지되는 구간 구하기
+
+**🔗 기록:** [github](../Algorithm/2026/11/19/Codeforces_ATM_and_Students/)
+
+---
+
 ### 🚀 2026-11-18 | 1700 [Valid BFS?](https://codeforces.com/problemset/problem/1037/D)
 
 > 플랫폼: Codeforces <br>
