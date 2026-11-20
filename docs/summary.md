@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-20 | Gold 3 [시루의 백화점 구경](https://acmicpc.net/problem/25307)
+
+> 플랫폼: BaekJoon <br>
+> 알고리즘: BFS, 그래프 탐색, 최단 거리
+
+**💡 풀이 핵심(Core Logic):**
+
+* **마네킹 위치:** 마네킹 위치를 파악하는 것이 핵심
+
+**🔗 기록:** [github](../Algorithm/2026/11/20/BaekJoon_시루의_백화점_구경/)
+
+---
+
 ### 🚀 2026-11-19 | 1800 [ATM and Students](https://codeforces.com/problemset/problem/1611/F)
 
 > 플랫폼: Codeforces <br>

@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-20</td>
+      <td align="center" nowrap="nowrap">25307</td>
+      <td align="center" nowrap="nowrap">BaekJoon</td>
+      <td><a href="https://acmicpc.net/problem/25307">확인 불가</a> 시루의 백화점 구경</td>
+      <td>BFS, 그래프 탐색, 최단 거리</td>
+      <td>BFS, 최단거리</td>
+      <td align="center"><a href="../Algorithm/2026/11/20/BaekJoon_시루의_백화점_구경/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-19</td>
       <td align="center" nowrap="nowrap">1611F</td>
       <td align="center" nowrap="nowrap">Codeforces</td>
