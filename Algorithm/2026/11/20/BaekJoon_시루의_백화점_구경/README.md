@@ -1,4 +1,4 @@
-### BaekJoon 골드 3 [시루의 백화점 구경](https://acmicpc.net/problem/25307) (Java)
+### BaekJoon Gold Ⅲ [시루의 백화점 구경](https://acmicpc.net/problem/25307) (Java)
 
 > **문제 번호:** 25307 <br>
 > **날짜:** 2026년 11월 20일 <br>

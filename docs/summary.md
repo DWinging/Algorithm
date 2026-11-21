@@ -1,6 +1,19 @@
 # 📅 Algorithm Solve Log
 
-### 🚀 2026-11-20 | Gold 3 [시루의 백화점 구경](https://acmicpc.net/problem/25307)
+### 🚀 2026-11-21 | Platinum Ⅴ [중앙 트리](https://acmicpc.net/problem/7812)
+
+> 플랫폼: BaekJoon <br>
+> 알고리즘: 트리, 트리에서의 DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **간선 카운팅:** 특정 간선을 몇 번 사용하는지 체크
+
+**🔗 기록:** [github](../Algorithm/2026/11/21/BaekJoon_중앙_트리/)
+
+---
+
+### 🚀 2026-11-20 | Gold Ⅲ [시루의 백화점 구경](https://acmicpc.net/problem/25307)
 
 > 플랫폼: BaekJoon <br>
 > 알고리즘: BFS, 그래프 탐색, 최단 거리

@@ -15,10 +15,20 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-21</td>
+      <td align="center" nowrap="nowrap">7812</td>
+      <td align="center" nowrap="nowrap">BaekJoon</td>
+      <td><a href="https://acmicpc.net/problem/7812">Platinum Ⅴ</a> 중앙 트리</td>
+      <td>트리, 트리에서의 DP</td>
+      <td>트리에서의 DP</td>
+      <td align="center"><a href="../Algorithm/2026/11/21/BaekJoon_중앙_트리/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-20</td>
       <td align="center" nowrap="nowrap">25307</td>
       <td align="center" nowrap="nowrap">BaekJoon</td>
-      <td><a href="https://acmicpc.net/problem/25307">확인 불가</a> 시루의 백화점 구경</td>
+      <td><a href="https://acmicpc.net/problem/25307">Gold Ⅲ</a> 시루의 백화점 구경</td>
       <td>BFS, 그래프 탐색, 최단 거리</td>
       <td>BFS, 최단거리</td>
       <td align="center"><a href="../Algorithm/2026/11/20/BaekJoon_시루의_백화점_구경/">github</a></td>
