@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-22 | Gold Ⅱ [뉴스 전하기](https://acmicpc.net/problem/1135)
+
+> 플랫폼: BaekJoon <br>
+> 알고리즘: 트리, 트리에서의 DP, 정렬, 그리디
+
+**💡 풀이 핵심(Core Logic):**
+
+* **서브 트리 노드 수:** 가장 오래 걸리는 사원에게 먼저 전파한다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/22/BaekJoon_뉴스_전하기/)
+
+---
+
 ### 🚀 2026-11-21 | Platinum Ⅴ [중앙 트리](https://acmicpc.net/problem/7812)
 
 > 플랫폼: BaekJoon <br>

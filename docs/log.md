@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-22</td>
+      <td align="center" nowrap="nowrap">1135</td>
+      <td align="center" nowrap="nowrap">BaekJoon</td>
+      <td><a href="https://acmicpc.net/problem/1135">Gold Ⅱ</a> 뉴스 전하기</td>
+      <td>트리, 트리에서의 DP, 정렬, 그리디</td>
+      <td>트리, 정렬, 그리디</td>
+      <td align="center"><a href="../Algorithm/2026/11/22/BaekJoon_뉴스_전하기/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-21</td>
       <td align="center" nowrap="nowrap">7812</td>
       <td align="center" nowrap="nowrap">BaekJoon</td>
