@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-23</td>
+      <td align="center" nowrap="nowrap">15647</td>
+      <td align="center" nowrap="nowrap">BaekJoon</td>
+      <td><a href="https://www.acmicpc.net/problem/15647">Platinum Ⅴ</a> 로스팅하는 엠마도 바리스타입니다</td>
+      <td>트리, 트리에서의 DP</td>
+      <td>트리에서의 DP</td>
+      <td align="center"><a href="../Algorithm/2026/11/23/BaekJoon_로스팅하는_엠마도_바리스타입니다/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-22</td>
       <td align="center" nowrap="nowrap">1135</td>
       <td align="center" nowrap="nowrap">BaekJoon</td>

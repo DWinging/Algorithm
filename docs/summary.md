@@ -1,5 +1,19 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-23 | Platinum Ⅴ [로스팅하는 엠마도 바리스타입니다](https://www.acmicpc.net/problem/15647)
+
+> 플랫폼: BaekJoon <br>
+> 알고리즘: 트리, 트리에서의 DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **간선 카운팅**: 특정 간선을 몇번 사용하는지 확인한다.
+* **메모리 사용량**: 메모리 초과에 유의한다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/23/BaekJoon_로스팅하는_엠마도_바리스타입니다/)
+
+---
+
 ### 🚀 2026-11-22 | Gold Ⅱ [뉴스 전하기](https://acmicpc.net/problem/1135)
 
 > 플랫폼: BaekJoon <br>
