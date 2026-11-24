@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-24 | Platinum Ⅴ [내 왼손에는 흑염룡이 잠들어 있다](https://www.acmicpc.net/problem/13016)
+
+> 플랫폼: BaekJoon <br>
+> 알고리즘: 트리, 트리에서의 DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **경로 배제:** 자식에게 전달하는 경로가 중복되지 않도록 한다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/24/BaekJoon_내_왼손에는_흑염룡이_잠들어_있다/)
+
+---
+
 ### 🚀 2026-11-23 | Platinum Ⅴ [로스팅하는 엠마도 바리스타입니다](https://www.acmicpc.net/problem/15647)
 
 > 플랫폼: BaekJoon <br>
