@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-25 | Platinum Ⅴ [사탕나무](https://www.acmicpc.net/problem/23089)
+
+> 플랫폼: BaekJoon <br>
+> 알고리즘: 트리, 트리에서의 DP
+
+**💡 풀이 핵심(Core Logic):**
+
+* **점화식:** 거리별 개수를 누적하는 것이 핵심이다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/25/BaekJoon_사탕나무/)
+
+---
+
 ### 🚀 2026-11-24 | Platinum Ⅴ [내 왼손에는 흑염룡이 잠들어 있다](https://www.acmicpc.net/problem/13016)
 
 > 플랫폼: BaekJoon <br>
