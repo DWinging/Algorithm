@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-26 | Gold Ⅱ [숫자구슬](https://www.acmicpc.net/problem/2613)
+
+> 플랫폼: BaekJoon <br>
+> 알고리즘: 이분 탐색
+
+**💡 풀이 핵심(Core Logic):**
+
+* **최대 합:** 그룹이 만들 수 있는 최대 합의 범위를 찾는다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/26/BaekJoon_숫자구슬/)
+
+---
+
 ### 🚀 2026-11-25 | Platinum Ⅴ [사탕나무](https://www.acmicpc.net/problem/23089)
 
 > 플랫폼: BaekJoon <br>
