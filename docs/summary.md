@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-27 | Gold Ⅱ [전시장](https://www.acmicpc.net/problem/2515)
+
+> 플랫폼: BaekJoon <br>
+> 알고리즘: DP, 이분 탐색, 정렬
+
+**💡 풀이 핵심(Core Logic):**
+
+* **선택, 비선택:** 해당 그림을 보여줄지 여부를 판단한다.
+
+**🔗 기록:** [github](../Algorithm/2026/11/27/BaekJoon_전시장/)
+
+---
+
 ### 🚀 2026-11-26 | Gold Ⅱ [숫자구슬](https://www.acmicpc.net/problem/2613)
 
 > 플랫폼: BaekJoon <br>

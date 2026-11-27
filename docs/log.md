@@ -15,6 +15,16 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center" nowrap="nowrap">26-11-27</td>
+      <td align="center" nowrap="nowrap">2515</td>
+      <td align="center" nowrap="nowrap">BaekJoon</td>
+      <td><a href="https://www.acmicpc.net/problem/2515">Gold Ⅱ</a> 전시장</td>
+      <td>DP, 이분 탐색, 정렬</td>
+      <td>DP, UpperBound, 정렬</td>
+      <td align="center"><a href="../Algorithm/2026/11/27/BaekJoon_전시장/">github</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
       <td align="center" nowrap="nowrap">26-11-26</td>
       <td align="center" nowrap="nowrap">2613</td>
       <td align="center" nowrap="nowrap">BaekJoon</td>
