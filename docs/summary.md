@@ -1,5 +1,18 @@
 # 📅 Algorithm Solve Log
 
+### 🚀 2026-11-28 | Gold Ⅱ [도토리 숨기기](https://www.acmicpc.net/problem/15732)
+
+> 플랫폼: BaekJoon <br>
+> 알고리즘: 이분 탐색, 파라매트릭 서치
+
+**💡 풀이 핵심(Core Logic):**
+
+* **범위 지정:** 도토리를 숨길 수 있는 마지막 상자 위치 탐색
+
+**🔗 기록:** [github](../Algorithm/2026/11/28/BaekJoon_도토리_숨기기/)
+
+---
+
 ### 🚀 2026-11-27 | Gold Ⅱ [전시장](https://www.acmicpc.net/problem/2515)
 
 > 플랫폼: BaekJoon <br>
